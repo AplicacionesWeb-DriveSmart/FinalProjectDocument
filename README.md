@@ -8,7 +8,7 @@
 
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
 ### Ciclo: 5
-## CURSO: SI729 Desarrollo de Aplicaciones Open Source | SECCIÓN SW57
+## CURSO: SI730 Aplicaciones Web | SECCIÓN SW51
  Profesor: Velazquez Nuñez, Angel Augusto
  
 # Proyecto de curso
