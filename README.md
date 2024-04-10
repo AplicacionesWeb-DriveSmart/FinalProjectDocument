@@ -9,7 +9,7 @@
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
 ### Ciclo: 5
 ## CURSO: SI730 Aplicaciones Web | SECCIÓN SW51
- Profesor: Velazquez Nuñez, Angel Augusto
+ Profesor: Tinoco Licas, Juan Carlos
  
 # Proyecto de curso
 ## Informe del TF
