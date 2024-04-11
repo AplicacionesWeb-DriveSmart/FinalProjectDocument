@@ -36,7 +36,7 @@
 | 0.0 | 28/03/2024 |Grupo 1 |Se crea el documento |
 - - -
 # Project Report Collaboration Insights
-[URL del repositorio](https://github.com/LosLuminosos-SW57/FinalProject.git)
+[URL del repositorio](https://github.com/AplicacionesWeb-DriveSmart/FinalProjectDocument/blob/main/README.md)
 
 (Imagenes de los commits cada entrega)
 - - -
