@@ -814,6 +814,22 @@ Se presentan los siguientes user stories:
 Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a las automotrices, es por eso que lo representamos con una llave inglesa en el logo de nuestro producto. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
 </p>
 
+<strong>Typography:</strong><br>
+<p>
+En cuanto a la elección de la tipografía, se eligió la fuente “Montserrat”, puesto que no solo se quería que la fuente sea solo un estilo que intentara captar la atención del usuario, sino también era fundamental que sea legible y estéticamente agradable para el usuario. Con esta fuente, se logra lo deseado y se consigue brindar la información de manera clara dentro de la página.
+</p>
+
+<strong>Paleta de colores:</strong><br>
+<p>
+La paleta de colores elegida estuvo basada en los colores base del logo. A continuación se muestran los colores:
+</p>
+
+<strong>Colores neutros:</strong><br>
+<p>
+El único color neutro que se eligió fue el blanco
+</p>
+
+
 ### 4.1.2. Web Style Guidelines	
 ## 4.2. Information Architecture	
 ### 4.2.1. Organization Systems	
@@ -860,194 +876,11 @@ Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el
 ### 4.6.1. Software Architecture Context Diagram	
 ### 4.6.2. Software Architecture Container Diagrams	
 ### 4.6.3. Software Architecture Components Diagrams	
-## 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
-
-<div align="center">
-  <img src="images/Diagrama de clase.png" alt="KeyComponentes" width="100%">
-</div>
-
-### 4.7.2. Class Dictionary.
-
-Class Administrator
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for administrator</td>
-  </tr>
-  <tr>
-    <td>firstname</td>
-    <td>string</td>
-    <td>Name of the administrator</td>
-  </tr>
-  <tr>
-    <td>lastname</td>
-    <td>string</td>
-    <td>Last name of the administrator</td>
-  </tr>
-  <tr>
-    <td>password</td>
-    <td>string</td>
-    <td>Password of the administrator account</td>
-  </tr>
-  <tr>
-    <td>ruc</td>
-    <td>int</td>
-    <td>Ruc of the company of the administrator</td>
-  </tr>
-</table>
-
-Class Client
-
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for client</td>
-  </tr>
-  <tr>
-    <td>firstname</td>
-    <td>string</td>
-    <td>Name of the client</td>
-  </tr>
-  <tr>
-    <td>lastname</td>
-    <td>string</td>
-    <td>Last name of the client</td>
-  </tr>
-  <tr>
-    <td>password</td>
-    <td>string</td>
-    <td>Password of the client account</td>
-  </tr>
-  <tr>
-    <td>email</td>
-    <td>string</td>
-    <td>Email associated to client account</td>
-  </tr>
-</table>
-
-Class Vehicle
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for vehicle</td>
-  </tr>
-  <tr>
-    <td>brand</td>
-    <td>string</td>
-    <td>Brand of the vehicle</td>
-  </tr>
-  <tr>
-    <td>model</td>
-    <td>string</td>
-    <td>Model of the vehicle</td>
-  </tr>
-  <tr>
-    <td>date</td>
-    <td>int</td>
-    <td>Date of the vehicle</td>
-  </tr>
-  <tr>
-    <td>plate</td>
-    <td>string</td>
-    <td>Plate of the vehicle</td>
-  </tr>
-</table>
-
-Class Notification
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for Notification</td>
-  </tr>
-  <tr>
-    <td>message</td>
-    <td>string</td>
-    <td>Notification message content</td>
-  </tr>
-  <tr>
-    <td>date</td>
-    <td>date</td>
-    <td>Date of the notification</td>
-  </tr>
-</table>
-
-Class adminNotification
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>notification</td>
-    <td>Notification</td>
-    <td>Notification sent to the client</td>
-  </tr>
-  <tr>
-    <td>client</td>
-    <td>Client</td>
-    <td>Client who receives the notification</td>
-  </tr>
-</table>
-
-Class VehicleRegistration
-
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>listOfClients</td>
-    <td>list&lt;Client&gt;</td>
-    <td>List of the clients registered</td>
-  </tr>
-  <tr>
-    <td>administrator</td>
-    <td>Administrator</td>
-    <td>Administrator who controls the list of clients</td>
-  </tr>
-</table>
-
-## 4.8. Database Design.
-
-### 4.8.1. Database Diagram.
-
-<div align="center">
-  <img src="images/Diagrama de base de datos.png" alt="KeyComponentes" width="100%">
-</div>
+## 4.7. Software Object-Oriented Design	
+### 4.7.1. Class Diagrams	
+### 4.7.2. Class Dictionary	
+## 4.8. Database Design	
+### 4.8.1. Database Diagram	
 
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management	
