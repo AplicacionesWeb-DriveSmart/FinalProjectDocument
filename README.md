@@ -193,8 +193,8 @@ Logotipo del servicio:
   <img src="images/.jpg" alt="Integrantes" width="100%"></p></td>
   </tr>
   <tr>
-    <td><strong></strong></td>
-    <td>
+    <td><strong>Altamirano Saenz, Jorge Armando (U202215888)</strong></td>
+    <td>Me llamo Jorge Altamirano, tengo 19 años. Tengo conocimientos en programación en los lenguajes de C++, Python, Java y C# básico.  Me considero una persona responsable e investigadora y creo que puedo aportar con ideas propias al equipo.
 </td>
     <td><p align="center">
   <img src="images/.jpg" alt="Integrantes" width="100%"></p></td>
