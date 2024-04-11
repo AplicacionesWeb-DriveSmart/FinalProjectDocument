@@ -200,7 +200,7 @@ Logotipo del servicio:
   <img src="images/.jpg" alt="Integrantes" width="100%"></p></td>
   </tr>
   <tr>
-    <td><strong>Espinoza Saenz,Christian Renato(U202213208)</strong></td>
+    <td><strong></strong></td>
     <td></td>
     <td><p align="center">
   <img src="images/.jpg" alt="Integrantes" width="100%"></p></td>
@@ -459,11 +459,139 @@ Descripción:
 ### 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language.
 # Capítulo III: Requirements Specification.
+## 3.1 To-Be Scenario Mapping
+
+**Segmento Clientes de Automotrices:**
+
+**Segmento Técnicos/Administradores de Automotrices:**
+
+## 3.2 User Stories
+
+<table><tr><th valign="top"><b>Epic ID</b></th><th valign="top"><b>Epic</b></th><th valign="top"><b>User story ID</b></th><th valign="top"><b>User stories</b></th></tr>
+<tr><td rowspan="6" valign="top">E01</td><td rowspan="6" valign="top">"texto"</td><td valign="top">US01</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US02</td><td valign="top">"texto"</td></tr>
+<td valign="top">US03</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US04</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US05</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US06</td><td valign="top">"texto"</td></tr>
+<tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><b>"texto"</td><td valign="top">US07</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US08</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US09</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US10</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US11</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US12</td><td valign="top">"texto"</td></tr>
+<tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top">"texto"</td><td valign="top">US13</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US14</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US15</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US16</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US17</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US18</td><td valign="top">"texto"</td></tr>
+<tr><td rowspan="6" valign="top">E04</td><td rowspan="6" valign="top"><p>Como gerente del taller</p><p>Quiero poder crear una cuenta, modificar y eliminar los datos de los clientes</p><p>Para poder actualizar la información de nuestros clientes y agregar nuevos.</p><p></p>
+</td><td valign="top">US19</td><td valign="top">Registrar tecnico o administrador</td></tr>
+<tr><td valign="top">US20</td><td valign="top">Registrar nuevo cliente</td></tr>
+<tr><td valign="top">US21</td><td valign="top">Actualización de clientes</td></tr>
+<tr><td valign="top">US22</td><td valign="top">Eliminar cliente</td></tr>
+<tr><td valign="top">US23</td><td valign="top">Búsqueda de clientes</td></tr>
+<tr><td valign="top">US23</td><td valign="top">Creación y administración de informes</td></tr>
+<tr><td rowspan="6" valign="top">E05</td><td rowspan="6" valign="top">"texto"</td><td valign="top">US24</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US25</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US26</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US27</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US28</td><td valign="top">"texto"</td></tr>
+<tr><td valign="top">US29</td><td valign="top">"texto"</td></tr>
+</table>
+
+Se presentan los siguientes user stories: 
+
+|User Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
+| :-: | :-: | :-: | :-: | :-: |
+|US01|"texto"|"texto"|01|E01|
+|US01|"texto"|"texto"|01|E01|
+|US01|"texto"|"texto"|01|E01|
+|US01|"texto"|"texto"|01|E01|
+|US01|"texto"|"texto"|01|E01|
+|US01|"texto"|"texto"|01|E01|
+|US01|"texto"|"texto"|01|E01|
+|US08|"texto"|"texto"|01|E01|
+|US09|"texto"|"texto"|01|E01|
+|US10|"texto"|"texto"|01|E01|
+|US11|"texto"|"texto"|01|E01|
+|US12|"texto"|"texto"|01|E01|
+|US13|"texto"|"texto"|01|E01|
+|US14|"texto"|"texto"|01|E01|
+|US15|"texto"|"texto"|01|E01|
+|US16|"texto"|"texto"|01|E01|
+|US17|"texto"|"texto"|01|E01|
+|US18|"texto"|"texto"|01|E01|
+|US19|Registrar gerente del taller|Como gerente del taller quiero registrarme en la aplicación para gestionar la información de los clientes y utilizarla en futuras revisiones.|<p>**Escenario 1: Usuario se registra correctamente.** </p><p>- Dado que el gerente del taller necesita crear una cuenta en AutoPro Tracker.</p><p>- Cuando seleccione la opción de registro para una automotriz y haya ingresado la información de una empresa no registrada y una contraseña correcta.</p><p>- Entonces se notificará la correcta creación de la cuenta.</p><p>**Escenario 2: Usuario se registra erróneamente.**</p><p>- Dado que el gerente del taller necesita crear una cuenta en AutoPro Tracker.</p><p>- Cuando seleccione la opción de registro para automotriz y haya ingresado las credenciales de la empresa de manera incorrecta o una empresa ya registrada o contraseña incorrecta.</p><p>- Entonces la plataforma notificará el error en la creación de la cuenta.</p>|03|
+|US20|<p>Actualización de clientes</p><p></p>|Como gerente del taller quiero gestionar los datos de los clientes para mantenerlos actualizados y ordenados|<p>**Escenario 1: Usuario actualiza de manera correcta una nueva revisión técnica.**</p><p></p><p>- Dado que gerente del taller desea agregar una revisión técnica en el historial del cliente.</p><p></p><p>- Cuando seleccione el usuario que desea actualizar y seleccione la opción añadir e ingrese todos los datos requeridos de manera correcta.</p><p></p><p>- Entonces se actualizará la base de datos con la nueva información añadida.</p><p></p><p>**Escenario 2: Usuario actualiza de manera errónea una nueva revisión técnica.**</p><p></p><p>- Dado que gerente del taller desea agregar una revisión técnica en el historial del cliente.</p><p></p><p>- Cuando seleccione el usuario que desea actualizar y seleccione la opción añadir e ingrese todos los datos requeridos omitiendo algunos de ellos o brindando datos erróneos.</p><p></p><p>- Entonces se avisará los espacios que falta completar y los que falten corregir para añadir la información.</p>|03|
+|US21|Eliminar cliente|Como gerente del taller quiero poder eliminar algún cliente para no mantener seguimiento de algún cliente que haya abandonado la automotriz.|<p>**Escenario 1: Usuario elimina correctamente a cliente.**</p><p></p><p>- Dado que gerente del taller necesita eliminar un cliente que abandonó.</p><p></p><p>- Cuando seleccione la opción eliminar cliente y se encuentre la cuenta de dicho cliente y le de confirmar a la opción de eliminar.</p><p></p><p>- Entonces el cliente será borrado de la base de datos de la automotriz y se desvinculara todo tipo de notificaciones e historiales de esta misma.</p><p></p><p>**Escenario 2: Usuario no encuentra cuenta del cliente.**</p><p></p><p>- Dado que gerente del taller necesita eliminar un cliente que abandonó.</p><p></p><p>- Cuando seleccione la opción eliminar cliente y no encuentre la cuenta de dicho cliente.</p><p></p><p>- Entonces el usuario será notificado que no se encuentra un cliente con esa información, que verifique dicha información.</p>|03|
+|US22|Búsqueda de clientes|Como gerente del taller quiero poder buscar y visualizar fácilmente la información de las cuentas de los clientes en la aplicación para poder acceder rápidamente a los detalles relevantes cuando sea necesario.|<p>**Escenario 1: Búsqueda exitosa por nombre de cliente**</p><p>- Dado que el gerente del taller está en la página de búsqueda de cuentas de clientes en la aplicación.</p><p>- Cuando ingresa el nombre del cliente en el campo de búsqueda y presiono el botón de búsqueda.</p><p>- Entonces la aplicación muestra una lista de cuentas de clientes que coinciden con el nombre de dicho cliente.</p><p>- Y puede hacer clic en una cuenta específica para ver más detalles de esa cuenta.</p><p>**Escenario 2: Visualización de información de cuenta clara y organizada**</p><p>- Dado que el gerente del taller está viendo los detalles de una cuenta de cliente en la aplicación.</p><p>- Cuando la información se muestra en la pantalla.</p><p>- Entonces puede ver claramente el nombre, la dirección, el número de teléfono y el correo electrónico del cliente.</p><p>- Y la información está organizada en secciones fácilmente legibles, con etiquetas claras para cada campo.</p><p>- Y no hay información confusa o desordenada en la pantalla de detalles de la cuenta del cliente.</p>|03|
+|US23|Creación y administración de informes|Como gerente del taller quiero poder generar informes personalizados sobre las cuentas de los clientes en la aplicación para obtener una visión general de la información relevante y tomar decisiones informadas.|<p>**Escenario 1: Generación rápida y eficiente de informes**</p><p>- Dado que el gerente del taller necesita generar un informe sobre las cuentas de los clientes.</p><p>- Cuando selecciona los criterios específicos que deseo incluir en el informe, como el nombre del cliente, la fecha de creación de la cuenta y el estado de la cuenta.</p><p>- Entonces la aplicación procesa rápidamente mi solicitud y genera el informe en cuestión de segundos.</p><p>- Y el informe muestra todos los detalles requeridos de manera clara y organizada.</p><p>**Escenario 2: Exportación exitosa del informe**</p><p>- Dado que se ha generado un informe sobre las cuentas de los clientes en la aplicación.</p><p>- Cuando el informe está listo para ser exportado.</p><p>- Entonces selecciono la opción de exportación y elijo el formato deseado, como PDF.</p><p>- Y la aplicación descarga el informe exportado en mi dispositivo con éxito.</p><p>- Y al abrir el archivo, se puede verificar que todos los datos están correctamente formateados y presentados según lo esperado.</p><p>**Escenario 3: Personalización de los criterios del informe**</p><p>- Dado que se necesita un informe específico sobre las cuentas de los clientes en la aplicación,</p><p>- Cuando se accede a la funcionalidad de generación de informes y se selecciona los criterios que deseo incluir, como el nombre del cliente y el estado de la cuenta,</p><p>- Entonces la aplicación genera un informe que solo contiene la información relevante según mis criterios de selección.</p><p>- Y se puede ver que el informe se adapta exactamente a mis necesidades, mostrando solo los datos que necesito revisar.</p><p>- Y se tiene la opción de guardar esta configuración para futuras generaciones de informes.</p><p></p>|03|
+|US24|"texto"|"texto"|01|E01|
+|US25|"texto"|"texto"|01|E01|
+|US26|"texto"|"texto"|01|E01|
+|US27|"texto"|"texto"|01|E01|
+|US28|"texto"|"texto"|01|E01|
+|US29|"texto"|"texto"|01|E01|
+|US30|"texto"|"texto"|01|E01|
+
+## 3.3 Impact Mapping
+### Segmento Técnicos/Administradores de Automotrices:
+  <img src="images/.png" alt="Impac Map segmento 1">
+  
+### Segmento Clientes de Automotrices:
+  <img src="images/.png" alt="Impac Map segmento 2">
+  
+## 3.4 Product Backlog
+
 # Capítulo IV: Product Design.
+## 4.1. Style Guidelines	
+### 4.1.1. General Style Guidelines	
+### 4.1.2. Web Style Guidelines	
+## 4.2. Information Architecture	
+### 4.2.1. Organization Systems	
+### 4.2.2. Labeling Systems	
+### 4.2.3. SEO Tags and Meta Tags	
+### 4.2.4. Searching Systems	
+### 4.2.5. Navigation Systems	
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe	
+### 4.3.2. Landing Page Mock-up	
+## 4.4. Web Applications UX/UI Design	
+### 4.4.1. Web Applications Wireframes	
+### 4.4.2. Web Applications Wireframes Diagrams	
+### 4.4.3. Web Applications Mock-ups	
+### 4.4.4. Web Applications User Flow Diagrams	
+## 4.5. Web Applications Prototyping	
+## 4.6. Domain-Driven Software Architecture	
+### 4.6.1. Software Architecture Context Diagram	
+### 4.6.2. Software Architecture Container Diagrams	
+### 4.6.3. Software Architecture Components Diagrams	
+## 4.7. Software Object-Oriented Design	
+### 4.7.1. Class Diagrams	
+### 4.7.2. Class Dictionary	
+## 4.8. Database Design	
+### 4.8.1. Database Diagram	
+
 # Capítulo V: Product Implementation, Validation & Deployment.
-
-
-
+## 5.1. Software Configuration Management	
+### 5.1.1. Software Development Environment Configuration	
+### 5.1.2. Source Code Management	
+### 5.1.3. Source Code Style Guide & Conventions	
+### 5.1.4. Software Deployment Configuration	
+## 5.2. Landing Page, Services & Applications Implementation	
+### 5.2.1. Sprint 1	
+## 5.3. Validation Interviews	
+### 5.3.1. Diseño de entrevistas	
+### 5.3.2. Registro de entrevistas	
+### 5.3.3. Evaluaciones Según heurísticas	
+## 5.4. Video About the Product	
+# Conclusiones	
+# Conclusiones y recomendaciones	
+# Video About the Team	
+# Bibliografía	
+# Anexos
 
 # Student Outcome
 
