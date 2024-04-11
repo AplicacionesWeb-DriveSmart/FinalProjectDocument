@@ -203,7 +203,7 @@ Logotipo del servicio:
     <td><strong></strong></td>
     <td></td>
     <td><p align="center">
-  <img src="images/juan.jpg" alt="Integrantes" width="100%"></p></td>
+  <img src="images/Juan.jpg" alt="Integrantes" width="100%"></p></td>
   </tr>
   <tr>
     <td><strong>Gutierrez Zumaeta, Manuel Alonso (U202112353)</strong></td>
