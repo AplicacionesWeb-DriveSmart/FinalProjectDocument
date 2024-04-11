@@ -487,12 +487,12 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 <tr><td valign="top">US04</td><td valign="top">"texto"</td></tr>
 <tr><td valign="top">US05</td><td valign="top">"texto"</td></tr>
 <tr><td valign="top">US06</td><td valign="top">"texto"</td></tr>
-<tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><b>"texto"</td><td valign="top">US07</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US08</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US09</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US10</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US11</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US12</td><td valign="top">"texto"</td></tr>
+<tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><b><p>Como cliente</p><p>que cuenta con un vehículo quiero poder registrar los mantenimientos de mi vehículo</p></td><td valign="top">US07</td><td valign="top">Registro de datos del vehículo</td></tr>
+<tr><td valign="top">US08</td><td valign="top">Registro de los mantenimientos</td></tr>
+<tr><td valign="top">US09</td><td valign="top">Cálculo del costo del mantenimiento</td></tr>
+<tr><td valign="top">US10</td><td valign="top">Recordatorios de mantenimiento al vehículo</td></tr>
+<tr><td valign="top">US11</td><td valign="top">Categorizar el tipo de mantenimiento</td></tr>
+<tr><td valign="top">US12</td><td valign="top">Historial de mantenimientos realizados</td></tr>
 <tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top">"texto"</td><td valign="top">US13</td><td valign="top">"texto"</td></tr>
 <tr><td valign="top">US14</td><td valign="top">"texto"</td></tr>
 <tr><td valign="top">US15</td><td valign="top">"texto"</td></tr>
@@ -519,17 +519,17 @@ Se presentan los siguientes user stories:
 |User Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
 | :-: | :-: | :-: | :-: | :-: |
 |US01|"texto"|"texto"|01|E01|
-|US01|"texto"|"texto"|01|E01|
-|US01|"texto"|"texto"|01|E01|
-|US01|"texto"|"texto"|01|E01|
-|US01|"texto"|"texto"|01|E01|
-|US01|"texto"|"texto"|01|E01|
-|US01|"texto"|"texto"|01|E01|
-|US08|"texto"|"texto"|01|E01|
-|US09|"texto"|"texto"|01|E01|
-|US10|"texto"|"texto"|01|E01|
-|US11|"texto"|"texto"|01|E01|
-|US12|"texto"|"texto"|01|E01|
+|US02|"texto"|"texto"|01|E01|
+|US03|"texto"|"texto"|01|E01|
+|US04|"texto"|"texto"|01|E01|
+|US05|"texto"|"texto"|01|E01|
+|US06|"texto"|"texto"|01|E01|
+|US07|Registro de datos del vehículo|Como cliente que cuenta con un vehículo, quiero poder registrar los datos de mi vehículo en la aplicación.|<p>**Escenario 1: Registro Exitoso de Datos del Vehículo**</p><p>- Dado que un cliente accede a la función de registro de datos del vehículo en la aplicación,</p><p>- Cuando ingresa la marca, modelo, año, número de placa y tipo de combustible del vehículo,</p><p>- Entonces la aplicación confirma el registro exitoso de los datos del vehículo y muestra un mensaje de confirmación al cliente.</p><p>**Escenario 2: Registro Incompleto de Datos del Vehículo**</p><p>- Dado que un cliente intenta registrar los datos del vehículo en la aplicación,</p><p>- Cuando omite algunos campos obligatorios como la marca o el año del vehículo,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos faltantes y no permite completar el registro hasta que todos los campos obligatorios estén llenos.</p>|E02|
+|US08|Registro de los mantenimientos|Como cliente que cuenta con un vehículo, quiero poder registrar los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Registro Exitoso de Mantenimiento**</p><p>- Dado que un cliente accede a la función de registro de mantenimientos en la aplicación,</p><p>- Cuando ingresa la fecha, tipo de mantenimiento, costo y detalles adicionales del mantenimiento,</p><p>- Entonces la aplicación confirma el registro exitoso del mantenimiento y muestra un mensaje de confirmación al cliente.</p><p>**Escenario 2: Registro Incompleto de Mantenimiento**</p><p>- Dado que un cliente intenta registrar un mantenimiento en la aplicación,</p><p>- Cuando omite algunos campos obligatorios como la fecha o el tipo de mantenimiento,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos faltantes y no permite completar el registro hasta que todos los campos obligatorios estén llenos.</p>|E02|
+|US09|Cálculo del costo del mantenimiento|Como cliente que cuenta con un vehículo, quiero que la aplicación calcule automáticamente el costo total de los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Cálculo Exitoso del Costo del Mantenimiento**</p><p>- Dado que un cliente accede a la función de cálculo del costo del mantenimiento en la aplicación,</p><p>- Cuando revisa el historial de mantenimientos y la aplicación realiza el cálculo automático del costo total,</p><p>- Entonces la aplicación muestra el costo total correctamente y lo presenta de forma clara al cliente.</p><p>**Escenario 2: Sin Mantenimientos Registrados**</p><p>- Dado que un cliente revisa el historial de mantenimientos en la aplicación,</p><p>- Cuando no hay mantenimientos registrados para el vehículo,</p><p>- Entonces la aplicación muestra un mensaje indicando que no hay registros de mantenimientos y el costo total es cero.</p>|E02|
+|US10|Recordatorios de mantenimiento al vehículo|Como cliente que cuenta con un vehículo, quiero recibir recordatorios automáticos para los mantenimientos periódicos de mi vehículo.|<p>**Escenario 1: Recepción Exitosa de Recordatorio de Mantenimiento**</p><p>- Dado que un cliente tiene configurados recordatorios de mantenimiento en la aplicación,</p><p>- Cuando llega el momento programado para un mantenimiento y la aplicación envía un recordatorio automático,</p><p>- Entonces el cliente recibe el recordatorio y la aplicación muestra la información relevante sobre el mantenimiento a realizar.</p><p>**Escenario 2: Configuración de Recordatorios**</p><p>- Dado que un cliente accede a la configuración de recordatorios en la aplicación,</p><p>- Cuando establece la frecuencia y los detalles para los recordatorios de mantenimiento,</p><p>- Entonces la aplicación guarda la configuración correctamente y comienza a enviar los recordatorios según lo programado.</p>|E02|
+|US11|Categorizar el tipo de mantenimiento|Como cliente que cuenta con un vehículo, quiero poder categorizar los diferentes tipos de mantenimiento realizados en mi vehículo.|<p>**Escenario 1: Categorización Exitosa del Tipo de Mantenimiento**</p><p>- Dado que un cliente accede a la función de categorización de mantenimientos en la aplicación,</p><p>- Cuando asigna categorías adecuadas a los diferentes tipos de mantenimiento registrados,</p><p>- Entonces la aplicación guarda las categorías correctamente y muestra la información categorizada en el historial de mantenimientos.</p><p>**Escenario 2: Categorización Inválida del Tipo de Mantenimiento**</p><p>- Dado que un cliente intenta asignar una categoría no válida a un mantenimiento en la aplicación,</p><p>- Cuando selecciona una categoría inexistente o incorrecta,</p><p>- Entonces la aplicación muestra un mensaje de error indicando que la categoría no es válida y no permite completar la acción hasta que se elija una categoría válida.</p>|E02|
+|US12|Historial de mantenimientos realizado|Como cliente que cuenta con un vehículo, quiero poder ver un historial completo de todos los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Acceso al Historial de Mantenimientos**</p><p>- Dado que un cliente accede al historial de mantenimientos en la aplicación,</p><p>- Cuando revisa la lista de mantenimientos realizados,</p><p>- Entonces la aplicación muestra de manera clara y organizada todos los registros de mantenimientos con detalles completos.</p><p>**Escenario 2: Ordenamiento del Historial de Mantenimientos**</p><p>- Dado que un cliente accede al historial de mantenimientos en la aplicación,</p><p>- Cuando ordena los registros por fecha, tipo de mantenimiento o costo,</p><p>- Entonces la aplicación muestra el historial ordenado según el criterio seleccionado por el cliente.</p>|E02|
 |US13|"texto"|"texto"|01|E01|
 |US14|"texto"|"texto"|01|E01|
 |US15|"texto"|"texto"|01|E01|
