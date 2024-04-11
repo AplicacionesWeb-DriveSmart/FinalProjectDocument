@@ -803,8 +803,17 @@ Se presentan los siguientes user stories:
 ## 3.4 Product Backlog
 
 # Capítulo IV: Product Design.
-## 4.1. Style Guidelines	
+## 4.1. Style Guidelines
+<p>Para optimizar la experiencia de todos los usuarios, dentro de nuestro landing page proponemos un diseño de interfaz atractivo, y responsivo que se adapte a distintas dimensiones para los distintos dispositivos. Asimismo, hemos elegido colores llamativos, imágenes de buena calidad y se implementa un navbar intuitivo para que el usuario pueda desplazarse por la página de manera cómoda y fluida. Con todo esto, buscamos proporcionar una experiencia amigable y práctica para todos los usuarios.
+</p>	
+
 ### 4.1.1. General Style Guidelines	
+
+<strong>Branding:</strong><br>
+<p>
+Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a las automotrices, es por eso que lo representamos con una llave inglesa en el logo de nuestro producto. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
+</p>
+
 ### 4.1.2. Web Style Guidelines	
 ## 4.2. Information Architecture	
 ### 4.2.1. Organization Systems	
