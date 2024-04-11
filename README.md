@@ -186,11 +186,11 @@ Logotipo del servicio:
 
 <table border="1">
   <tr>
-    <td><strong></strong></td>
-    <td>
-</td>
+    <td><strong>Carlos Eduardo Guimaraes Escalante (U202210364)</strong></td>
+    <td>Soy estudiante de la carrera de Ingeniería de Software, estoy cursando el tercer ciclo de mi carrera y tengo 17 años. Soy una persona responsable y puntual, por lo que me gusta terminar y presentar los trabajos en los tiempos establecidos. Siempre me ha gustado la innovación y la creación de nuevas ideas. Estoy capacitado en algunos  temas de edición de videos, y me considero bueno en programación. Voy a aportar al grupo de manera proactiva e intentaré aportar ideas que ayuden a mejorar el trabajo, siempre intentando mantener un ambiente positivo dentro del área de trabajo.
+    </td>
     <td><p align="center">
-  <img src="images/.jpg" alt="Integrantes" width="100%"></p></td>
+  <img src="images/Carlos.png" alt="Integrantes" width="100%"></p></td>
   </tr>
   <tr>
     <td><strong>Altamirano Saenz, Jorge Armando (U202215888)</strong></td>
@@ -803,8 +803,17 @@ Se presentan los siguientes user stories:
 ## 3.4 Product Backlog
 
 # Capítulo IV: Product Design.
-## 4.1. Style Guidelines	
+## 4.1. Style Guidelines
+<p>Para optimizar la experiencia de todos los usuarios, dentro de nuestro landing page proponemos un diseño de interfaz atractivo, y responsivo que se adapte a distintas dimensiones para los distintos dispositivos. Asimismo, hemos elegido colores llamativos, imágenes de buena calidad y se implementa un navbar intuitivo para que el usuario pueda desplazarse por la página de manera cómoda y fluida. Con todo esto, buscamos proporcionar una experiencia amigable y práctica para todos los usuarios.
+</p>	
+
 ### 4.1.1. General Style Guidelines	
+
+<strong>Branding:</strong><br>
+<p>
+Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a las automotrices, es por eso que lo representamos con una llave inglesa en el logo de nuestro producto. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
+</p>
+
 ### 4.1.2. Web Style Guidelines	
 ## 4.2. Information Architecture	
 ### 4.2.1. Organization Systems	
@@ -828,6 +837,19 @@ Se presentan los siguientes user stories:
 </p>
 
 ### 4.3.2. Landing Page Mock-up	
+<p align="center">
+  <img src="images/LM1.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+<p align="center">
+  <img src="images/LM2.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+<p align="center">
+  <img src="images/LM3.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+<p align="center">
+  <img src="images/LM4.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+
 ## 4.4. Web Applications UX/UI Design	
 ### 4.4.1. Web Applications Wireframes	
 ### 4.4.2. Web Applications Wireframes Diagrams	
