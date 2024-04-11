@@ -737,12 +737,12 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 <tr><td valign="top">US10</td><td valign="top">Recordatorios de mantenimiento al vehículo</td></tr>
 <tr><td valign="top">US11</td><td valign="top">Categorizar el tipo de mantenimiento</td></tr>
 <tr><td valign="top">US12</td><td valign="top">Historial de mantenimientos realizados</td></tr>
-<tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top">"texto"</td><td valign="top">US13</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US14</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US15</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US16</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US17</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US18</td><td valign="top">"texto"</td></tr>
+<tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top">Como cliente, quiero recibir recordatorios automáticos de mantenimiento para mi vehículo</td><td valign="top">US13</td><td valign="top">Recordatorio de inspección técnica</td></tr>
+<tr><td valign="top">US14</td><td valign="top">Recordatorio de cambio de aceite</td></tr>
+<tr><td valign="top">US15</td><td valign="top">Personalización de recordatorios de mantenimiento</td></tr>
+<tr><td valign="top">US16</td><td valign="top">Recordatorio de vencimiento de póliza de seguro</td></tr>
+<tr><td valign="top">US17</td><td valign="top">Recordatorio de vencimiento de garantía</td></tr>
+<tr><td valign="top">US18</td><td valign="top">Marcado de recordatorios de mantenimiento como completados</td></tr>
 <tr><td rowspan="6" valign="top">E04</td><td rowspan="6" valign="top"><p>Como gerente del taller</p><p>Quiero poder crear una cuenta, modificar y eliminar los datos de los clientes</p><p>Para poder actualizar la información de nuestros clientes y agregar nuevos.</p><p></p>
 </td><td valign="top">US19</td><td valign="top">Registrar tecnico o administrador</td></tr>
 <tr><td valign="top">US20</td><td valign="top">Registrar nuevo cliente</td></tr>
