@@ -193,11 +193,11 @@ Logotipo del servicio:
   <img src="images/.jpg" alt="Integrantes" width="100%"></p></td>
   </tr>
   <tr>
-    <td><strong></strong></td>
-    <td>
+    <td><strong>Altamirano Saenz, Jorge Armando (U202215888)</strong></td>
+    <td>Me llamo Jorge Altamirano, tengo 19 años. Tengo conocimientos en programación en los lenguajes de C++, Python, Java y C# básico.  Me considero una persona responsable e investigadora y creo que puedo aportar con ideas propias al equipo.
 </td>
     <td><p align="center">
-  <img src="images/.jpg" alt="Integrantes" width="100%"></p></td>
+  <img src="images/altamirano.jpg" alt="Integrantes" width="100%"></p></td>
   </tr>
   <tr>
     <td><strong></strong></td>
@@ -206,10 +206,10 @@ Logotipo del servicio:
   <img src="images/.jpg" alt="Integrantes" width="100%"></p></td>
   </tr>
   <tr>
-    <td><strong></strong></td>
-    <td></td>
+    <td><strong>Gutierrez Zumaeta, Manuel Alonso (U202112353)</strong></td>
+    <td>Me llamo Manuel Gutierre, tengo 20 años, me gusta la fotografia y los videojuegos. Tambien tengo conocimientos en lenguajes de programacion como Python, C++, HTML, CSS y JavaScript. Considero que esto podria ayudar al equipo en el transcuso del curso, en la parte del desarrollo del aplicativo web, al igual al momento de hacer toda la documentacion correspondiente.</td>
     <td><p align="center">
-  <img src="images/.jpg" alt="Integrantes" width="100%"></p></td>
+  <img src="images/manuelGutierrez.jpg" alt="Integrantes" width="100%"></p></td>
   </tr>
   <tr>
     <td><strong>De la Piedra Quintanilla, Erwin Miquel (U202112179)</strong></td>
