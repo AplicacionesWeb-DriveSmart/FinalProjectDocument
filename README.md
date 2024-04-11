@@ -186,11 +186,11 @@ Logotipo del servicio:
 
 <table border="1">
   <tr>
-    <td><strong></strong></td>
-    <td>
-</td>
+    <td><strong>Carlos Eduardo Guimaraes Escalante (U202210364)</strong></td>
+    <td>Soy estudiante de la carrera de Ingeniería de Software, estoy cursando el tercer ciclo de mi carrera y tengo 17 años. Soy una persona responsable y puntual, por lo que me gusta terminar y presentar los trabajos en los tiempos establecidos. Siempre me ha gustado la innovación y la creación de nuevas ideas. Estoy capacitado en algunos  temas de edición de videos, y me considero bueno en programación. Voy a aportar al grupo de manera proactiva e intentaré aportar ideas que ayuden a mejorar el trabajo, siempre intentando mantener un ambiente positivo dentro del área de trabajo.
+    </td>
     <td><p align="center">
-  <img src="images/.jpg" alt="Integrantes" width="100%"></p></td>
+  <img src="images/Carlos.png" alt="Integrantes" width="100%"></p></td>
   </tr>
   <tr>
     <td><strong>Altamirano Saenz, Jorge Armando (U202215888)</strong></td>
