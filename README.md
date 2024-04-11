@@ -13,8 +13,8 @@
  
 # Proyecto de curso
 ## Informe del TF
-#### StartUp: Los Luminosos
-#### Producto: MedSystem
+#### StartUp: DriveSmart
+#### Producto: CarHelp
 
 ### Integrantes:
 | Integrantes | Codigo |
@@ -453,6 +453,19 @@ Descripción:
 ### 2.2.3 Análisis de entrevistas.
 ## 2.3 Needfinding.
 ### 2.3.1. User Personas.
+Se realizó las dos User Personas de los dos segmentos objetivos que estamos abarcando
+  - Cliente:
+
+    <p align="justify">
+      <img src="images/clienteUS.png" alt="Cliente User Persona" width="50%">
+    </p>
+
+  - Automotriz:
+
+    <p align="justify">
+      <img src="images/automotrizUS.png" alt="Automtriz User Persona" width="50%">
+    </p>
+    
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
@@ -492,7 +505,7 @@ Descripción:
 <tr><td valign="top">US21</td><td valign="top">Actualización de clientes</td></tr>
 <tr><td valign="top">US22</td><td valign="top">Eliminar cliente</td></tr>
 <tr><td valign="top">US23</td><td valign="top">Búsqueda de clientes</td></tr>
-<tr><td valign="top">US23</td><td valign="top">Creación y administración de informes</td></tr>
+<tr><td valign="top">US24</td><td valign="top">Creación y administración de informes</td></tr>
 <tr><td rowspan="6" valign="top">E05</td><td rowspan="6" valign="top">"texto"</td><td valign="top">US24</td><td valign="top">"texto"</td></tr>
 <tr><td valign="top">US25</td><td valign="top">"texto"</td></tr>
 <tr><td valign="top">US26</td><td valign="top">"texto"</td></tr>
