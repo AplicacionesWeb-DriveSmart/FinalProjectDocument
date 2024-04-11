@@ -200,10 +200,15 @@ Logotipo del servicio:
   <img src="images/altamirano.jpg" alt="Integrantes" width="100%"></p></td>
   </tr>
   <tr>
-    <td><strong></strong></td>
-    <td></td>
+    <td><strong>Montes Figueroa, Juan Eduardo (U202210775)</strong></td>
+    <td>Mi nombre es Juan Montes, tengo 19 años, tengo conocimientos en C++, asimismo poseo conocimientos 
+básicos en Java y también en diseño de imágenes tanto en 
+aplicaciones complicadas como Photoshop hasta páginas webs que 
+te dan funciones similares. Puedo aportar en el equipo con ideas, 
+confianza y atención a los detalles.
+</td>
     <td><p align="center">
-  <img src="images/Juan.jpg" alt="Integrantes" width="100%"></p></td>
+  <img src="images/Juan.JPG" alt="Integrantes" width="100%"></p></td>
   </tr>
   <tr>
     <td><strong>Gutierrez Zumaeta, Manuel Alonso (U202112353)</strong></td>
