@@ -475,6 +475,9 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
+
+<img src="images/as-is.jpg" alt="As-Is mapping" width="100%"></p></td>
+
 ## 2.4. Ubiquitous Language.
 # Capítulo III: Requirements Specification.
 ## 3.1 To-Be Scenario Mapping
