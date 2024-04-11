@@ -409,9 +409,245 @@ Se han identificado dos segmentos objetivos:
 **Clientes de Automotrices:** Este segmento incluye a los propietarios de vehículos que visitan las automotrices. Son los usuarios finales de la aplicación y se encargan de proporcionar información relevante para los registros. Además, reciben mensajes y notificaciones dentro de la aplicación relacionados con el estado de sus vehículos y otros servicios ofrecidos por la automotriz.
 
 # Capítulo II: Requirements Elicitation & Analysis.
-## 2.1 Competidores.
-### 2.1.1 Análisis competitivo.
+
+Para realizar el análisis competitivo hemos tomado en consideración competidores directos e indirectos:
+
+- **Mitchell1**: Mitchell1 es una empresa líder en la industria automotriz que ofrece software y soluciones tecnológicas para talleres mecánicos y concesionarios de automóviles. Su producto principal, ProDemand, es un sistema de información de reparación que proporciona a los técnicos automotrices acceso a datos detallados sobre reparación y mantenimiento de vehículos, incluyendo diagramas de cableado, procedimientos de diagnóstico y otra información técnica esencial.  
+
+<div align="center">
+  <img src="images/logo_mitchell1.jpg" alt="Logo de Mitchell1" width="10%">
+</div>
+
+- **ALLDATA**: AllData es otra empresa líder en la industria automotriz que proporciona software y soluciones tecnológicas para talleres mecánicos y profesionales del automóvil. Al igual que Mitchell1, AllData ofrece acceso a una amplia base de datos de información técnica sobre reparación y mantenimiento de vehículos. Sus productos incluyen diagramas de cableado, especificaciones de componentes, procedimientos de reparación, boletines técnicos y otra documentación útil para ayudar a los técnicos a diagnosticar y reparar vehículos de manera efectiva. 
+
+<div align="center">
+  <img src="images/logo_alldata.jpeg" alt="Logo de ALLDATA" width="10%">
+</div>
+
+- **Shop-Ware**: Shop-Ware es una empresa de software que ofrece una plataforma de gestión de talleres para la industria automotriz. Su plataforma integra una variedad de herramientas y funciones diseñadas para ayudar a los talleres mecánicos a administrar eficientemente sus operaciones diarias. Esto incluye funciones como programación de citas, gestión de órdenes de trabajo, seguimiento de inventario, facturación, gestión de clientes y más.  
+
+<div align="center">
+  <img src="images/logo_shop-ware.png" alt="Logo de Shop-Ware" width="10%">
+</div>
+
+### 2.1.1 Análisis competitivo
+
+<table>
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+    <td valign="top">AutoPro Tracker</td>
+    <td valign="top">Mitchell1</td>
+    <td valign="top">ALLDATA</td>
+    <td valign="top">Shop-Ware</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="images/Service Logo.jpg" alt="Logo de AutoPro Tracker" height="100px"></td>
+    <td valign="top"><img src="images/logo_mitchell1.jpg" alt="Logo de Mitchell1" height="100px"></td>
+    <td valign="top"><img src="images/logo_alldata.jpeg" alt="Logo de ALLDATA" height="100px"></td>
+    <td valign="top"><img src="images/logo_shop-ware.png" alt="Logo de Shop-Ware" height="100px"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">Plataforma de gestión de procesos para talleres de reparación de vehículos, centrada en simplificar operaciones y mejorar la experiencia del cliente.</td>
+    <td valign="top">Ofrece soluciones de gestión de talleres para la industria automotriz.</td>
+    <td valign="top">Software de gestión de talleres y bases de datos de información técnica para la industria automotriz.</td>
+    <td valign="top">Plataforma de gestión de talleres basada en la nube diseñada específicamente para la industria automotriz.
+</td>
+
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">Integración de seguimiento de kilometraje y notificaciones automáticas, interfaz fácil de usar y enfoque centrado en el cliente</td>
+    <td valign="top">Su experiencia en la industria y sus sólidas bases de datos técnicas son su principal ventaja competitiva.</td>
+    <td valign="top">Su amplia base de datos de información técnica y su experiencia en la industria automotriz son su principal ventaja competitiva.</td>
+    <td valign="top">Su principal ventaja competitiva radica en su enfoque en la tecnología de la nube y su capacidad para proporcionar herramientas intuitivas y eficientes para la gestión de talleres.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">Talleres de reparación de vehículos de todos los tamaños, enfocándose en mejorar la eficiencia y calidad del servicio.</td>
+    <td valign="top">Talleres de reparación de vehículos de todos los tamaños.</td>
+    <td valign="top">Talleres de reparación de vehículos de todos los tamaños y fabricantes de automóviles</td>
+    <td valign="top">Talleres de reparación de vehículos de todos los tamaños, desde pequeños talleres independientes hasta grandes cadenas de servicios automotrices.</td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">Marketing en línea, demostraciones de producto, participación en eventos de la industria y asociaciones estratégicas.</td>
+    <td valign="top">Utilizan marketing directo, publicidad en línea y participación en ferias de la industria automotriz.</td>
+    <td valign="top">Utilizan publicidad en línea, asociaciones con fabricantes de automóviles y distribuidores para promocionar sus productos</td>
+    <td valign="top">Shop-Ware utiliza una combinación de marketing en línea, demostraciones de producto, participación en eventos de la industria y asociaciones estratégicas para promover sus soluciones.</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">Plataforma de gestión de procesos con seguimiento de kilometraje, notificaciones automáticas y estimaciones de reparación.</td>
+    <td valign="top">Ofrecen ProDemand y Manager SE, bases de datos técnicas y software de gestión de talleres.</td>
+    <td valign="top">Ofrecen bases de datos de información técnica y software de gestión de talleres.</td>
+    <td valign="top">Ofrece una plataforma de gestión de talleres basada en la nube que incluye funciones como programación, estimación, facturación, seguimiento de inventario y comunicación con los clientes.</td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">Varían según características y tamaño del taller, con opciones de suscripción mensual o anual.</td>
+    <td valign="top">Varían según el producto y pueden incluir tarifas de suscripción o costos de licencia.</td>
+    <td valign="top">Los precios varían según el producto y pueden incluir tarifas de suscripción mensuales o costos de licencia.</td>
+    <td valign="top">Los precios varían según el tamaño del taller y las características específicas de la solución, con opciones de suscripción mensual o anual</td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+    <td valign="top">Principalmente a través de su sitio web oficial y asociaciones con distribuidores de la industria automotriz.
+    </td>
+    <td valign="top">Principalmente a través de su sitio web y distribuidores autorizados, con posibilidad de acceso móvil. </td>
+    <td valign="top">Principalmente a través de su sitio web oficial y asociaciones con fabricantes de automóviles y distribuidores.</td>
+    <td valign="top">Principalmente a través de su sitio web oficial y mediante asociaciones con distribuidores de la industria automotriz.</td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">
+        <ul>
+          <li>Enfoque centrado en el cliente.</li>
+          <li>Integración de tecnología para mejorar la eficiencia operativa.</li>
+          <li>Facilidad de uso y accesibilidad de la plataforma.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Experiencia en la industria</li>
+          <li>Bases de datos técnicas sólidas.</li>
+          <li>Buen soporte al cliente.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Experiencia en la industria automotriz.</li>
+          <li>Asociaciones estratégicas.</li>
+        </ul>
+    </td>
+    <td valign="top">
+        <ul>
+        <li>Tecnología basada en la nube.</li>
+        <li>Herramientas intuitivas y eficientes.</li>
+        <li>Enfoque en mejorar la comunicación con los clientes.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">
+        <ul>
+          <li>Posible necesidad de educación sobre el uso del sistema para nuevos usuarios.</li>
+          <li>Dependencia de la conectividad a Internet para acceder al sistema.</li>
+        </ul>
+    </td>
+    <td valign="top">
+        <ul>
+        <li>Curva de aprendizaje para nuevos usuarios.</li>
+        <li>Expansión geográfica.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+        <li>Curva de aprendizaje para nuevos usuarios.</li>
+        <li>Posible dependencia de asociaciones con fabricantes de automóviles.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+        <li> Posible resistencia al cambio por parte de algunos talleres.</li>
+        <li>Dependencia de la conectividad a Internet para acceder al sistema.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">
+        <ul>
+          <li>Expansión a nuevos mercados geográficos.</li>
+          <li>Desarrollo de nuevas características para satisfacer las necesidades emergentes de la industria automotriz.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Expansión geográfica.</li>
+          <li> Desarrollo de nuevas características.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Expansión a nuevos mercados geográficos.</li>
+          <li>Desarrollo de nuevas características y funcionalidades</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Expansión a nuevos mercados geográficos.</li>
+          <li>Desarrollo de nuevas características para satisfacer las necesidades emergentes de la industria automotriz.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">
+        <ul>
+          <li>Competencia creciente en el mercado de soluciones de gestión de talleres.</li>
+          <li>Cambios en las tendencias tecnológicas que podrían afectar la demanda de productos y servicios</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Competencia creciente.</li>
+          <li>Cambios tecnológicos.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Competencia creciente en el mercado de soluciones de gestión de talleres.</li>
+          <li>Cambios en las preferencias del cliente y en la tecnología.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Competencia creciente en el mercado de soluciones de gestión de talleres.</li>
+          <li>Cambios en las tendencias tecnológicas que podrían afectar la demanda de productos y servicios de Shop-Ware.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+**Estrategia 1: Desarrollo de Capacitación Personalizada**
+
+  - Táctica: Ofrecer capacitación personalizada a los talleres sobre cómo utilizar eficazmente nuestra plataforma de gestión de procesos.
+
+  - Explicación: Al proporcionar capacitación personalizada, podemos asegurarnos de que los talleres comprendan completamente todas las características y funcionalidades de nuestra plataforma. Esto les permitirá aprovechar al máximo la solución y optimizar su eficiencia operativa.
+
+**Estrategia 2: Participación en Eventos de la Industria**
+
+  - Táctica: Asistir y participar activamente en ferias comerciales, conferencias y eventos de la industria automotriz.
+
+  - Explicación: Participar en eventos de la industria nos brinda la oportunidad de establecer contactos con propietarios de talleres, gerentes y profesionales de la industria. Además, podemos demostrar nuestra plataforma en vivo, responder preguntas y recopilar comentarios directos de clientes potenciales. Esta estrategia nos ayuda a aumentar la visibilidad de nuestra marca y a establecer relaciones sólidas en el mercado automotriz.
+
+**Estrategia 3: Marketing de Contenidos**
+
+  - Táctica: Crear y distribuir contenido relevante y útil, como blogs, videos tutoriales y guías de mejores prácticas, que aborden los desafíos comunes enfrentados por los talleres de reparación de vehículos.
+
+  - Explicación: El marketing de contenidos nos permite establecernos como autoridad en la industria y construir confianza con nuestra audiencia al proporcionarles información valiosa y soluciones a sus problemas. Esto puede ayudar a atraer nuevos clientes y fomentar la retención de clientes existentes.
+
+**Estrategia 4: Programa de Fidelización de Clientes**
+
+  - Táctica: Implementar un programa de fidelización de clientes donde los talleres acumulen puntos o descuentos por el uso continuo de nuestra plataforma y por referir nuevos clientes.
+
+  - Explicación: Este programa incentiva a los talleres a mantenerse comprometidos con nuestra plataforma a largo plazo, al tiempo que los recompensa por su lealtad y contribución al crecimiento de nuestra base de usuarios. Además, fomenta la retención de clientes existentes y estimula el boca a boca positivo, lo que puede generar un aumento en la adquisición de nuevos clientes.
+
 ## 2.2 Entrevistas.
 ### 2.2.1 Diseño de entrevistas.
 
@@ -475,6 +711,9 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
+
+<img src="images/as-is.jpg" alt="As-Is mapping" width="100%"></p></td>
+
 ## 2.4. Ubiquitous Language.
 # Capítulo III: Requirements Specification.
 ## 3.1 To-Be Scenario Mapping
@@ -523,12 +762,12 @@ Se presentan los siguientes user stories:
 
 |User Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
 | :-: | :-: | :-: | :-: | :-: |
-|US01|Registro en la aplicación|"Como propietario del taller, quiero poder registrar en la aplicación a mi taller para poder llegar a más clientes."|<p>**Escenario 1: Registro Exitoso**</p><p>- Dado que el propietario del taller accede a la aplicación por primera vez,</p><p>- Cuando completa el formulario de registro en la plataforma de citas dentro de la aplicación,</p><p>- Entonces recibe un mensaje de confirmación que indica que su registro ha sido exitoso y ahora puede acceder a la plataforma de citas utilizando las credenciales proporcionadas.</p><p>**Escenario 2: Error de Registro**</p><p>- Dado que el propietario del taller intenta registrarse en la aplicación,</p><p>- Cuando ingresa información incorrecta o incompleta en el formulario de registro,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos que deben corregirse y solicita al propietario que los complete correctamente para poder registrarse.</p>|E01|
-|US02|"texto"|"texto"|01|E01|
-|US03|"texto"|"texto"|01|E01|
-|US04|"texto"|"texto"|01|E01|
-|US05|"texto"|"texto"|01|E01|
-|US06|"texto"|"texto"|01|E01|
+|US01|Registro en la aplicación|Como propietario del taller, quiero poder registrar en la aplicación a mi taller para poder llegar a más clientes.|<p>**Escenario 1: Registro Exitoso**</p><p>- Dado que el propietario del taller accede a la aplicación por primera vez,</p><p>- Cuando completa el formulario de registro en la plataforma de citas dentro de la aplicación,</p><p>- Entonces recibe un mensaje de confirmación que indica que su registro ha sido exitoso y ahora puede acceder a la plataforma de citas utilizando las credenciales proporcionadas.</p><p>**Escenario 2: Error de Registro**</p><p>- Dado que el propietario del taller intenta registrarse en la aplicación,</p><p>- Cuando ingresa información incorrecta o incompleta en el formulario de registro,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos que deben corregirse y solicita al propietario que los complete correctamente para poder registrarse.</p>|E01|
+|US02|Programación de citas|Como dueño del taller, quiero poder programar citas directamente desde la aplicación.|<p>**Escenario 1: Programación de Cita Exitosa**</p><p>- Dado que el propietario del taller accede a la función de programación de citas en la aplicación,</p><p>- Cuando selecciona una fecha y hora disponibles para la cita y proporciona los detalles necesarios,</p><p>- Entonces la aplicación confirma la cita y muestra un mensaje de confirmación al propietario, además de enviar una notificación al cliente sobre la cita programada.</p>**Escenario 2: Sin Disponibilidad para la Cita**<p></p><p>- Dado que el propietario del taller intenta programar una cita en la aplicación,</p><p>- Cuando selecciona una fecha y hora para la cita, pero no hay disponibilidad en ese momento,</p><p>- Entonces la aplicación muestra un mensaje indicando que no hay horarios disponibles en la fecha y hora seleccionadas, y sugiere al propietario que elija otro horario.</p>|E01|
+|US03|Visualización de calendario|Como propietario del taller, quiero poder ver y gestionar el calendario de citas desde la aplicación|<p>**Escenario 1: Visualización de Calendario Exitosa**</p><p>- Dado que el propietario del taller accede a la función de visualización del calendario en la aplicación,</p><p>- Cuando la aplicación carga el calendario de citas con todas las citas programadas,</p><p>-Entonces el propietario puede ver claramente las citas programadas con detalles como fechas, horas y servicios solicitados.</p><p>**Escenario 2: Modificación de una Cita Existente**</p><p>-Dado que el propietario del taller accede al calendario de citas en la aplicación,</p><p>- Cuando selecciona una cita existente que necesita ser modificada,</p><p>- Entonces la aplicación le permite al propietario modificar la fecha, hora o detalles de la cita, actualizando automáticamente el calendario con los cambios realizados.</p>|E01|
+|US04|Notificación de citas|Como propietario del taller, quiero recibir notificaciones sobre las citas programadas a través de la aplicación|<p>**Escenario 1: Recepción de Notificación de Cita**</p><p>- Dado que el propietario del taller ha habilitado las notificaciones en la aplicación,</p><p>-Cuando se acerca la fecha de una cita programada,</p><p>- Entonces la aplicación envía una notificación al propietario para recordarle la cita programada, incluyendo detalles como la fecha, hora y tipo de servicio.</p><p>**Escenario 2: Confirmación de Cita desde la Notificación**</p><p>- Dado que el propietario del taller recibe una notificación sobre una cita próxima,</p><p>- Cuando revisa los detalles de la cita en la notificación,</p><p>- Entonces la aplicación permite al propietario confirmar la cita directamente desde la notificación, marcándola como confirmada en el sistema y actualizando automáticamente el estado en el calendario de citas.</p>|E01|
+|US05|Acceso a información de clientes|Como propietario del taller, quiero tener acceso rápido a la información de contacto y preferencias de los clientes desde la aplicación|<p>**Escenario 1: Visualización de Información del Cliente**</p><p>- Dado que el propietario ha iniciado sesión en la aplicación web,</p><p>- Cuando selecciona un cliente de la lista,</p><p>-Entonces la aplicación muestra los detalles del cliente, incluyendo nombre y contacto.</p><p>**Escenario 2: Edición de Preferencias del Cliente**</p><p>- Dado que el propietario está revisando la información de un cliente en la aplicación web,</p><p>- Cuando decide actualizar las preferencias del cliente,</p><p>- Entonces la aplicación le permite editar y guardar las preferencias del cliente, como notas especiales o preferencias de servicio.</p>|E01|
+|US06|Gestión de servicios y disponibilidad|Como propietario del taller, quiero poder configurar los servicios disponibles y su disponibilidad desde la aplicación.|<p>**Escenario 1: Configuración de Servicios**</p><p>- Dado que el propietario ha iniciado sesión en la aplicación web,</p><p>- Cuando agrega un nuevo servicio,</p><p>- Entonces completa los detalles del servicio y lo guarda.</p><p>**Escenario 2: Gestión de Disponibilidad de Servicios**</p><p>- Dado que el propietario está revisando los servicios,</p><p>- Cuando modifica la disponibilidad de un servicio,</p><p>- Entonces selecciona los días y horas disponibles y guarda los cambios.</p>|E01|
 |US07|Registro de datos del vehículo|Como cliente que cuenta con un vehículo, quiero poder registrar los datos de mi vehículo en la aplicación.|<p>**Escenario 1: Registro Exitoso de Datos del Vehículo**</p><p>- Dado que un cliente accede a la función de registro de datos del vehículo en la aplicación,</p><p>- Cuando ingresa la marca, modelo, año, número de placa y tipo de combustible del vehículo,</p><p>- Entonces la aplicación confirma el registro exitoso de los datos del vehículo y muestra un mensaje de confirmación al cliente.</p><p>**Escenario 2: Registro Incompleto de Datos del Vehículo**</p><p>- Dado que un cliente intenta registrar los datos del vehículo en la aplicación,</p><p>- Cuando omite algunos campos obligatorios como la marca o el año del vehículo,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos faltantes y no permite completar el registro hasta que todos los campos obligatorios estén llenos.</p>|E02|
 |US08|Registro de los mantenimientos|Como cliente que cuenta con un vehículo, quiero poder registrar los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Registro Exitoso de Mantenimiento**</p><p>- Dado que un cliente accede a la función de registro de mantenimientos en la aplicación,</p><p>- Cuando ingresa la fecha, tipo de mantenimiento, costo y detalles adicionales del mantenimiento,</p><p>- Entonces la aplicación confirma el registro exitoso del mantenimiento y muestra un mensaje de confirmación al cliente.</p><p>**Escenario 2: Registro Incompleto de Mantenimiento**</p><p>- Dado que un cliente intenta registrar un mantenimiento en la aplicación,</p><p>- Cuando omite algunos campos obligatorios como la fecha o el tipo de mantenimiento,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos faltantes y no permite completar el registro hasta que todos los campos obligatorios estén llenos.</p>|E02|
 |US09|Cálculo del costo del mantenimiento|Como cliente que cuenta con un vehículo, quiero que la aplicación calcule automáticamente el costo total de los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Cálculo Exitoso del Costo del Mantenimiento**</p><p>- Dado que un cliente accede a la función de cálculo del costo del mantenimiento en la aplicación,</p><p>- Cuando revisa el historial de mantenimientos y la aplicación realiza el cálculo automático del costo total,</p><p>- Entonces la aplicación muestra el costo total correctamente y lo presenta de forma clara al cliente.</p><p>**Escenario 2: Sin Mantenimientos Registrados**</p><p>- Dado que un cliente revisa el historial de mantenimientos en la aplicación,</p><p>- Cuando no hay mantenimientos registrados para el vehículo,</p><p>- Entonces la aplicación muestra un mensaje indicando que no hay registros de mantenimientos y el costo total es cero.</p>|E02|
@@ -574,8 +813,34 @@ Se presentan los siguientes user stories:
 ### 4.2.4. Searching Systems	
 ### 4.2.5. Navigation Systems	
 ## 4.3. Landing Page UI Design
-### 4.3.1. Landing Page Wireframe	
+### 4.3.1. Landing Page Wireframe
+<p align="center">
+  <img src="images/LW1.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+<p align="center">
+  <img src="images/LW2.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+<p align="center">
+  <img src="images/LW3.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+<p align="center">
+  <img src="images/LW4.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+
 ### 4.3.2. Landing Page Mock-up	
+<p align="center">
+  <img src="images/LM1.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+<p align="center">
+  <img src="images/LM2.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+<p align="center">
+  <img src="images/LM3.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+<p align="center">
+  <img src="images/LM4.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+
 ## 4.4. Web Applications UX/UI Design	
 ### 4.4.1. Web Applications Wireframes	
 ### 4.4.2. Web Applications Wireframes Diagrams	
