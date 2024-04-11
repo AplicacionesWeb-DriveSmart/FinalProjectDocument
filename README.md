@@ -817,6 +817,15 @@ Se presentan los siguientes user stories:
 <p align="center">
   <img src="images/LW1.PNG" alt="Wireframes" width="100%"></p></td>
 </p>
+<p align="center">
+  <img src="images/LW2.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+<p align="center">
+  <img src="images/LW3.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
+<p align="center">
+  <img src="images/LW4.PNG" alt="Wireframes" width="100%"></p></td>
+</p>
 ### 4.3.2. Landing Page Mock-up	
 ## 4.4. Web Applications UX/UI Design	
 ### 4.4.1. Web Applications Wireframes	
