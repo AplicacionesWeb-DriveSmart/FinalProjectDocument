@@ -486,12 +486,12 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 ## 3.2 User Stories
 
 <table><tr><th valign="top"><b>Epic ID</b></th><th valign="top"><b>Epic</b></th><th valign="top"><b>User story ID</b></th><th valign="top"><b>User stories</b></th></tr>
-<tr><td rowspan="6" valign="top">E01</td><td rowspan="6" valign="top">"texto"</td><td valign="top">US01</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US02</td><td valign="top">"texto"</td></tr>
-<td valign="top">US03</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US04</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US05</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US06</td><td valign="top">"texto"</td></tr>
+<tr><td rowspan="6" valign="top">E01</td><td rowspan="6" valign="top"><p>"Como gerente del taller"</p><p>Quiero que la aplicación permite que los clientes puedan programar citas en línea.</p></td><td valign="top">US01</td><td valign="top">"Registro en la aplicación"</td></tr>
+<tr><td valign="top">US02</td><td valign="top">"Programación de citas"</td></tr>
+<td valign="top">US03</td><td valign="top">"Visualización de calendario"</td></tr>
+<tr><td valign="top">US04</td><td valign="top">"Notificación de citas"</td></tr>
+<tr><td valign="top">US05</td><td valign="top">"Acceso a información de clientes"</td></tr>
+<tr><td valign="top">US06</td><td valign="top">"Gestión de servicios y disponibilidad"</td></tr>
 <tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><b><p>Como cliente</p><p>que cuenta con un vehículo quiero poder registrar los mantenimientos de mi vehículo</p></td><td valign="top">US07</td><td valign="top">Registro de datos del vehículo</td></tr>
 <tr><td valign="top">US08</td><td valign="top">Registro de los mantenimientos</td></tr>
 <tr><td valign="top">US09</td><td valign="top">Cálculo del costo del mantenimiento</td></tr>
