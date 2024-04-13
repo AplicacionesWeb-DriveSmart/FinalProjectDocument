@@ -1002,7 +1002,7 @@ Se presentan los siguientes user stories:
 <strong>Branding:</strong><br>
 <p>
 Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a las automotrices, es por eso que lo representamos con una llave inglesa en el logo de nuestro producto. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
-<br>
+<br><br>
 <img src="images/Service Logo.jpg" alt="Logo del servicio" width="30%">
 </p>
 
@@ -1025,6 +1025,10 @@ El único color neutro que se eligió fue el blanco
 ### 4.1.2. Web Style Guidelines	
 ## 4.2. Information Architecture	
 ### 4.2.1. Organization Systems	
+<p>
+El principal objetivo de este punto es ofrecer una guía y apoyo para estructurar la información de la página web. Esto asegurará que, al llevar a cabo la implementación del sistema, sea accesible y sencillo de utilizar para los usuarios. En este nuevo proyecto, se ha decidido emplear la organización jerárquica para las diversas secciones del Landing Page. Esta elección se fundamenta en la variedad de grupos de usuarios y las diferencias según el tipo de usuario que la utilice. Además, para la clasificación del contenido, se opta por un orden numérico para las preguntas frecuentes.
+</p>
+
 ### 4.2.2. Labeling Systems	
 ### 4.2.3. SEO Tags and Meta Tags	
 A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de Car Help.
