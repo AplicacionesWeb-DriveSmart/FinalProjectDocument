@@ -1059,6 +1059,9 @@ Keywords: Workshops, mechanics, products, inventory, tracking, service, technici
 Authors: Car Help team
 ### 4.2.4. Searching Systems	
 ### 4.2.5. Navigation Systems	
+<p>
+El método de navegación entre las diversas secciones de la landing page estará facilitado por una barra superior. Esta barra estará compuesta por los títulos representativos de cada sección, permitiendo que los usuarios puedan acceder directamente a la información deseada simplemente haciendo clic en el título correspondiente. Esta estructura de navegación se ha diseñado para integrarse de manera armoniosa con la interfaz visual de la página, proporcionando una experiencia agradable y fluida para los usuarios.
+</p>
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 <p align="center">
