@@ -868,6 +868,29 @@ Segmento Objetivo: Administrador del Taller de Taller
 <img src="images/as-is.jpg" alt="As-Is mapping" width="100%"></p></td>
 
 ## 2.4. Ubiquitous Language.
+Entidad: Propietario de vehículo
+
+Definición: Persona que posee un vehículo y utiliza los servicios de las compañías automotrices.
+Atributos:
+Datos Personales: Información personal del cliente, incluyendo nombre, dirección, número de contacto, etc.
+Detalles del Vehículo: Información específica sobre el vehículo del cliente, como marca, modelo, año, número de serie, etc.
+Historial de Servicio: Registro de todas las interacciones y servicios proporcionados al cliente.
+Comportamientos:
+Solicitar Servicios: Acción de pedir una revisión técnica o mantenimiento para su vehículo.
+Comunicarse con la Empresa: Interacción para obtener información sobre servicios, precios, horarios, etc.
+
+Entidad: Administrador del taller
+
+Definición: Empresa que ofrece servicios relacionados con vehículos automotores.
+Atributos:
+Datos de la Empresa: Información básica sobre la compañía automotriz, como nombre, ubicación, contacto, etc.
+Servicios Ofrecidos: Lista de servicios disponibles para los clientes.
+Recursos Disponibles: Equipos, personal y herramientas utilizados para llevar a cabo los servicios.
+Comportamientos:
+Programar Citas: Acción de asignar fechas y horarios para servicios solicitados por los clientes.
+Informar Precios y Tiempos: Proporcionar detalles sobre los costos y la duración de los servicios.
+Registrar Interacciones: Documentar todas las comunicaciones y servicios proporcionados a los clientes.
+
 # Capítulo III: Requirements Specification.
 ## 3.1 To-Be Scenario Mapping
 
@@ -962,10 +985,10 @@ Se presentan los siguientes user stories:
 
 ## 3.3 Impact Mapping
 ### Segmento Técnicos/Administradores de Automotrices:
-  <img src="images/impact1.png" alt="Impac Map segmento 1">
+  <img src="images/impact2.png" alt="Impac Map segmento 1">
   
 ### Segmento Clientes de Automotrices:
-  <img src="images/impact2.png" alt="Impac Map segmento 2">
+  <img src="images/impact1.png" alt="Impac Map segmento 2">
   
 ## 3.4 Product Backlog
 
