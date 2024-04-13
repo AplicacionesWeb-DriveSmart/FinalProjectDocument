@@ -1113,9 +1113,190 @@ El método de navegación entre las diversas secciones de la landing page estar�
   
 ## 4.7. Software Object-Oriented Design	
 ### 4.7.1. Class Diagrams	
+
+<p align="center">
+  <img src="images/Diagrama de clase.png" alt="Diagrama de clases" width="100%"></p>
+
 ### 4.7.2. Class Dictionary	
+
+Class Administrator
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for administrator</td>
+  </tr>
+  <tr>
+    <td>firstname</td>
+    <td>string</td>
+    <td>Name of the administrator</td>
+  </tr>
+  <tr>
+    <td>lastname</td>
+    <td>string</td>
+    <td>Last name of the administrator</td>
+  </tr>
+  <tr>
+    <td>password</td>
+    <td>string</td>
+    <td>Password of the administrator account</td>
+  </tr>
+  <tr>
+    <td>ruc</td>
+    <td>int</td>
+    <td>Ruc of the company of the administrator</td>
+  </tr>
+</table>
+
+Class Client
+
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for client</td>
+  </tr>
+  <tr>
+    <td>firstname</td>
+    <td>string</td>
+    <td>Name of the client</td>
+  </tr>
+  <tr>
+    <td>lastname</td>
+    <td>string</td>
+    <td>Last name of the client</td>
+  </tr>
+  <tr>
+    <td>password</td>
+    <td>string</td>
+    <td>Password of the client account</td>
+  </tr>
+  <tr>
+    <td>email</td>
+    <td>string</td>
+    <td>Email associated to client account</td>
+  </tr>
+</table>
+
+Class Vehicle
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for vehicle</td>
+  </tr>
+  <tr>
+    <td>brand</td>
+    <td>string</td>
+    <td>Brand of the vehicle</td>
+  </tr>
+  <tr>
+    <td>model</td>
+    <td>string</td>
+    <td>Model of the vehicle</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>int</td>
+    <td>Date of the vehicle</td>
+  </tr>
+  <tr>
+    <td>plate</td>
+    <td>string</td>
+    <td>Plate of the vehicle</td>
+  </tr>
+</table>
+
+Class Notification
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Notification</td>
+  </tr>
+  <tr>
+    <td>message</td>
+    <td>string</td>
+    <td>Notification message content</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>date</td>
+    <td>Date of the notification</td>
+  </tr>
+</table>
+
+Class adminNotification
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>notification</td>
+    <td>Notification</td>
+    <td>Notification sent to the client</td>
+  </tr>
+  <tr>
+    <td>client</td>
+    <td>Client</td>
+    <td>Client who receives the notification</td>
+  </tr>
+</table>
+
+Class VehicleRegistration
+
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>listOfClients</td>
+    <td>list&lt;Client&gt;</td>
+    <td>List of the clients registered</td>
+  </tr>
+  <tr>
+    <td>administrator</td>
+    <td>Administrator</td>
+    <td>Administrator who controls the list of clients</td>
+  </tr>
+</table>
+
 ## 4.8. Database Design	
 ### 4.8.1. Database Diagram	
+
+<p align="center">
+  <img src="images/Diagrama de base de datos.png" alt="Diagrama de clases" width="100%"></p>
+
 
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management	
