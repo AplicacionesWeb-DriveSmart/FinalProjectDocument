@@ -776,24 +776,25 @@ En la entrevista, Emily nos comenta que siempre presenta problemas al momento de
 
 <u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
-Fecha Entrevista: 
+Fecha Entrevista: 13/04/2024
 
-Entrevistador: 
+Entrevistador: Juan Montes
 
-Entrevistado: 
+Entrevistado: Luis Alberto Peralta Gutiérrez
 
-- Edad: 
-- Distrito: 
+- Edad: 40
+- Distrito: La Molina
 
 Link del Video de la Entrevista:[link]()
 
-- Minuto de Inicio: 34:03
-- Minuto de Fin: 37:55
+- Minuto de Inicio: 
+- Minuto de Fin: 
 
 <img src="img/.png" alt="Entrevista" width="100%">
 
 Resumen:
 
+En la entrevista, hablamos con Luis Peralta, donde nos centramos en el mantenimiento preventivo de vehículos y la gestión de registros de mantenimiento a través de aplicaciones móviles. El entrevistado destacó la importancia de realizar mantenimiento regular, considerando aspectos como la reputación del taller, la conveniencia y la calidad de los servicios. Reconoció que a veces puede ser difícil seguir un programa de mantenimiento regular debido a compromisos laborales. Sin embargo, enfatizó la importancia de mantener registros precisos para garantizar el buen funcionamiento a largo plazo y el valor de reventa del vehículo. El entrevistado mostró disposición a utilizar aplicaciones móviles que simplifiquen la gestión del mantenimiento, destacando la necesidad de características como notificaciones automáticas, seguimiento del historial de mantenimiento y seguridad de datos.
 
 <u>**Entrevista: 6 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
@@ -842,7 +843,26 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 | Ver seguimiento de mantenimiento del vehículo | Alta                   | Alta       |
 
 ### 2.3.3. User Journey Mapping.
+
+Segmento Objetivo: Propietario de un vehiculo
+
+<img src="images/UserJourneyMapping1.JPG" alt="Journey mapping" width="100%"></p></td>
+
+Segmento Objetivo: Administrador del Taller
+
+<img src="images/UserJourneyMapping2.JPG" alt="Journey mapping" width="100%"></p></td>
+
 ### 2.3.4. Empathy Mapping.
+
+Segmento Objetivo: Propietario de un vehiculo
+
+<img src="images/EmpathyMapping1.JPG" alt="Empathy mapping" width="100%"></p></td>
+
+Segmento Objetivo: Administrador del Taller de Taller
+
+<img src="images/EmpathyMapping2.JPG" alt="Empathy mapping" width="100%"></p></td>
+
+
 ### 2.3.5. As-is Scenario Mapping.
 
 <img src="images/as-is.jpg" alt="As-Is mapping" width="100%"></p></td>
@@ -851,7 +871,7 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 # Capítulo III: Requirements Specification.
 ## 3.1 To-Be Scenario Mapping
 
-## Segmento Objetivo #1: Cliente que se inscriben en la aplicación
+Segmento Objetivo #1: Cliente que se inscriben en la aplicación
 
 | Fases                                     | Doing                                                                        | Thinking                                                                     | Feeling                                                                    |
 |-------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -861,7 +881,7 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 
 ---
 
-## Segmento Objetivo #2: Automotrices que se inscriben en la aplicación
+Segmento Objetivo #2: Automotrices que se inscriben en la aplicación
 
 | Fases                                     | Doing                                                                        | Thinking                                                                     | Feeling                                                                    |
 |-------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
