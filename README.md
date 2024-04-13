@@ -1061,6 +1061,27 @@ El único color neutro que se eligió fue el blanco
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management	
 ### 5.1.1. Software Development Environment Configuration	
+
+Project Management:
+
+En la administración de nuestro proyecto, empleamos WhatsApp como el principal medio de comunicación, donde un grupo dedicado facilita el intercambio de ideas y opiniones sobre todos los aspectos del trabajo. También, utilizamos Discord para llevar a cabo reuniones asincrónicas relacionadas con el proyecto. Para la documentación esencial, confiamos en Google Drive, permitiéndonos crear y compartir documentos de manera colaborativa, lo que optimiza nuestro flujo de trabajo y proporciona un seguimiento claro de las contribuciones individuales. En cuanto al manejo de repositorios, nos inclinamos hacia GitHub, que brinda acceso a todos los miembros del equipo para colaborar en el desarrollo y mantenimiento de nuestros proyectos.
+
+Requirements Management:
+
+Para registrar los requisitos optamos por emplear Pivotal Tracker para registrar los requisitos del proyecto, también conocidos como historias de usuario. En esta plataforma, organizamos las historias según su prioridad en el Product Backlog. Este proceso fue colaborativo, con la contribución de todos los miembros del equipo, quienes aportaron a la definición de las historias de usuario y participaron en discusiones sobre las funcionalidades que se consideraron necesarias para la aplicación web.
+
+Product UX/UI Design:
+
+Para la creación de productos de UX, utilizamos UXPressia, una herramienta que nos permite elaborar artefactos como User Personas, Empathy Mapping, Impact Mapping, entre otros. Esta elección nos ha permitido modelar los diseños de la experiencia de usuario, lo que resulta beneficioso para obtener una comprensión más profunda de nuestros segmentos objetivo. Además, hemos empleado Figma para desarrollar los prototipos de la aplicación web, creando wireframes y mock-ups.
+
+Software Development:
+
+EL IDE que hemos estado utilizando Visual Studio Code como nuestro principal entorno de desarrollo. Es una herramienta que todos conocemos bien y que nos encanta por su flexibilidad y facilidad de uso. Además, ofrece un gran apoyo para una amplia gama de lenguajes de programación, lo que nos ha facilitado mucho las cosas. También nos permite conectar nuestros repositorios en línea de GitHub. En cuanto al desarrollo en sí, hemos estado trabajando con lenguajes como HTML, CSS y JavaScript, que ya conocíamos de antemano y nos han sido muy útiles para llevar a cabo nuestras ideas.
+
+Software Testing:
+
+Para llevar a cabo estas pruebas, hemos empleado el lenguaje Gherkin, que se basa en el formato de escenario Given-When-Then y nos permite analizar las variables de entrada y salida. Este lenguaje se destaca por su simplicidad y claridad al utilizar una estructura que se asemeja al lenguaje natural, lo que facilita su comprensión para todos los involucrados en el proceso.
+
 ### 5.1.2. Source Code Management	
 ### 5.1.3. Source Code Style Guide & Conventions	
 ### 5.1.4. Software Deployment Configuration	
