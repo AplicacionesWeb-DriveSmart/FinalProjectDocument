@@ -725,95 +725,10 @@ Resumen:
 
  Sasha Chávez, es una administradora de automotriz de 39 años, nos comenta que mediante el uso de un software pagado, pueden llevar un registro de datos de sus clientes, sin embargo nos comenta que el tema relacionado a la comunicación con sus clientes, es informal, ya que se utiliza distintos medios como mensajes de texto y llamadas telefónicas. Durante la entrevista, se le mostró la idea de nuestro proyecto, que ayudaría a mejorar la interacción con el cliente, además de mejorar el registro de sus clientes. Sasha mostró interés por probar un software más actualizado para una interacción y manejo de registros más moderno, además que ayude a formalizar la interacción con sus clientes.
 
-<u>**Entrevista: 3 - Segmento Objetivo: Administrador de taller**</u>
-
-Fecha Entrevista: 05/04/2024
-
-Entrevistador: Miquel De la Piedra Quintanilla
-
-Entrevistado: Alfredo Baca Lara
-
-Datos del Entrevistado:
-
-- Edad: 64 años
-- Distrito: Surco
-
-Link del Video de la Entrevista:[link]()
-
-- Minuto de Inicio: 12:48
-- Minuto de Fin: 22:05
-
-<img src="images/entrevista3.png" alt="Entrevista" width="100%">
-
-Resumen: 
-
-  Alfredo Baca Lara, es una administradora de automotriz de 64 años, mediante las preguntas, hemos logrado determinar que no se encuentran tan acostumbrados al uso de software tan avanzados para el manejo de sus registros, además que utilizan medios informales como mensajes directos, correos y llamadas para comunicarse con sus clientes. Durante la entrevista se comentó acerca de la aplicación del proyecto. Alfredo mostró un pensamiento de aceptación, ya que nos dice que hoy en día todo funciona con la ayuda de la tecnología y esto seria de gran ayuda para mejorar el método de registro que poseen.
-
-<u>**Entrevista: 4 - Segmento Objetivo: Propietarios de Vehiculo**</u>
-
-Fecha Entrevista: 
-
-Entrevistador:
-
-Entrevistado: 
-
-Datos del Entrevistado:
-
-- Edad:
-- Distrito: 
-
-Link del Video de la Entrevista:[link]()
-
-- Minuto de Inicio: 
-- Minuto de Fin: 
-
-<img src="images/.png" alt="Entrevista" width="100%">
-
-Resumen:
+ **Segmento Objetivo: Cliente**
 
 
-
-<u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
-
-Fecha Entrevista: 
-
-Entrevistador: 
-
-Entrevistado: 
-
-- Edad: 
-- Distrito: 
-
-Link del Video de la Entrevista:[link]()
-
-- Minuto de Inicio: 34:03
-- Minuto de Fin: 37:55
-
-<img src="img/.png" alt="Entrevista" width="100%">
-
-Resumen:
-
-
-<u>**Entrevista: 6 - Segmento Objetivo: Propietarios de Vehiculo**</u>
-
-Fecha Entrevista: 
-
-Entrevistador: 
-
-Entrevistado: 
-
-- Edad: 
-- Distrito:
-
-Link del Video de la Entrevista:[link]()
-
-- Minuto de Inicio: 
-- Minuto de Fin: 
-
-<img src="img/.PNG" alt="Entrevista" width="100%">
-
-Resumen:
-
+### 2.2.2 Registro de entrevistas.
 ### 2.2.3 Análisis de entrevistas.
 ## 2.3 Needfinding.
 ### 2.3.1. User Personas.
@@ -831,6 +746,15 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
     </p>
     
 ### 2.3.2. User Task Matrix.
+
+|          Juan Valazquez          | Frecuencia | Importancia |
+|----------------------------------|-------------------------------------|------------|
+| Agendar una cita de mantenimiento| Alta                                | Alta       | 
+| Comunicarse con la automotriz    | Alta                                | Alta       | 
+| Registrar datos del vehículo     | Media                               | Alta       | 
+| Verificar historial de mantenimiento | Media                            | Alta       | 
+| Ver seguimiento de mantenimiento del vehículo | Alta                   | Alta       |
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
@@ -860,12 +784,12 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 <tr><td valign="top">US10</td><td valign="top">Recordatorios de mantenimiento al vehículo</td></tr>
 <tr><td valign="top">US11</td><td valign="top">Categorizar el tipo de mantenimiento</td></tr>
 <tr><td valign="top">US12</td><td valign="top">Historial de mantenimientos realizados</td></tr>
-<tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top">"texto"</td><td valign="top">US13</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US14</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US15</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US16</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US17</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US18</td><td valign="top">"texto"</td></tr>
+<tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top">Como cliente, quiero recibir recordatorios automáticos de mantenimiento para mi vehículo</td><td valign="top">US13</td><td valign="top">Recordatorio de inspección técnica</td></tr>
+<tr><td valign="top">US14</td><td valign="top">Recordatorio de cambio de aceite</td></tr>
+<tr><td valign="top">US15</td><td valign="top">Personalización de recordatorios de mantenimiento</td></tr>
+<tr><td valign="top">US16</td><td valign="top">Recordatorio de vencimiento de póliza de seguro</td></tr>
+<tr><td valign="top">US17</td><td valign="top">Recordatorio de vencimiento de garantía</td></tr>
+<tr><td valign="top">US18</td><td valign="top">Marcado de recordatorios de mantenimiento como completados</td></tr>
 <tr><td rowspan="6" valign="top">E04</td><td rowspan="6" valign="top"><p>Como gerente del taller</p><p>Quiero poder crear una cuenta, modificar y eliminar los datos de los clientes</p><p>Para poder actualizar la información de nuestros clientes y agregar nuevos.</p><p></p>
 </td><td valign="top">US19</td><td valign="top">Registrar tecnico o administrador</td></tr>
 <tr><td valign="top">US20</td><td valign="top">Registrar nuevo cliente</td></tr>
@@ -897,12 +821,12 @@ Se presentan los siguientes user stories:
 |US10|Recordatorios de mantenimiento al vehículo|Como cliente que cuenta con un vehículo, quiero recibir recordatorios automáticos para los mantenimientos periódicos de mi vehículo.|<p>**Escenario 1: Recepción Exitosa de Recordatorio de Mantenimiento**</p><p>- Dado que un cliente tiene configurados recordatorios de mantenimiento en la aplicación,</p><p>- Cuando llega el momento programado para un mantenimiento y la aplicación envía un recordatorio automático,</p><p>- Entonces el cliente recibe el recordatorio y la aplicación muestra la información relevante sobre el mantenimiento a realizar.</p><p>**Escenario 2: Configuración de Recordatorios**</p><p>- Dado que un cliente accede a la configuración de recordatorios en la aplicación,</p><p>- Cuando establece la frecuencia y los detalles para los recordatorios de mantenimiento,</p><p>- Entonces la aplicación guarda la configuración correctamente y comienza a enviar los recordatorios según lo programado.</p>|E02|
 |US11|Categorizar el tipo de mantenimiento|Como cliente que cuenta con un vehículo, quiero poder categorizar los diferentes tipos de mantenimiento realizados en mi vehículo.|<p>**Escenario 1: Categorización Exitosa del Tipo de Mantenimiento**</p><p>- Dado que un cliente accede a la función de categorización de mantenimientos en la aplicación,</p><p>- Cuando asigna categorías adecuadas a los diferentes tipos de mantenimiento registrados,</p><p>- Entonces la aplicación guarda las categorías correctamente y muestra la información categorizada en el historial de mantenimientos.</p><p>**Escenario 2: Categorización Inválida del Tipo de Mantenimiento**</p><p>- Dado que un cliente intenta asignar una categoría no válida a un mantenimiento en la aplicación,</p><p>- Cuando selecciona una categoría inexistente o incorrecta,</p><p>- Entonces la aplicación muestra un mensaje de error indicando que la categoría no es válida y no permite completar la acción hasta que se elija una categoría válida.</p>|E02|
 |US12|Historial de mantenimientos realizado|Como cliente que cuenta con un vehículo, quiero poder ver un historial completo de todos los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Acceso al Historial de Mantenimientos**</p><p>- Dado que un cliente accede al historial de mantenimientos en la aplicación,</p><p>- Cuando revisa la lista de mantenimientos realizados,</p><p>- Entonces la aplicación muestra de manera clara y organizada todos los registros de mantenimientos con detalles completos.</p><p>**Escenario 2: Ordenamiento del Historial de Mantenimientos**</p><p>- Dado que un cliente accede al historial de mantenimientos en la aplicación,</p><p>- Cuando ordena los registros por fecha, tipo de mantenimiento o costo,</p><p>- Entonces la aplicación muestra el historial ordenado según el criterio seleccionado por el cliente.</p>|E02|
-|US13|"texto"|"texto"|01|E01|
-|US14|"texto"|"texto"|01|E01|
-|US15|"texto"|"texto"|01|E01|
-|US16|"texto"|"texto"|01|E01|
-|US17|"texto"|"texto"|01|E01|
-|US18|"texto"|"texto"|01|E01|
+|US13|Recordatorio de inspección técnica|Como cliente, quiero recibir un recordatorio automático un mes antes de que expire la próxima inspección técnica de mi vehículo|<p>**Escenario 1: Envío de Notificación**</p><p>-Dado que falta 1 mes para la inspección técnica</p><p>-Cuando utiliza mi dispositivo móvil,</p><p>-Entonces me llega la notificacion de que le toca inspeccion tecnica a mi vehículo</p><p>**Escenario 2: Gestión de Notificación**</p><p>-Dado recibi la notificacion de revisión técnica,</p><p>-Cuando entre a la aplicación y al apartado de notificación,</p><p>-Entonces podré ver los detalles sobre la fecha límite para programar la inspección</p>|E03|
+|US14|Recordatorio de cambio de aceite|Como cliente, quiero recibir un recordatorio automático por notificación push en la aplicación dos semanas antes de que sea necesario realizar un cambio de aceite en mi vehículo|01|E03|
+|US15|Personalización de recordatorios de mantenimiento|"texto"|01|E03|
+|US16|Recordatorio de vencimiento de póliza de seguro|"texto"|01|E03|
+|US17|Recordatorio de vencimiento de garantía|"texto"|01|E03|
+|US18|Marcado de recordatorios de mantenimiento como completados|"texto"|01|E03|
 |US19|Registrar gerente del taller|Como gerente del taller quiero registrarme en la aplicación para gestionar la información de los clientes y utilizarla en futuras revisiones.|<p>**Escenario 1: Usuario se registra correctamente.** </p><p>- Dado que el gerente del taller necesita crear una cuenta en AutoPro Tracker.</p><p>- Cuando seleccione la opción de registro para una automotriz y haya ingresado la información de una empresa no registrada y una contraseña correcta.</p><p>- Entonces se notificará la correcta creación de la cuenta.</p><p>**Escenario 2: Usuario se registra erróneamente.**</p><p>- Dado que el gerente del taller necesita crear una cuenta en AutoPro Tracker.</p><p>- Cuando seleccione la opción de registro para automotriz y haya ingresado las credenciales de la empresa de manera incorrecta o una empresa ya registrada o contraseña incorrecta.</p><p>- Entonces la plataforma notificará el error en la creación de la cuenta.</p>|E04|
 |US20|Registrar nuevo cliente|Como gerente del taller quiero añadir los nuevos clientes que llegan a la automotriz para mantenerlos actualizados e informados en todo momento.|<p>**Escenario 1: Usuario registra un nuevo cliente.**</p><p></p><p>- Dado que gerente del taller quiere anadir a un nuevo cliente.</p><p></p><p>- Cuando seleccione la opción agregar cliente y se encuentre la cuenta de dicho cliente y le de confirmar a la opción de añadir.</p><p></p><p>- Entonces el cliente será registrado en la base de datos de la automotriz y se conectará con esta misma.</p><p></p><p>**Escenario 2: Usuario no encuentra perfil del cliente.**</p><p></p><p>- Dado que gerente del taller quiere anadir a un nuevo cliente.</p><p></p><p>- Cuando seleccione la opción agregar cliente y busque la cuenta de dicho cliente y no logre encontrarla.</p><p></p><p>- Entonces el usuario no podrá registrar al cliente y este deberá revisar que haya enviado correctamente su información.</p>|E04|
 |US21|<p>Actualización de clientes</p><p></p>|Como gerente del taller quiero gestionar los datos de los clientes para mantenerlos actualizados y ordenados|<p>**Escenario 1: Usuario actualiza de manera correcta una nueva revisión técnica.**</p><p></p><p>- Dado que gerente del taller desea agregar una revisión técnica en el historial del cliente.</p><p></p><p>- Cuando seleccione el usuario que desea actualizar y seleccione la opción añadir e ingrese todos los datos requeridos de manera correcta.</p><p></p><p>- Entonces se actualizará la base de datos con la nueva información añadida.</p><p></p><p>**Escenario 2: Usuario actualiza de manera errónea una nueva revisión técnica.**</p><p></p><p>- Dado que gerente del taller desea agregar una revisión técnica en el historial del cliente.</p><p></p><p>- Cuando seleccione el usuario que desea actualizar y seleccione la opción añadir e ingrese todos los datos requeridos omitiendo algunos de ellos o brindando datos erróneos.</p><p></p><p>- Entonces se avisará los espacios que falta completar y los que falten corregir para añadir la información.</p>|E04|
@@ -936,6 +860,22 @@ Se presentan los siguientes user stories:
 <p>
 Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a las automotrices, es por eso que lo representamos con una llave inglesa en el logo de nuestro producto. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
 </p>
+
+<strong>Typography:</strong><br>
+<p>
+En cuanto a la elección de la tipografía, se eligió la fuente “Montserrat”, puesto que no solo se quería que la fuente sea solo un estilo que intentara captar la atención del usuario, sino también era fundamental que sea legible y estéticamente agradable para el usuario. Con esta fuente, se logra lo deseado y se consigue brindar la información de manera clara dentro de la página.
+</p>
+
+<strong>Paleta de colores:</strong><br>
+<p>
+La paleta de colores elegida estuvo basada en los colores base del logo. A continuación se muestran los colores:
+</p>
+
+<strong>Colores neutros:</strong><br>
+<p>
+El único color neutro que se eligió fue el blanco
+</p>
+
 
 ### 4.1.2. Web Style Guidelines	
 ## 4.2. Information Architecture	
@@ -983,194 +923,11 @@ Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el
 ### 4.6.1. Software Architecture Context Diagram	
 ### 4.6.2. Software Architecture Container Diagrams	
 ### 4.6.3. Software Architecture Components Diagrams	
-## 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
-
-<div align="center">
-  <img src="images/Diagrama de clase.png" alt="KeyComponentes" width="100%">
-</div>
-
-### 4.7.2. Class Dictionary.
-
-Class Administrator
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for administrator</td>
-  </tr>
-  <tr>
-    <td>firstname</td>
-    <td>string</td>
-    <td>Name of the administrator</td>
-  </tr>
-  <tr>
-    <td>lastname</td>
-    <td>string</td>
-    <td>Last name of the administrator</td>
-  </tr>
-  <tr>
-    <td>password</td>
-    <td>string</td>
-    <td>Password of the administrator account</td>
-  </tr>
-  <tr>
-    <td>ruc</td>
-    <td>int</td>
-    <td>Ruc of the company of the administrator</td>
-  </tr>
-</table>
-
-Class Client
-
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for client</td>
-  </tr>
-  <tr>
-    <td>firstname</td>
-    <td>string</td>
-    <td>Name of the client</td>
-  </tr>
-  <tr>
-    <td>lastname</td>
-    <td>string</td>
-    <td>Last name of the client</td>
-  </tr>
-  <tr>
-    <td>password</td>
-    <td>string</td>
-    <td>Password of the client account</td>
-  </tr>
-  <tr>
-    <td>email</td>
-    <td>string</td>
-    <td>Email associated to client account</td>
-  </tr>
-</table>
-
-Class Vehicle
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for vehicle</td>
-  </tr>
-  <tr>
-    <td>brand</td>
-    <td>string</td>
-    <td>Brand of the vehicle</td>
-  </tr>
-  <tr>
-    <td>model</td>
-    <td>string</td>
-    <td>Model of the vehicle</td>
-  </tr>
-  <tr>
-    <td>date</td>
-    <td>int</td>
-    <td>Date of the vehicle</td>
-  </tr>
-  <tr>
-    <td>plate</td>
-    <td>string</td>
-    <td>Plate of the vehicle</td>
-  </tr>
-</table>
-
-Class Notification
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for Notification</td>
-  </tr>
-  <tr>
-    <td>message</td>
-    <td>string</td>
-    <td>Notification message content</td>
-  </tr>
-  <tr>
-    <td>date</td>
-    <td>date</td>
-    <td>Date of the notification</td>
-  </tr>
-</table>
-
-Class adminNotification
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>notification</td>
-    <td>Notification</td>
-    <td>Notification sent to the client</td>
-  </tr>
-  <tr>
-    <td>client</td>
-    <td>Client</td>
-    <td>Client who receives the notification</td>
-  </tr>
-</table>
-
-Class VehicleRegistration
-
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>listOfClients</td>
-    <td>list&lt;Client&gt;</td>
-    <td>List of the clients registered</td>
-  </tr>
-  <tr>
-    <td>administrator</td>
-    <td>Administrator</td>
-    <td>Administrator who controls the list of clients</td>
-  </tr>
-</table>
-
-## 4.8. Database Design.
-
-### 4.8.1. Database Diagram.
-
-<div align="center">
-  <img src="images/Diagrama de base de datos.png" alt="KeyComponentes" width="100%">
-</div>
+## 4.7. Software Object-Oriented Design	
+### 4.7.1. Class Diagrams	
+### 4.7.2. Class Dictionary	
+## 4.8. Database Design	
+### 4.8.1. Database Diagram	
 
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management	
