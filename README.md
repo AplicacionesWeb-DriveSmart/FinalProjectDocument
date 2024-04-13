@@ -798,21 +798,21 @@ En la entrevista, hablamos con Luis Peralta, donde nos centramos en el mantenimi
 
 <u>**Entrevista: 6 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
-Fecha Entrevista: 
+Fecha Entrevista: 06/04/2024
 
-Entrevistador: 
+Entrevistador: Jorge Altamirano Saenz
 
-Entrevistado: 
+Entrevistado: Gaby Manrique
 
-- Edad: 
-- Distrito:
+- Edad: 50
+- Distrito: La Molina
 
 Link del Video de la Entrevista:[link]()
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 0:00
+- Minuto de Fin: 03:46
 
-<img src="img/imgentrevista.PNG" alt="Entrevista" width="100%">
+<img src="img/imgentrevista6.PNG" alt="Entrevista" width="100%">
 
 Resumen:
 
