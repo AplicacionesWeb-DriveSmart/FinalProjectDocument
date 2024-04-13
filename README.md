@@ -1003,7 +1003,7 @@ Se presentan los siguientes user stories:
 <p>
 Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a las automotrices, es por eso que lo representamos con una llave inglesa en el logo de nuestro producto. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
 <br>
-<img src="images/Service Logo.jpg" alt="Logo del servicio" width="70%">
+<img src="images/Service Logo.jpg" alt="Logo del servicio" width="30%">
 </p>
 
 <strong>Typography:</strong><br>
