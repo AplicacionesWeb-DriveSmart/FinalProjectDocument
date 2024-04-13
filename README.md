@@ -1029,6 +1029,21 @@ El único color neutro que se eligió fue el blanco
 <img src="images/color_neutro.png" alt="Color neutro" width="30%">
 
 ### 4.1.2. Web Style Guidelines	
+<p>
+En Car Help, se ha elegido cuidadosamente los elementos de estilo web para que el usuario tenga una experiencia que refleje la esencia de la plataforma y atienda a las necesidades del público relacionado con la industria automotriz. Los colores base elegidos están relacionados con nuestro logo, para que haya más sintonía con la página y se vea agradable a la vista. Para el estilo de letra elegido, se optó por una tipografía legible y formal, ya que se desea que el usuario logre entender la información de manera clara y efectiva, es por esto que también se emplean distintos tamaños de fuente, con el fin de dar accesibilidad a todo los usuarios, y puedan interactuar con la plataforma sin ningún problema. 
+</p>
+<h4><strong>Colores base:</strong><br></h4>
+<img src="images/paleta_colores.png" alt="Colores Base" width="30%">
+
+<h4><strong>Colores neutros:</strong><br></h4>
+<img src="images/color_neutro.png" alt="Color neutro" width="30%">
+
+<h4><strong>Estilo de letras:</strong><br></h4>
+<img src="images/estilo_letras.png" alt="Estilo de letras" width="30%">
+
+<h4><strong>Botones:</strong><br></h4>
+<img src="images/botones.png" alt="Botones" width="30%">
+
 ## 4.2. Information Architecture	
 ### 4.2.1. Organization Systems	
 <p>
