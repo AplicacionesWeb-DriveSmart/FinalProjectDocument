@@ -22,7 +22,7 @@
 | Altamirano Saenz, Jorge Armando  | U202215888 |
 | De la Piedra Quintanilla, Erwin Miquel | U202112179 |
 | Guimaraes Escalante, Carlos Eduardo | U202210364 |
-| Gutierrez Zumaeta, Manuel Alonso | U201611430 |
+| Gutierrez Zumaeta, Manuel Alonso | U202112353 |
 | Montes Figueroa, Juan Eduardo | U202210775 |
 
 #### Ciclo 2024-01
