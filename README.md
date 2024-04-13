@@ -688,6 +688,20 @@ Descripción:
  Sasha Chávez, es una administradora de automotriz de 39 años, nos comenta que mediante el uso de un software pagado, pueden llevar un registro de datos de sus clientes, sin embargo nos comenta que el tema relacionado a la comunicación con sus clientes, es informal, ya que se utiliza distintos medios como mensajes de texto y llamadas telefónicas. Durante la entrevista, se le mostró la idea de nuestro proyecto, que ayudaría a mejorar la interacción con el cliente, además de mejorar el registro de sus clientes. Sasha mostró interés por probar un software más actualizado para una interacción y manejo de registros más moderno, además que ayude a formalizar la interacción con sus clientes.
 
  **Segmento Objetivo: Cliente**
+ <p align="justify">
+  <img src="images/entrevistaManuel.png" alt="fotoEntrevista" width="50%">
+</p>
+
+Link de la entrevista: [https://drive.google.com/file/d/1VRFWkQ34_qsHDLyocYOGrrW0WN39ltxi/view]
+
+Nombre y apellido: Emily Mendoza
+
+Edad: 20
+
+Resumen de la entrevista:
+
+En la entrevista, Emily nos comenta que siempre presenta problemas al momento de hacerle un mantenimiento a su vehículo, ya que siempre presenta problemas recordando o también por no tener un lugar de confianza. Le gustaría que haya un seguimiento cercano al estado de su vehículo para que le recuerde que dia le toca mantenimiento, además un sistema para poder reservar citas con las calificaciones del lugar donde esté yendo y por ultimo tambien le gustaria un reporte de cada mantenimiento que haga para poder tener siempre información de lo que modifican a su vehículo.
+
 
 
 ### 2.2.2 Registro de entrevistas.
@@ -708,6 +722,15 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
     </p>
     
 ### 2.3.2. User Task Matrix.
+
+|          Juan Valazquez          | Frecuencia | Importancia |
+|----------------------------------|-------------------------------------|------------|
+| Agendar una cita de mantenimiento| Alta                                | Alta       | 
+| Comunicarse con la automotriz    | Alta                                | Alta       | 
+| Registrar datos del vehículo     | Media                               | Alta       | 
+| Verificar historial de mantenimiento | Media                            | Alta       | 
+| Ver seguimiento de mantenimiento del vehículo | Alta                   | Alta       |
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
