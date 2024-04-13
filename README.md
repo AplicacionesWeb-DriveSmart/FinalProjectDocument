@@ -965,7 +965,8 @@ Se presentan los siguientes user stories:
 |US11|Categorizar el tipo de mantenimiento|Como cliente que cuenta con un vehículo, quiero poder categorizar los diferentes tipos de mantenimiento realizados en mi vehículo.|<p>**Escenario 1: Categorización Exitosa del Tipo de Mantenimiento**</p><p>- Dado que un cliente accede a la función de categorización de mantenimientos en la aplicación,</p><p>- Cuando asigna categorías adecuadas a los diferentes tipos de mantenimiento registrados,</p><p>- Entonces la aplicación guarda las categorías correctamente y muestra la información categorizada en el historial de mantenimientos.</p><p>**Escenario 2: Categorización Inválida del Tipo de Mantenimiento**</p><p>- Dado que un cliente intenta asignar una categoría no válida a un mantenimiento en la aplicación,</p><p>- Cuando selecciona una categoría inexistente o incorrecta,</p><p>- Entonces la aplicación muestra un mensaje de error indicando que la categoría no es válida y no permite completar la acción hasta que se elija una categoría válida.</p>|E02|
 |US12|Historial de mantenimientos realizado|Como cliente que cuenta con un vehículo, quiero poder ver un historial completo de todos los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Acceso al Historial de Mantenimientos**</p><p>- Dado que un cliente accede al historial de mantenimientos en la aplicación,</p><p>- Cuando revisa la lista de mantenimientos realizados,</p><p>- Entonces la aplicación muestra de manera clara y organizada todos los registros de mantenimientos con detalles completos.</p><p>**Escenario 2: Ordenamiento del Historial de Mantenimientos**</p><p>- Dado que un cliente accede al historial de mantenimientos en la aplicación,</p><p>- Cuando ordena los registros por fecha, tipo de mantenimiento o costo,</p><p>- Entonces la aplicación muestra el historial ordenado según el criterio seleccionado por el cliente.</p>|E02|
 |US13|Recordatorio de inspección técnica|Como cliente, quiero recibir un recordatorio automático un mes antes de que expire la próxima inspección técnica de mi vehículo|<p>**Escenario 1: Envío de Notificación**</p><p>-Dado que falta 1 mes para la inspección técnica</p><p>-Cuando utiliza mi dispositivo móvil,</p><p>-Entonces me llega la notificacion de que le toca inspeccion tecnica a mi vehículo</p><p>**Escenario 2: Gestión de Notificación**</p><p>-Dado recibi la notificacion de revisión técnica,</p><p>-Cuando entre a la aplicación y al apartado de notificación,</p><p>-Entonces podré ver los detalles sobre la fecha límite para programar la inspección</p>|E03|
-|US14|Recordatorio de cambio de aceite|Como cliente, quiero recibir un recordatorio automático por notificación push en la aplicación dos semanas antes de que sea necesario realizar un cambio de aceite en mi vehículo|01|E03|
+|US14|Recordatorio de cambio de aceite|Como cliente, quiero recibir un recordatorio automático por notificación push en la aplicación dos semanas antes de que sea necesario realizar un cambio de aceite en mi vehículo|<p>**Escenario 1: Envío de Notificación**</p><p>Dado que faltan 2 semanas antes de la fecha recomendada para el cambio de aceite</p><p>Cuando utiliza mi dispositivo móvil,
+</p><p>Entonces me llega la notificación de que le toca cambio de aceite a mi vehículo</p><p>Escenario 2: Gestión de notificación</p><p>Dado que recibe la notificación de cambio de aceite,</p><p>Cuando entre a la aplicación y al apartado de notificación,</p><p>Entonces podré ver los detalles del tipo de servicio necesario para programar la cita</p>|E03|
 |US15|Personalización de recordatorios de mantenimiento|"texto"|01|E03|
 |US16|Recordatorio de vencimiento de póliza de seguro|"texto"|01|E03|
 |US17|Recordatorio de vencimiento de garantía|"texto"|01|E03|
@@ -1115,6 +1116,27 @@ Authors: Car Help team
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management	
 ### 5.1.1. Software Development Environment Configuration	
+
+Project Management:
+
+En la administración de nuestro proyecto, empleamos WhatsApp como el principal medio de comunicación, donde un grupo dedicado facilita el intercambio de ideas y opiniones sobre todos los aspectos del trabajo. También, utilizamos Discord para llevar a cabo reuniones asincrónicas relacionadas con el proyecto. Para la documentación esencial, confiamos en Google Drive, permitiéndonos crear y compartir documentos de manera colaborativa, lo que optimiza nuestro flujo de trabajo y proporciona un seguimiento claro de las contribuciones individuales. En cuanto al manejo de repositorios, nos inclinamos hacia GitHub, que brinda acceso a todos los miembros del equipo para colaborar en el desarrollo y mantenimiento de nuestros proyectos.
+
+Requirements Management:
+
+Para registrar los requisitos optamos por emplear Pivotal Tracker para registrar los requisitos del proyecto, también conocidos como historias de usuario. En esta plataforma, organizamos las historias según su prioridad en el Product Backlog. Este proceso fue colaborativo, con la contribución de todos los miembros del equipo, quienes aportaron a la definición de las historias de usuario y participaron en discusiones sobre las funcionalidades que se consideraron necesarias para la aplicación web.
+
+Product UX/UI Design:
+
+Para la creación de productos de UX, utilizamos UXPressia, una herramienta que nos permite elaborar artefactos como User Personas, Empathy Mapping, Impact Mapping, entre otros. Esta elección nos ha permitido modelar los diseños de la experiencia de usuario, lo que resulta beneficioso para obtener una comprensión más profunda de nuestros segmentos objetivo. Además, hemos empleado Figma para desarrollar los prototipos de la aplicación web, creando wireframes y mock-ups.
+
+Software Development:
+
+EL IDE que hemos estado utilizando Visual Studio Code como nuestro principal entorno de desarrollo. Es una herramienta que todos conocemos bien y que nos encanta por su flexibilidad y facilidad de uso. Además, ofrece un gran apoyo para una amplia gama de lenguajes de programación, lo que nos ha facilitado mucho las cosas. También nos permite conectar nuestros repositorios en línea de GitHub. En cuanto al desarrollo en sí, hemos estado trabajando con lenguajes como HTML, CSS y JavaScript, que ya conocíamos de antemano y nos han sido muy útiles para llevar a cabo nuestras ideas.
+
+Software Testing:
+
+Para llevar a cabo estas pruebas, hemos empleado el lenguaje Gherkin, que se basa en el formato de escenario Given-When-Then y nos permite analizar las variables de entrada y salida. Este lenguaje se destaca por su simplicidad y claridad al utilizar una estructura que se asemeja al lenguaje natural, lo que facilita su comprensión para todos los involucrados en el proceso.
+
 ### 5.1.2. Source Code Management	
 ### 5.1.3. Source Code Style Guide & Conventions	
 ### 5.1.4. Software Deployment Configuration	
