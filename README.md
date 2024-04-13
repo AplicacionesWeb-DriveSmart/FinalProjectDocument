@@ -1000,28 +1000,29 @@ Se presentan los siguientes user stories:
 
 ### 4.1.1. General Style Guidelines	
 
-<strong>Branding:</strong><br>
+<h4><strong>Branding:</strong><br></h4>
 <p>
 Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a las automotrices, es por eso que lo representamos con una llave inglesa en el logo de nuestro producto. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
-<br><br>
-<img src="images/Service Logo.jpg" alt="Logo del servicio" width="30%">
 </p>
+<img src="images/Service Logo.jpg" alt="Logo del servicio" width="30%">
 
-<strong>Typography:</strong><br>
+<h4><strong>Typography:</strong><br></h4>
 <p>
 En cuanto a la elección de la tipografía, se eligió la fuente “Montserrat”, puesto que no solo se quería que la fuente sea solo un estilo que intentara captar la atención del usuario, sino también era fundamental que sea legible y estéticamente agradable para el usuario. Con esta fuente, se logra lo deseado y se consigue brindar la información de manera clara dentro de la página.
 </p>
+<img src="images/Typography.png" alt="Tipografia" width="30%">
 
-<strong>Paleta de colores:</strong><br>
+<h4><strong>Paleta de colores:</strong><br></h4>
 <p>
 La paleta de colores elegida estuvo basada en los colores base del logo. A continuación se muestran los colores:
 </p>
+<img src="images/paleta_colores.png" alt="Paleta colores" width="30%">
 
-<strong>Colores neutros:</strong><br>
+<h4><strong>Colores neutros:</strong><br></h4>
 <p>
 El único color neutro que se eligió fue el blanco
 </p>
-
+<img src="images/color_neutro.png" alt="Color neutro" width="30%">
 
 ### 4.1.2. Web Style Guidelines	
 ## 4.2. Information Architecture	
@@ -1062,6 +1063,7 @@ Authors: Car Help team
 <p>
 El método de navegación entre las diversas secciones de la landing page estará facilitado por una barra superior. Esta barra estará compuesta por los títulos representativos de cada sección, permitiendo que los usuarios puedan acceder directamente a la información deseada simplemente haciendo clic en el título correspondiente. Esta estructura de navegación se ha diseñado para integrarse de manera armoniosa con la interfaz visual de la página, proporcionando una experiencia agradable y fluida para los usuarios.
 </p>
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 <p align="center">
