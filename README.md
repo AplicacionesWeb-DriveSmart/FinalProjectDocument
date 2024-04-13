@@ -851,9 +851,23 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 # Capítulo III: Requirements Specification.
 ## 3.1 To-Be Scenario Mapping
 
-**Segmento Clientes de Automotrices:**
+## Segmento Objetivo #1: Cliente que se inscriben en la aplicación
 
-**Segmento Técnicos/Administradores de Automotrices:**
+| Fases                                     | Doing                                                                        | Thinking                                                                     | Feeling                                                                    |
+|-------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Reservar citas de servicio fácilmente     | Utilizando la función de reserva sin problemas.                              | Apreciando la conveniencia y eficiencia del proceso de reserva.              | Satisfechos con la facilidad de uso y la rapidez del proceso de reserva.   |
+| Ofrecer recomendaciones personalizadas    | La aplicación utiliza datos del cliente para ofrecer recomendaciones personalizadas. | Reconociendo la relevancia y utilidad de las recomendaciones personalizadas. | Contentos con la atención personalizada y útil de la aplicación.           |
+| Integrar sistema de alertas proactivas    | El sistema envía alertas automáticamente basadas en el historial del vehículo y las fechas de servicio. | Valorando la atención proactiva a su seguridad y mantenimiento.             | Seguros y confiados en el cuidado de su vehículo gracias a las alertas.   |
+
+---
+
+## Segmento Objetivo #2: Automotrices que se inscriben en la aplicación
+
+| Fases                                     | Doing                                                                        | Thinking                                                                     | Feeling                                                                    |
+|-------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Reservar citas de servicio fácilmente     | Observando una mayor eficiencia en la gestión de citas y comunicación con los clientes. | Considerando la integración de la aplicación en sus procesos operativos para mejorar la eficiencia y la satisfacción del cliente. | Entusiasmadas con la posibilidad de optimizar sus operaciones y mejorar la satisfacción del cliente. |
+| Ofrecer recomendaciones personalizadas    | Apreciando la capacidad de la aplicación para mejorar la satisfacción del cliente y fomentar la fidelización. | Visualizando el impacto positivo en la retención de clientes y la rentabilidad del negocio. | Motivadas por el potencial de incrementar la lealtad del cliente y los ingresos. |
+| Integrar sistema de alertas proactivas    | Reconociendo el valor añadido de la plataforma en la gestión de mantenimiento y servicios. | Interesadas en la mejora de la comunicación y la relación con los clientes. | Confianza en la capacidad de la plataforma para impulsar la eficiencia y la rentabilidad. |
 
 ## 3.2 User Stories
 
@@ -928,10 +942,10 @@ Se presentan los siguientes user stories:
 
 ## 3.3 Impact Mapping
 ### Segmento Técnicos/Administradores de Automotrices:
-  <img src="images/.png" alt="Impac Map segmento 1">
+  <img src="images/impact1.png" alt="Impac Map segmento 1">
   
 ### Segmento Clientes de Automotrices:
-  <img src="images/.png" alt="Impac Map segmento 2">
+  <img src="images/impact2.png" alt="Impac Map segmento 2">
   
 ## 3.4 Product Backlog
 
@@ -1027,9 +1041,18 @@ Authors: Car Help team
 ### 4.4.4. Web Applications User Flow Diagrams	
 ## 4.5. Web Applications Prototyping	
 ## 4.6. Domain-Driven Software Architecture	
-### 4.6.1. Software Architecture Context Diagram	
-### 4.6.2. Software Architecture Container Diagrams	
-### 4.6.3. Software Architecture Components Diagrams	
+### 4.6.1. Software Architecture Context Diagram
+<p align="center">
+  <img src="images/c41.png" alt="context" width="100%"></p>
+
+### 4.6.2. Software Architecture Container Diagrams
+<p align="center">
+  <img src="images/c42.png" alt="container" width="100%"></p>
+
+### 4.6.3. Software Architecture Components Diagrams
+<p align="center">
+  <img src="images/c43.png" alt="component" width="100%"></p>
+  
 ## 4.7. Software Object-Oriented Design	
 ### 4.7.1. Class Diagrams	
 ### 4.7.2. Class Dictionary	
