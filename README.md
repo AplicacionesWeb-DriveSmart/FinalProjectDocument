@@ -1089,6 +1089,10 @@ Keywords: Workshops, mechanics, products, inventory, tracking, service, technici
 
 Authors: Car Help team
 ### 4.2.4. Searching Systems	
+<p>
+El sistema de búsqueda es una cosa que va ayudar a los usuarios a encontrar los vehículos que tengan registrados en caso tengan más de uno, asimismo, para que el usuario no tenga que estar haciendo búsquedas tediosas, le añadimos un panel en el lado izquierdo, que contiene las etiquetas mencionadas anteriormente, las cuales llevan al usuario de frente a lo que ellos desean, ya sea a la página inicial, al perfil, a los chats de comunicación o a los vehículos. 
+</p>
+
 ### 4.2.5. Navigation Systems	
 <p>
 El método de navegación entre las diversas secciones de la landing page estará facilitado por una barra superior. Esta barra estará compuesta por los títulos representativos de cada sección, permitiendo que los usuarios puedan acceder directamente a la información deseada simplemente haciendo clic en el título correspondiente. Esta estructura de navegación se ha diseñado para integrarse de manera armoniosa con la interfaz visual de la página, proporcionando una experiencia agradable y fluida para los usuarios.
