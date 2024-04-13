@@ -1008,16 +1008,16 @@ El único color neutro que se eligió fue el blanco
 ## 4.6. Domain-Driven Software Architecture	
 ### 4.6.1. Software Architecture Context Diagram
 <p align="center">
-  <img src="images/c41.png" alt="context" width="100%"></p></td>
-</p>
+  <img src="images/c41.png" alt="context" width="100%"></p>
+
 ### 4.6.2. Software Architecture Container Diagrams
 <p align="center">
-  <img src="images/c42.png" alt="container" width="100%"></p></td>
-</p>
+  <img src="images/c42.png" alt="container" width="100%"></p>
+
 ### 4.6.3. Software Architecture Components Diagrams
 <p align="center">
-  <img src="images/c43.png" alt="component" width="100%"></p></td>
-</p>
+  <img src="images/c43.png" alt="component" width="100%"></p>
+  
 ## 4.7. Software Object-Oriented Design	
 ### 4.7.1. Class Diagrams	
 ### 4.7.2. Class Dictionary	
