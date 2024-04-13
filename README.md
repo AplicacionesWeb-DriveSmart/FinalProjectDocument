@@ -1054,7 +1054,16 @@ El principal objetivo de este punto es ofrecer una guía y apoyo para estructura
 
 ### 4.2.2. Labeling Systems	
 <p>
-En este caso, las etiquetas de información se representarán en el idioma español, y estas serán claras y concisas para que el usuario entienda por completo la funcionalidad. Las etiquetas más importantes de nuestra aplicación son: ,
+En este caso, las etiquetas de información se representarán en el idioma español, y estas serán claras y concisas para que el usuario entienda por completo la funcionalidad. Las etiquetas más importantes de nuestra aplicación son: 
+</p>
+
+<p><strong>Profile:</strong> Aquí se muestran todos los datos que el usuario ha registrado al momento de inscribirse en la app. Además, tiene la opción de editar sus datos personales cuando desee.</p>
+
+<p><strong>Vehicle:</strong> En este apartado se muestran todos los vehículos que el cliente tiene registrado en la aplicación, y a la vez, se puede visualizar si se encuentra con el cliente o si es que está en el taller.</p>
+
+<p><strong>Chat:</strong> En este apartado el usuario podrá comunicarse con el técnico que está a cargo de las reparaciones de su auto, por medio de un chat en vivo, donde los mensajes están asegurados y la comunicación es directa.</p>
+
+<p><strong>Home:</strong> En este apartado se ve los procesos, ya sea si es que el dueño está cerca a una fecha de revisión, en qué estado de reparación está su vehículo o si desea reservar una cita, entre muchas otras cosas.
 </p>
 
 ### 4.2.3. SEO Tags and Meta Tags	
