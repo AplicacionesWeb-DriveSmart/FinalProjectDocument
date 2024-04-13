@@ -940,12 +940,15 @@ Segmento Objetivo #2: Automotrices que se inscriben en la aplicación
 <tr><td valign="top">US22</td><td valign="top">Eliminar cliente</td></tr>
 <tr><td valign="top">US23</td><td valign="top">Búsqueda de clientes</td></tr>
 <tr><td valign="top">US24</td><td valign="top">Creación y administración de informes</td></tr>
-<tr><td rowspan="6" valign="top">E05</td><td rowspan="6" valign="top">"texto"</td><td valign="top">US25</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US26</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US27</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US28</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US29</td><td valign="top">"texto"</td></tr>
-<tr><td valign="top">US30</td><td valign="top">"texto"</td></tr>
+<tr><td rowspan="5" valign="top">E05</td><td rowspan="5" valign="top">Como cliente, quiero acceder a una Landing Page que brinde información detallada sobre la aplicación y sus características.</td><td valign="top">US25</td><td valign="top">NavBar</td></tr>
+<tr><td valign="top">US26</td><td valign="top">Página de Inicio</td></tr>
+<tr><td valign="top">US27</td><td valign="top">Section "Features"</td></tr>
+<tr><td valign="top">US28</td><td valign="top">Section "FAQs"</td></tr>
+<tr><td valign="top">US29</td><td valign="top">Section "Acerca de"</td></tr>
+<tr><td rowspan="3">E06</td><td rowspan="3">Como usuario quiero poder iniciar sesión para acceder a mi cuenta y cerrar sesión para salir de ella para garantizar la seguridad de mis datos personales y acceder a las funciones exclusivas de mi cuenta cuando lo necesite.</td><td valign="top">US30</td><td valign="top">Inicio de Sesión</td></tr>
+<tr><td valign="top">US31</td><td valign="top">Cerrar Sesión</td>
+</tr>
+<tr><td valign="top">US32</td><td valign="top">Elegir plan de suscripción</td></tr>
 </table>
 
 Se presentan los siguientes user stories: 
