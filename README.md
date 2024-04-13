@@ -725,7 +725,7 @@ Resumen:
 
  Sasha Chávez, es una administradora de automotriz de 39 años, nos comenta que mediante el uso de un software pagado, pueden llevar un registro de datos de sus clientes, sin embargo nos comenta que el tema relacionado a la comunicación con sus clientes, es informal, ya que se utiliza distintos medios como mensajes de texto y llamadas telefónicas. Durante la entrevista, se le mostró la idea de nuestro proyecto, que ayudaría a mejorar la interacción con el cliente, además de mejorar el registro de sus clientes. Sasha mostró interés por probar un software más actualizado para una interacción y manejo de registros más moderno, además que ayude a formalizar la interacción con sus clientes.
 
-<<<<<<< HEAD
+
 <u>**Entrevista: 3 - Segmento Objetivo: Administrador de taller**</u>
 
 Fecha Entrevista: 05/04/2024
