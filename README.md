@@ -725,10 +725,96 @@ Resumen:
 
  Sasha Chávez, es una administradora de automotriz de 39 años, nos comenta que mediante el uso de un software pagado, pueden llevar un registro de datos de sus clientes, sin embargo nos comenta que el tema relacionado a la comunicación con sus clientes, es informal, ya que se utiliza distintos medios como mensajes de texto y llamadas telefónicas. Durante la entrevista, se le mostró la idea de nuestro proyecto, que ayudaría a mejorar la interacción con el cliente, además de mejorar el registro de sus clientes. Sasha mostró interés por probar un software más actualizado para una interacción y manejo de registros más moderno, además que ayude a formalizar la interacción con sus clientes.
 
- **Segmento Objetivo: Cliente**
+<<<<<<< HEAD
+<u>**Entrevista: 3 - Segmento Objetivo: Administrador de taller**</u>
+
+Fecha Entrevista: 05/04/2024
+
+Entrevistador: Miquel De la Piedra Quintanilla
+
+Entrevistado: Alfredo Baca Lara
+
+Datos del Entrevistado:
+
+- Edad: 64 años
+- Distrito: Surco
+
+Link del Video de la Entrevista:[link]()
+
+- Minuto de Inicio: 
+- Minuto de Fin: 
+
+<img src="images/entrevista3.png" alt="Entrevista" width="100%">
+
+Resumen: 
+
+  Alfredo Baca Lara, es una administradora de automotriz de 64 años, mediante las preguntas, hemos logrado determinar que no se encuentran tan acostumbrados al uso de software tan avanzados para el manejo de sus registros, además que utilizan medios informales como mensajes directos, correos y llamadas para comunicarse con sus clientes. Durante la entrevista se comentó acerca de la aplicación del proyecto. Alfredo mostró un pensamiento de aceptación, ya que nos dice que hoy en día todo funciona con la ayuda de la tecnología y esto seria de gran ayuda para mejorar el método de registro que poseen.
+
+<u>**Entrevista: 4 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+
+Fecha Entrevista: 01/04/2024
+
+Entrevistador: Manuel Guitierrez
+
+Entrevistado: Emily Mendoza
+
+Datos del Entrevistado:
+
+- Edad: 20 años
+- Distrito: Magdalena
+
+Link del Video de la Entrevista:[link]()
+
+- Minuto de Inicio: 
+- Minuto de Fin: 
+
+<img src="images/entrevistaManuel.png" alt="Entrevista" width="100%">
+
+Resumen:
+
+En la entrevista, Emily nos comenta que siempre presenta problemas al momento de hacerle un mantenimiento a su vehículo, ya que siempre presenta problemas recordando o también por no tener un lugar de confianza. Le gustaría que haya un seguimiento cercano al estado de su vehículo para que le recuerde que dia le toca mantenimiento, además un sistema para poder reservar citas con las calificaciones del lugar donde esté yendo y por ultimo tambien le gustaria un reporte de cada mantenimiento que haga para poder tener siempre información de lo que modifican a su vehículo.
+
+<u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+
+Fecha Entrevista: 
+
+Entrevistador: 
+
+Entrevistado: 
+
+- Edad: 
+- Distrito: 
+
+Link del Video de la Entrevista:[link]()
+
+- Minuto de Inicio: 34:03
+- Minuto de Fin: 37:55
+
+<img src="img/.png" alt="Entrevista" width="100%">
+
+Resumen:
 
 
-### 2.2.2 Registro de entrevistas.
+<u>**Entrevista: 6 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+
+Fecha Entrevista: 
+
+Entrevistador: 
+
+Entrevistado: 
+
+- Edad: 
+- Distrito:
+
+Link del Video de la Entrevista:[link]()
+
+- Minuto de Inicio: 
+- Minuto de Fin: 
+
+<img src="img/.PNG" alt="Entrevista" width="100%">
+
+Resumen:
+
 ### 2.2.3 Análisis de entrevistas.
 ## 2.3 Needfinding.
 ### 2.3.1. User Personas.
