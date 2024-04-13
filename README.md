@@ -1030,6 +1030,10 @@ El principal objetivo de este punto es ofrecer una guía y apoyo para estructura
 </p>
 
 ### 4.2.2. Labeling Systems	
+<p>
+En este caso, las etiquetas de información se representarán en el idioma español, y estas serán claras y concisas para que el usuario entienda por completo la funcionalidad. Las etiquetas más importantes de nuestra aplicación son: ,
+</p>
+
 ### 4.2.3. SEO Tags and Meta Tags	
 A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de Car Help.
 
