@@ -442,7 +442,7 @@ Para realizar el análisis competitivo hemos tomado en consideración competidor
   </tr>
   <tr>
     <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
-    <td valign="top">AutoPro Tracker</td>
+    <td valign="top">Car Help</td>
     <td valign="top">Mitchell1</td>
     <td valign="top">ALLDATA</td>
     <td valign="top">Shop-Ware</td>
