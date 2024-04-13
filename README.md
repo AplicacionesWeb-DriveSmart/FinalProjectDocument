@@ -815,6 +815,7 @@ Link del Video de la Entrevista:[link]()
 <img src="images/imgentrevista6.png" alt="Entrevista" width="100%">
 
 Resumen:
+Durante la entrevista, Gaby expresó su entusiasmo por una futura aplicación de gestión de automotrices. Sugirió características como un sistema de citas avanzado con recordatorios automáticos, un seguimiento detallado del progreso de los servicios, estimaciones precisas de costos con opciones de comparación, una comunicación bidireccional efectiva con el personal del taller, un sistema de retroalimentación integrado, un botón de acción rápida y la posibilidad de registrar múltiples vehículos y realizar pagos en línea. Estas sugerencias reflejan sus expectativas de una aplicación que mejore la experiencia del cliente y optimice la gestión de servicios automotrices.
 
 ### 2.2.3 Análisis de entrevistas.
 ## 2.3 Needfinding.
