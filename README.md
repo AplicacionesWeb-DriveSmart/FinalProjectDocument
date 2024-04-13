@@ -868,10 +868,33 @@ Segmento Objetivo: Administrador del Taller de Taller
 <img src="images/as-is.jpg" alt="As-Is mapping" width="100%"></p></td>
 
 ## 2.4. Ubiquitous Language.
+Entidad: Propietario de vehículo
+
+Definición: Persona que posee un vehículo y utiliza los servicios de las compañías automotrices.
+Atributos:
+Datos Personales: Información personal del cliente, incluyendo nombre, dirección, número de contacto, etc.
+Detalles del Vehículo: Información específica sobre el vehículo del cliente, como marca, modelo, año, número de serie, etc.
+Historial de Servicio: Registro de todas las interacciones y servicios proporcionados al cliente.
+Comportamientos:
+Solicitar Servicios: Acción de pedir una revisión técnica o mantenimiento para su vehículo.
+Comunicarse con la Empresa: Interacción para obtener información sobre servicios, precios, horarios, etc.
+
+Entidad: Administrador del taller
+
+Definición: Empresa que ofrece servicios relacionados con vehículos automotores.
+Atributos:
+Datos de la Empresa: Información básica sobre la compañía automotriz, como nombre, ubicación, contacto, etc.
+Servicios Ofrecidos: Lista de servicios disponibles para los clientes.
+Recursos Disponibles: Equipos, personal y herramientas utilizados para llevar a cabo los servicios.
+Comportamientos:
+Programar Citas: Acción de asignar fechas y horarios para servicios solicitados por los clientes.
+Informar Precios y Tiempos: Proporcionar detalles sobre los costos y la duración de los servicios.
+Registrar Interacciones: Documentar todas las comunicaciones y servicios proporcionados a los clientes.
+
 # Capítulo III: Requirements Specification.
 ## 3.1 To-Be Scenario Mapping
 
-## Segmento Objetivo #1: Cliente que se inscriben en la aplicación
+Segmento Objetivo #1: Cliente que se inscriben en la aplicación
 
 | Fases                                     | Doing                                                                        | Thinking                                                                     | Feeling                                                                    |
 |-------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -881,7 +904,7 @@ Segmento Objetivo: Administrador del Taller de Taller
 
 ---
 
-## Segmento Objetivo #2: Automotrices que se inscriben en la aplicación
+Segmento Objetivo #2: Automotrices que se inscriben en la aplicación
 
 | Fases                                     | Doing                                                                        | Thinking                                                                     | Feeling                                                                    |
 |-------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -962,10 +985,10 @@ Se presentan los siguientes user stories:
 
 ## 3.3 Impact Mapping
 ### Segmento Técnicos/Administradores de Automotrices:
-  <img src="images/impact1.png" alt="Impac Map segmento 1">
+  <img src="images/impact2.png" alt="Impac Map segmento 1">
   
 ### Segmento Clientes de Automotrices:
-  <img src="images/impact2.png" alt="Impac Map segmento 2">
+  <img src="images/impact1.png" alt="Impac Map segmento 2">
   
 ## 3.4 Product Backlog
 
@@ -979,6 +1002,8 @@ Se presentan los siguientes user stories:
 <strong>Branding:</strong><br>
 <p>
 Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a las automotrices, es por eso que lo representamos con una llave inglesa en el logo de nuestro producto. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
+<br><br>
+<img src="images/Service Logo.jpg" alt="Logo del servicio" width="30%">
 </p>
 
 <strong>Typography:</strong><br>
@@ -1000,8 +1025,33 @@ El único color neutro que se eligió fue el blanco
 ### 4.1.2. Web Style Guidelines	
 ## 4.2. Information Architecture	
 ### 4.2.1. Organization Systems	
+<p>
+El principal objetivo de este punto es ofrecer una guía y apoyo para estructurar la información de la página web. Esto asegurará que, al llevar a cabo la implementación del sistema, sea accesible y sencillo de utilizar para los usuarios. En este nuevo proyecto, se ha decidido emplear la organización jerárquica para las diversas secciones del Landing Page. Esta elección se fundamenta en la variedad de grupos de usuarios y las diferencias según el tipo de usuario que la utilice. Además, para la clasificación del contenido, se opta por un orden numérico para las preguntas frecuentes.
+</p>
+
 ### 4.2.2. Labeling Systems	
 ### 4.2.3. SEO Tags and Meta Tags	
+A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de Car Help.
+
+Landing Page:
+
+Title: Car Help
+
+Description: Car Help - DriveSmart Oficial Landing Page
+
+Keywords: Inventory,workshops,service,mechanics,tracking.
+
+Authors: Car Help team
+
+Web application:
+
+Title: Car Help
+
+Description: Car Help - DriveSmart Oficial Web Site
+
+Keywords: Workshops, mechanics, products, inventory, tracking, service, technicians,warehousing,vehicles,repairs.
+
+Authors: Car Help team
 ### 4.2.4. Searching Systems	
 ### 4.2.5. Navigation Systems	
 ## 4.3. Landing Page UI Design
