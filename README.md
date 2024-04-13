@@ -846,21 +846,21 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 
 Segmento Objetivo: Propietario de un vehiculo
 
-<img src="images/UserJourneyMapping1.jpg" alt="Journey mapping" width="100%"></p></td>
+<img src="images/UserJourneyMapping1.JPG" alt="Journey mapping" width="100%"></p></td>
 
 Segmento Objetivo: Administrador del Taller
 
-<img src="images/UserJourneyMapping2.jpg" alt="Journey mapping" width="100%"></p></td>
+<img src="images/UserJourneyMapping2.JPG" alt="Journey mapping" width="100%"></p></td>
 
 ### 2.3.4. Empathy Mapping.
 
 Segmento Objetivo: Propietario de un vehiculo
 
-<img src="images/EmpathyMapping1.jpg" alt="Journey mapping" width="100%"></p></td>
+<img src="images/EmpathyMapping1.JPG" alt="Empathy mapping" width="100%"></p></td>
 
 Segmento Objetivo: Administrador del Taller de Taller
 
-<img src="images/EmpathyMapping2.jpg" alt="Journey mapping" width="100%"></p></td>
+<img src="images/EmpathyMapping2.JPG" alt="Empathy mapping" width="100%"></p></td>
 
 
 ### 2.3.5. As-is Scenario Mapping.
