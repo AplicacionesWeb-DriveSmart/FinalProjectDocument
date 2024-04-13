@@ -871,7 +871,7 @@ Segmento Objetivo: Administrador del Taller de Taller
 # Capítulo III: Requirements Specification.
 ## 3.1 To-Be Scenario Mapping
 
-## Segmento Objetivo #1: Cliente que se inscriben en la aplicación
+Segmento Objetivo #1: Cliente que se inscriben en la aplicación
 
 | Fases                                     | Doing                                                                        | Thinking                                                                     | Feeling                                                                    |
 |-------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -881,7 +881,7 @@ Segmento Objetivo: Administrador del Taller de Taller
 
 ---
 
-## Segmento Objetivo #2: Automotrices que se inscriben en la aplicación
+Segmento Objetivo #2: Automotrices que se inscriben en la aplicación
 
 | Fases                                     | Doing                                                                        | Thinking                                                                     | Feeling                                                                    |
 |-------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
