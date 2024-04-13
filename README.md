@@ -968,6 +968,27 @@ El único color neutro que se eligió fue el blanco
 ### 4.2.1. Organization Systems	
 ### 4.2.2. Labeling Systems	
 ### 4.2.3. SEO Tags and Meta Tags	
+A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de Car Help.
+
+Landing Page:
+
+Title: Car Help
+
+Description: Car Help - DriveSmart Oficial Landing Page
+
+Keywords: Inventory,workshops,service,mechanics,tracking.
+
+Authors: Car Help team
+
+Web application:
+
+Title: Car Help
+
+Description: Car Help - DriveSmart Oficial Web Site
+
+Keywords: Workshops, mechanics, products, inventory, tracking, service, technicians,warehousing,vehicles,repairs.
+
+Authors: Car Help team
 ### 4.2.4. Searching Systems	
 ### 4.2.5. Navigation Systems	
 ## 4.3. Landing Page UI Design
