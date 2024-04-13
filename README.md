@@ -812,7 +812,7 @@ Link del Video de la Entrevista:[link]()
 - Minuto de Inicio: 0:00
 - Minuto de Fin: 03:46
 
-<img src="img/imgentrevista6.PNG" alt="Entrevista" width="100%">
+<img src="img/imgentrevista6.png" alt="Entrevista" width="100%">
 
 Resumen:
 
