@@ -776,24 +776,25 @@ En la entrevista, Emily nos comenta que siempre presenta problemas al momento de
 
 <u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
-Fecha Entrevista: 
+Fecha Entrevista: 13/04/2024
 
-Entrevistador: 
+Entrevistador: Juan Montes
 
-Entrevistado: 
+Entrevistado: Luis Alberto Peralta Gutiérrez
 
-- Edad: 
-- Distrito: 
+- Edad: 40
+- Distrito: La Molina
 
 Link del Video de la Entrevista:[link]()
 
-- Minuto de Inicio: 34:03
-- Minuto de Fin: 37:55
+- Minuto de Inicio: 
+- Minuto de Fin: 
 
 <img src="img/.png" alt="Entrevista" width="100%">
 
 Resumen:
 
+En la entrevista, hablamos con Luis Peralta, donde nos centramos en el mantenimiento preventivo de vehículos y la gestión de registros de mantenimiento a través de aplicaciones móviles. El entrevistado destacó la importancia de realizar mantenimiento regular, considerando aspectos como la reputación del taller, la conveniencia y la calidad de los servicios. Reconoció que a veces puede ser difícil seguir un programa de mantenimiento regular debido a compromisos laborales. Sin embargo, enfatizó la importancia de mantener registros precisos para garantizar el buen funcionamiento a largo plazo y el valor de reventa del vehículo. El entrevistado mostró disposición a utilizar aplicaciones móviles que simplifiquen la gestión del mantenimiento, destacando la necesidad de características como notificaciones automáticas, seguimiento del historial de mantenimiento y seguridad de datos.
 
 <u>**Entrevista: 6 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
@@ -961,10 +962,10 @@ Se presentan los siguientes user stories:
 
 ## 3.3 Impact Mapping
 ### Segmento Técnicos/Administradores de Automotrices:
-  <img src="images/impact2.png" alt="Impac Map segmento 1">
+  <img src="images/impact1.png" alt="Impac Map segmento 1">
   
 ### Segmento Clientes de Automotrices:
-  <img src="images/impact1.png" alt="Impac Map segmento 2">
+  <img src="images/impact2.png" alt="Impac Map segmento 2">
   
 ## 3.4 Product Backlog
 
