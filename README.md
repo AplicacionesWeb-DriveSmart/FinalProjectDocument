@@ -851,9 +851,23 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
 # Capítulo III: Requirements Specification.
 ## 3.1 To-Be Scenario Mapping
 
-**Segmento Clientes de Automotrices:**
+## Segmento Objetivo #1: Cliente que se inscriben en la aplicación
 
-**Segmento Técnicos/Administradores de Automotrices:**
+| Fases                                     | Doing                                                                        | Thinking                                                                     | Feeling                                                                    |
+|-------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Reservar citas de servicio fácilmente     | Utilizando la función de reserva sin problemas.                              | Apreciando la conveniencia y eficiencia del proceso de reserva.              | Satisfechos con la facilidad de uso y la rapidez del proceso de reserva.   |
+| Ofrecer recomendaciones personalizadas    | La aplicación utiliza datos del cliente para ofrecer recomendaciones personalizadas. | Reconociendo la relevancia y utilidad de las recomendaciones personalizadas. | Contentos con la atención personalizada y útil de la aplicación.           |
+| Integrar sistema de alertas proactivas    | El sistema envía alertas automáticamente basadas en el historial del vehículo y las fechas de servicio. | Valorando la atención proactiva a su seguridad y mantenimiento.             | Seguros y confiados en el cuidado de su vehículo gracias a las alertas.   |
+
+---
+
+## Segmento Objetivo #2: Automotrices que se inscriben en la aplicación
+
+| Fases                                     | Doing                                                                        | Thinking                                                                     | Feeling                                                                    |
+|-------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Reservar citas de servicio fácilmente     | Observando una mayor eficiencia en la gestión de citas y comunicación con los clientes. | Considerando la integración de la aplicación en sus procesos operativos para mejorar la eficiencia y la satisfacción del cliente. | Entusiasmadas con la posibilidad de optimizar sus operaciones y mejorar la satisfacción del cliente. |
+| Ofrecer recomendaciones personalizadas    | Apreciando la capacidad de la aplicación para mejorar la satisfacción del cliente y fomentar la fidelización. | Visualizando el impacto positivo en la retención de clientes y la rentabilidad del negocio. | Motivadas por el potencial de incrementar la lealtad del cliente y los ingresos. |
+| Integrar sistema de alertas proactivas    | Reconociendo el valor añadido de la plataforma en la gestión de mantenimiento y servicios. | Interesadas en la mejora de la comunicación y la relación con los clientes. | Confianza en la capacidad de la plataforma para impulsar la eficiencia y la rentabilidad. |
 
 ## 3.2 User Stories
 
