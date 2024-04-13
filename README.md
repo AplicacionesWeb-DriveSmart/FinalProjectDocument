@@ -942,10 +942,10 @@ Se presentan los siguientes user stories:
 
 ## 3.3 Impact Mapping
 ### Segmento Técnicos/Administradores de Automotrices:
-  <img src="impact2/.png" alt="Impac Map segmento 1">
+  <img src="images/impact2.png" alt="Impac Map segmento 1">
   
 ### Segmento Clientes de Automotrices:
-  <img src="impact1/.png" alt="Impac Map segmento 2">
+  <img src="images/impact1.png" alt="Impac Map segmento 2">
   
 ## 3.4 Product Backlog
 
