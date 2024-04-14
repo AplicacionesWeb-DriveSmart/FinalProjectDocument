@@ -1833,7 +1833,7 @@ Ahora solo nos toca aguardar a que GitHub genere la página web y nos proporcion
 
 <img src="images/g3.png" alt="Software Deployment" width="100%">
 
-URL deployment Landing Page: [link](link)
+URL deployment Landing Page: [https://aplicacionesweb-drivesmart.github.io/Landing-Page/](https://aplicacionesweb-drivesmart.github.io/Landing-Page/)
 
 <img src="images/g4.png" alt="Software Deployment" width="100%">
 
