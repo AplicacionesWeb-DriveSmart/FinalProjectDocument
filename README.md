@@ -1887,11 +1887,21 @@ Se realizaron los avances con los commits correspondientes en el repositorio de 
 |-------------------------------------------|------------------|-----------|------------------------------------------------------|-----------------------------------------------------------|---------------------|
 | AplicacionesWeb-DriveSmart/Landing-Page  | feature/index    | bf503c3   | feat: head and body were added                  | head and body from main were added                               | 13/04/2024         |
 | AplicacionesWeb-DriveSmart/Landing-Page  | feature/index | 1231832  | feat: frequent questions were added                       | frequent questions were added                                    | 13/04/2024                        | about us section added                                    | 13/04/2024         |
-| Grupo-Punteros-Open-Source/Landing-Page  | feature/index| f08dd82   | feat: About us were added                      | About us were added added                                   | 13/04/2024         |
+| AplicacionesWeb-DriveSmart/Landing-Page  | feature/index| f08dd82   | feat: About us were added                      | About us were added added                                   | 13/04/2024         |
 
 #### 5.2.1.4 Testing Suit Evidence for Sprint Review
 
+Se realizaron los acceptance tests para las historias de usuario trabajadas y se registraron en el repositorio de la siguiente forma.
 
+URL de repositorio: [https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests](https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests)
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|e6f7c7d|<p>feat: Added Acceptance_Test US25</p><p></p>|Added Acceptance_Test US25|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8eac1a9|feat: Added Acceptance_Test US26|Added Acceptance_Test US26|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|0a2fbba|feat: Added Acceptance_Test US27|Added Acceptance_Test US27|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8526710|feat: Added Acceptance_Test US28|Added Acceptance_Test US28|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|fec1484|feat: Added Acceptance_Test US29|Added Acceptance_Test US29|14/04/2024|
 
 #### 5.2.1.5 Execution Evidence for Sprint Review
 
