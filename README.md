@@ -1042,7 +1042,6 @@ Aplicamos esto con el objetivo de evaluar la complejidad de las tareas.
   <tr><td>32</td><td>US31</td><td>Cerrar Sesión</td><td>Como usuario de la quiero poder cerrar sesión en mi cuenta para asegurarme de que nadie más pueda acceder a mi información personal y proteger mi privacidad.</td><td>Media</td><td>5</td></tr>
 </table>
 
-
 # Capítulo IV: Product Design.
 ## 4.1. Style Guidelines
 <p>Para optimizar la experiencia de todos los usuarios, dentro de nuestro landing page proponemos un diseño de interfaz atractivo, y responsivo que se adapte a distintas dimensiones para los distintos dispositivos. Asimismo, hemos elegido colores llamativos, imágenes de buena calidad y se implementa un navbar intuitivo para que el usuario pueda desplazarse por la página de manera cómoda y fluida. Con todo esto, buscamos proporcionar una experiencia amigable y práctica para todos los usuarios.
@@ -1406,11 +1405,15 @@ Para llevar a cabo estas pruebas, hemos empleado el lenguaje Gherkin, que se bas
 ### 5.1.4. Software Deployment Configuration	
 ## 5.2. Landing Page, Services & Applications Implementation	
 ### 5.2.1. Sprint 1	
-## 5.3. Validation Interviews	
-### 5.3.1. Diseño de entrevistas	
-### 5.3.2. Registro de entrevistas	
-### 5.3.3. Evaluaciones Según heurísticas	
-## 5.4. Video About the Product	
+#### 5.2.1.1 Sprint Planning 1
+#### 5.2.1.2 Sprint Backlog 1
+#### 5.2.1.3 Development Evidence for Sprint Review 
+#### 5.2.1.4 Testing Suit Evidence for Sprint Review
+#### 5.2.1.5 Execution Evidence for Sprint Review
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review
+#### 5.2.1.8 Team Collaboration Insights during Sprint
+
 # Conclusiones	
 # Conclusiones y recomendaciones	
 # Video About the Team	
