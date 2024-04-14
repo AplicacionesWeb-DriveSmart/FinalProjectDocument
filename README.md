@@ -1815,6 +1815,22 @@ Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma re
 #### 5.2.1.3 Development Evidence for Sprint Review 
 #### 5.2.1.4 Testing Suit Evidence for Sprint Review
 #### 5.2.1.5 Execution Evidence for Sprint Review
+
+En esta sección se mostrará el progreso alcanzado durante el primer sprint, centrado en la creación del Landing Page estático
+
+La barra de navegación y la página de inicio se desarrollaron inicialmente debido a su importancia crucial para la navegación del sitio. Además, son responsivos y pueden ajustarse a diferentes tamaños de pantalla.
+
+<img src="images/nav_index.png" alt="Logo del servicio" width="100%">
+
+Sección Acerca de:
+
+<img src="images/about_us.png" alt="Logo del servicio" width="100%">
+
+Sección FAQs:
+
+<img src="images/Faqs.png" alt="Logo del servicio" width="100%">
+
+
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
 En este primer sprint, no hemos trabajado con servicios web, ya que nos hemos concentrado exclusivamente en la creación del Landing Page estático. Es por ello que en esta ocasión, no se trabajó la documentación relacionada con el uso de servicios web.
