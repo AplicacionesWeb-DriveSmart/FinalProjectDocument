@@ -1263,7 +1263,7 @@ User goal 10: Como Administradores de Automotrices quiero poder agregar vehiculo
 <img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 11: Como Administradores de Automotrices quiero contar con una zona de ayuda disponible para resolver problemas que puedan surgir .
 <img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
-User goal 12: Como Administradores de Automotrices quiero que se me notifique en caso el stock se encuentre reducido para poder tomar medidas preventivas y asegurar un suministro adecuado.
+User goal 12: Como Administradores de Automotrices quiero que se me notifique en caso el stock se encuentre reducidopara poder tomar medidas preventivas y asegurar un suministro adecuado.
 <img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 13: Como Administradores de Automotrices quiero poder supervisar el stock del inventario para mantener un control preciso de la disponibilidad.
 <img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
@@ -1858,7 +1858,19 @@ Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma re
 
 
 #### 5.2.1.3 Development Evidence for Sprint Review 
+
+Se realizaron los avances con los commits correspondientes en el repositorio de la siguiente forma.
+
+| Repository                                | Branch           | Commit Id | Commit Message                                       | Commit Message Body                                        | Commited on (Date) |
+|-------------------------------------------|------------------|-----------|------------------------------------------------------|-----------------------------------------------------------|---------------------|
+| AplicacionesWeb-DriveSmart/Landing-Page  | feature/index    | bf503c3   | feat: head and body were added                  | head and body from main were added                               | 13/04/2024         |
+| AplicacionesWeb-DriveSmart/Landing-Page  | feature/index | 1231832  | feat: frequent questions were added                       | frequent questions were added                                    | 13/04/2024                        | about us section added                                    | 13/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | feature/index| f08dd82   | feat: About us were added                      | About us were added added                                   | 13/04/2024         |
+
 #### 5.2.1.4 Testing Suit Evidence for Sprint Review
+
+
+
 #### 5.2.1.5 Execution Evidence for Sprint Review
 
 En esta sección se mostrará el progreso alcanzado durante el primer sprint, centrado en la creación del Landing Page estático
