@@ -146,24 +146,27 @@
 [5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
 [5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)  
 
-[5.3. Validation Interviews](#53-validation-interviews)  
-[5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
-[5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)  
-[5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
-
-[5.4. Video About-the-Product](#54-video-about-the-product)  
-
 [Conclusiones](#conclusiones)  
-
-[Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)  
-
-[Video About-the-Team](#video-about-the-team)  
 
 [Bibliografía](#bibliografía)  
 
 [Anexos](#anexos)  
 
 - - -
+
+# Student Outcome
+
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 3
+
+| Criterio específico                                                                                                                                                                    	| Acciones realizadas 	| Conclusiones 	|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------	|--------------	|
+| Comunica oralmente sus ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería.    	|                     	|              	|
+| Comunica en forma escrita ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería. 	|                     	|              	|
+
+
 
 # Capítulo I: Introducción
 ## 1.1 Startup Profile.
@@ -1945,20 +1948,27 @@ URL deployment Landing Page: [https://aplicacionesweb-drivesmart.github.io/Landi
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 
 # Conclusiones	
-# Conclusiones y recomendaciones	
-# Video About the Team	
+
+Validación del Modelo de Negocio: A lo largo del proyecto, se ha validado la viabilidad del modelo de negocio basado en el desarrollo y la comercialización de una plataforma tecnológica para la gestión de clientes en el sector automotriz peruano.
+Importancia de la Colaboración Interdisciplinaria: Se ha evidenciado la importancia de la colaboración entre equipos técnicos y comerciales para desarrollar una solución integral que satisfaga tanto las necesidades tecnológicas como comerciales del mercado automotriz.
+Enfoque en la Innovación Continua: La innovación continua y la adaptación a las cambiantes necesidades del mercado son esenciales para mantener la relevancia y la competitividad de la plataforma a largo plazo.
+Énfasis en la Seguridad y Privacidad de los Datos: Se ha resaltado la necesidad de implementar medidas robustas de seguridad y protección de datos para garantizar la confidencialidad y la integridad de la información de los clientes y las automotrices.
+Potencial de Escalabilidad y Expansión: Con una base sólida establecida, existe un gran potencial para la escalabilidad y la expansión del proyecto hacia nuevos mercados y sectores relacionados con la industria automotriz en el futuro.
+
 # Bibliografía	
+
+Mollahosseini, A. (2021). Make your Gherkin Specifications More Readable. BDD Framework for NET. https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+
+Google HTML/CSS Style Guide. (s.f.). https://google.github.io/styleguide/htmlcssguide.html
+
+HTML style guide and coding conventions. (s.f.). https://google.github.io/styleguide/htmlcssguide.html
+
+BillWagner. (2023). .NET documentation C# Coding Conventions - C#. Microsoft Learn.https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+
+JavaScript Style Guide. (s.f.).https://www.w3schools.com/js/js_conventions.asp
+
 # Anexos
-anexos
-# Student Outcome
 
-Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 3
+Videos de exposiciones
 
-| Criterio específico                                                                                                                                                                    	| Acciones realizadas 	| Conclusiones 	|
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------	|--------------	|
-| Comunica oralmente sus ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería.    	|                     	|              	|
-| Comunica en forma escrita ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería. 	|                     	|              	|
-
+Exposición TB1:
