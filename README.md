@@ -785,10 +785,10 @@ Entrevistado: Luis Alberto Peralta Gutiérrez
 - Edad: 40
 - Distrito: La Molina
 
-Link del Video de la Entrevista:[link]()
+Link del Video de la Entrevista:[https://drive.google.com/file/d/1gcvt_pYIZ43hSIbL6XIwA3s9rcFSFj5P/view?usp=sharing]()
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 00:09
+- Minuto de Fin: 04:16
 
 <img src="images/entrevista.PNG" alt="Entrevista" width="100%">
 
@@ -1235,6 +1235,7 @@ Ingresar stock
 Supervisar stock
 <img src="images/WAW20.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
 
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1]()
 
 ### 4.4.2. Web Applications Wireframes Diagrams	
 
@@ -1291,6 +1292,8 @@ User goal 16: Como Administradores de Automotrices quiero agregar nuevos product
 <img src="images/WAWD35.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD36.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD37.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1]()
 
 ### 4.4.3. Web Applications Mock-ups	
 
@@ -1401,11 +1404,11 @@ Administradores de Taller:
   <img src="images/f26_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
-Figma: [link]()
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1]()
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-Figma: [link]()
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1()
 
 Propietarios de Vehiculos:
 
