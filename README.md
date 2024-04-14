@@ -1238,6 +1238,42 @@ Supervisar stock
 
 ### 4.4.2. Web Applications Wireframes Diagrams	
 
+User goal 1: Como cliente de Automotrizquiero tener un listado mis vehículos para saber mis vehículos
+<img src="images/WAWD1.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 2: Como cliente de Automotriz quiero poder comunicarme con él automotriz para mantenerse informado sobre la reparación de su vehículo.
+<img src="images/WAWD2.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 3: Como cliente de Automotriz quiero poder recibir notificaciones sobre la reparación para poder mantenerme informado.
+<img src="images/WAWD3.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 4: Como cliente de Automotriz quiero acceder al estado de reparación de mi vehículo para estar al tanto del progreso y planificar mi tiempo.
+<img src="images/WAWD4.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD5.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 5: Como cliente de Automotriz quiero poder llevar un registro del kilometraje de mi vehículo para anticipar cualquier necesidad de servicio. 
+<img src="images/WAWD6.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD7.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 6: Como cliente de Automotriz quiero poder revisar detalladamente el costo de la reparación junto con los repuestos aplicados para comprender completamente los gastos asociados.
+<img src="images/WAWD8.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD9.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 7: Como Administradores de Automotrices quiero tener un listado de mis facturas para llevar un registro detallado de nuestras transacciones financieras.
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 8: Como Administradores de Automotrices quiero poder crear facturas para registrar y gestionar las transacciones de ventas de vehículos
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 9: Como Administradores de Automotrices quiero poder inspeccionar la lista de vehículos a reparar para ver los datos y el proceso que se encuentra cada uno.
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 10: Como Administradores de Automotrices quiero poder agregar vehiculos para gestionar su reparación de manera eficiente.
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 11: Como Administradores de Automotrices quiero contar con una zona de ayuda disponible para resolver problemas que puedan surgir .
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 12: Como Administradores de Automotrices quiero que se me notifique en caso el stock se encuentre reducido para poder tomar medidas preventivas y asegurar un suministro adecuado.
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 13: Como Administradores de Automotrices quiero poder supervisar el stock del inventario para mantener un control preciso de la disponibilidad.
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 14: Como Administradores de Automotrices quiero poder agregar cuentas de clientes y visualizar una lista completa de ellos para gestionar eficientemente el sistema.
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 15: Como Administradores de Automotrices quiero poder eliminar cuentas de clientes para mantener actualizada nuestra base de datos
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+User goal 16: Como Administradores de Automotrices quiero agregar nuevos productos al stock para  satisfacer las necesidades cambiantes de nuestros clientes.
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+
 ### 4.4.3. Web Applications Mock-ups	
 
 Se empleó la estructura definida en los wireframes como base para cada una de las vistas, pero se adaptó al estilo establecido en el styles guidelines.
@@ -1825,7 +1861,27 @@ Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma re
 #### 5.2.1.4 Testing Suit Evidence for Sprint Review
 #### 5.2.1.5 Execution Evidence for Sprint Review
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+En este primer sprint, no hemos trabajado con servicios web, ya que nos hemos concentrado exclusivamente en la creación del Landing Page estático. Es por ello que en esta ocasión, no se trabajó la documentación relacionada con el uso de servicios web.
+
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
+
+Después de completar los commits y lanzar la versión de este sprint, procedemos con el despliegue. En la primera iteración, implementamos el despliegue del Landing Page estático a través de GitHub Pages. Esto implicó acceder a la configuración del repositorio y dirigirnos a la sección de Páginas.
+
+<img src="images/g1.png" alt="Software Deployment" width="100%">
+
+En la sección "Branch", seleccionamos la rama principal, que es donde hemos realizado el lanzamiento del sprint, y luego guardamos los cambios.
+
+<img src="images/g2.png" alt="Software Deployment" width="100%">
+
+Ahora solo nos toca aguardar a que GitHub genere la página web y nos proporcione el enlace para acceder y visualizar el Landing Page estático.
+
+<img src="images/g3.png" alt="Software Deployment" width="100%">
+
+URL deployment Landing Page: [https://aplicacionesweb-drivesmart.github.io/Landing-Page/](https://aplicacionesweb-drivesmart.github.io/Landing-Page/)
+
+<img src="images/g4.png" alt="Software Deployment" width="100%">
+
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 
 # Conclusiones	
