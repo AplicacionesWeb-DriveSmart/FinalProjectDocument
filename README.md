@@ -1539,6 +1539,13 @@ Es el lenguaje utilizado para elaborar casos de prueba en función de los requer
 - Añadir líneas en blanco dentro de cada paso (Step) para mejorar la legibilidad y la organización de la información.
 
 ### 5.1.4. Software Deployment Configuration	
+
+Para la gestión del despliegue de la aplicación, optaremos por Git, un sistema de control de versiones distribuido ampliamente utilizado en proyectos de desarrollo de software. Esta herramienta esencial facilita el trabajo colaborativo y el seguimiento de los cambios realizados por los miembros del equipo. Una de sus ventajas destacadas es su capacidad para registrar los cambios en los archivos de un proyecto a lo largo del tiempo. Con Git, podemos crear ramas, efectuar cambios en ellas y fusionarlos eficientemente, lo que permite que varios desarrolladores trabajen en diferentes aspectos del proyecto simultáneamente sin conflictos.
+
+Por otro lado, contamos con GitHub, una plataforma que sirve para alojar repositorios de Git. Es uno de los servicios más populares entre los desarrolladores a nivel global, ya que posibilita la gestión de repositorios tanto públicos como privados para almacenar el código en la nube. Además de almacenar el código, GitHub mantiene el historial de los repositorios, lo que permite a los usuarios acceder a todas las versiones trabajadas y revertir a una versión anterior si es necesario. Ofrece otras herramientas útiles como los pull requests, que son solicitudes de revisión de una rama y su posterior fusión con otra rama.
+
+Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma remota desde su entorno de desarrollo integrado (IDE), manteniendo una copia del repositorio Git a través del repositorio en línea almacenado en GitHub. De esta manera, pueden realizar commits para enviar los cambios que hayan realizado.
+
 ## 5.2. Landing Page, Services & Applications Implementation	
 ### 5.2.1. Sprint 1	
 #### 5.2.1.1 Sprint Planning 1
