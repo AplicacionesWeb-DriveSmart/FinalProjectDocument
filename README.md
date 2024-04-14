@@ -1174,24 +1174,24 @@ El método de navegación entre las diversas secciones de la landing page estar�
 ### 4.4.1. Web Applications Wireframes	
 
 Aplicacion Mobile
-Welcome
-<img src="images/" alt="Wireframes" width="100%"></p></td>
+<p>Welcome</p>
+<img src="images/WAWM1.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 Sing in - User Vehicle
-<img src="images/" alt="Wireframes" width="100%"></p></td>
+<img src="images/WAWM2.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 Chat-User Vehicle
-<img src="images/" alt="Wireframes" width="100%"></p></td>
+<img src="images/WAWM3.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 List- User Vehicle
-<img src="images/" alt="Wireframes" width="100%"></p></td>
+<img src="images/WAWM4.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 List- User Vehicle
-<img src="images/" alt="Wireframes" width="100%"></p></td>
+<img src="images/WAWM5.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 Repair- User Vehicle
-<img src="images/" alt="Wireframes" width="100%"></p></td>
+<img src="images/WAWM6.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 Repair- User Vehicle
-<img src="images/" alt="Wireframes" width="100%"></p></td>
+<img src="images/WAWM7.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 Profile- User Vehicle
-<img src="images/" alt="Wireframes" width="100%"></p></td>
+<img src="images/WAWM8.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 Edit Profile- User Vehicle
-<img src="images/" alt="Wireframes" width="100%"></p></td>
+<img src="images/WAWM9.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 
 ### 4.4.2. Web Applications Wireframes Diagrams	
 ### 4.4.3. Web Applications Mock-ups	
