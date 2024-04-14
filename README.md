@@ -30,15 +30,51 @@
 
 ---
 
-# Registro de Versiones del informe
-| Version | Fecha | Autor | Descripcion de Modificacion |
-| ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 28/03/2024 |Grupo 1 |Se crea el documento |
-- - -
+
+</div>
+
+<table>
+  <thead>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>TB1</strong></td>
+      <td>Miércoles 10 de Abril</td>
+      <td>
+        <ul>
+          <li>De la Piedra Quintanilla, Erwin Miquel</li>
+          <li>Altamirano Saenz, Jorge Armando</li>
+          <li>Guimaraes Escalante, Carlos Eduardo</li>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Montes Figueroa, Juan Eduardo	</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
+  </tbody>
+</table>
+
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/AplicacionesWeb-DriveSmart/FinalProjectDocument/blob/main/README.md)
 
-(Imagenes de los commits cada entrega)
+Commits en reporte avance TB1
+
 - - -
 # Contenido
 
@@ -163,8 +199,8 @@ del ABET – EAC - Student Outcome 3
 
 | Criterio específico                                                                                                                                                                    	| Acciones realizadas 	| Conclusiones 	|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------	|--------------	|
-| Comunica oralmente sus ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería.    	|                     	|              	|
-| Comunica en forma escrita ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería. 	|                     	|              	|
+| Comunica oralmente sus ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería.    	|         <p>**Altamirano Saenz, Jorge Armando**	TB1: A lo largo de mi formación en ingeniería, he desarrollado la capacidad de comunicar mis ideas y resultados de manera objetiva y efectiva a públicos con diversos niveles de experiencia y competencias técnicas. Desde presentaciones formales hasta discusiones informales, me aseguro de transmitir información relevante y precisa, facilitando así la comprensión y toma de decisiones dentro del equipo de proyecto.</p> <p>**De la Piedra Quintanilla, Erwin Miquel	TB1:** En mi experiencia como estudiante de ingeniería, he aprendido a comunicar mis ideas y resultados de manera clara y objetiva a diversos públicos, independientemente de su especialidad o nivel jerárquico. Durante el desarrollo de proyectos, he sido capaz de transmitir información técnica de manera accesible y comprensible, adaptando mi discurso según las necesidades y conocimientos de mi audiencia.</p> <p>**Guimaraes Escalante, Carlos Eduardo TB1:** Durante la ejecución de proyectos de ingeniería, he cultivado la habilidad de comunicar mis ideas y hallazgos de manera objetiva y precisa a audiencias con diferentes niveles de experiencia y conocimientos técnicos. Ya sea frente a colegas especializados o a personal de dirección, mi enfoque se centra en transmitir la información de manera clara y concisa, utilizando un lenguaje adecuado para cada contexto.</p> <p>**Gutierrez Zumaeta, Manuel Alonso TB1:** Como estudiante de ingeniería, he perfeccionado mi habilidad para comunicar mis ideas y resultados con objetividad a audiencias de diferentes especialidades y niveles jerárquicos. Durante la realización de proyectos, me enfoco en presentar la información de manera clara y coherente, utilizando ejemplos y analogías cuando sea necesario para asegurar una comprensión completa por parte de mi audiencia.</p> <p>**Montes Figueroa, Juan Eduardo TB1:** A lo largo de mi trayectoria académica en ingeniería, he adquirido la destreza de comunicar mis ideas y resultados de manera objetiva a públicos con variados conocimientos técnicos y jerarquías dentro de un proyecto. Ya sea a través de presentaciones orales, informes técnicos o reuniones de equipo, me esfuerzo por transmitir información de manera clara y precisa, promoviendo así una comunicación efectiva y una colaboración exitosa en el desarrollo de proyectos de ingeniería.       	|  **TB1:** En conclusión, la capacidad de comunicar oralmente ideas y resultados con objetividad a audiencias diversas es una habilidad fundamental para el éxito en el desarrollo de proyectos de ingeniería. Este criterio de student outcome no solo implica la transmisión efectiva de información técnica, sino también la adaptación del discurso según las necesidades y conocimientos de cada audiencia. Al dominar esta habilidad, los estudiantes de ingeniería pueden facilitar la colaboración interdisciplinaria, promover la comprensión mutua entre los miembros del equipo y contribuir al avance exitoso de proyectos complejos. La comunicación clara y objetiva no solo fortalece la efectividad del equipo, sino que también fomenta una cultura de transparencia y confianza en el entorno profesional de la ingeniería.           	|
+| Comunica en forma escrita ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería. 	|<p>**Altamirano Saenz, Jorge Armando**	TB1: Durante mi formación como estudiante de ingeniería, he desarrollado la habilidad de comunicar mis ideas y resultados de forma escrita con objetividad a audiencias diversas, independientemente de su especialidad o nivel jerárquico. A través de informes técnicos, documentos de diseño y correos electrónicos profesionales, me aseguro de transmitir información precisa y relevante que pueda ser comprendida por todos los involucrados en el proyecto.</p> <p>**De la Piedra Quintanilla, Erwin Miquel	TB1:** Como estudiante de ingeniería, he aprendido a redactar de manera clara y objetiva para comunicar ideas y resultados a públicos con diferentes niveles de experiencia y conocimientos técnicos. Ya sea elaborando documentación técnica para ingenieros especializados o informes ejecutivos para la alta dirección, mi enfoque se centra en presentar la información de manera concisa y precisa, facilitando así la toma de decisiones informadas en el proyecto.</p> <p>**Guimaraes Escalante, Carlos Eduardo TB1:** A lo largo de mi carrera universitaria en ingeniería, he perfeccionado mi capacidad para comunicar ideas y resultados de manera escrita con objetividad a públicos de diversas especialidades y niveles jerárquicos. Desde la redacción de informes técnicos hasta la elaboración de manuales de usuario, me esfuerzo por utilizar un lenguaje claro y preciso que garantice una comprensión adecuada por parte de todos los lectores involucrados en el proyecto.</p> <p>**Gutierrez Zumaeta, Manuel Alonso TB1:** Durante el desarrollo de proyectos de ingeniería, he cultivado la habilidad de comunicar ideas y resultados de manera escrita con objetividad a audiencias con diferentes niveles de experiencia y especialización. A través de la redacción de documentos técnicos, especificaciones de diseño y memorandos internos, me aseguro de transmitir información de manera clara y concisa, contribuyendo así al éxito del proyecto y la colaboración efectiva entre los miembros del equipo.</p> <p>**Montes Figueroa, Juan Eduardo TB1:** Como estudiante de ingeniería comprometido con la excelencia académica y profesional, me he dedicado a perfeccionar mi habilidad para comunicar ideas y resultados de forma escrita con objetividad a públicos diversos en el contexto de proyectos de ingeniería. Ya sea redactando informes de progreso, documentación técnica o comunicados internos, mi objetivo es presentar la información de manera clara y precisa, promoviendo así una comunicación efectiva y una toma de decisiones informada en el desarrollo del proyecto.                      	| **TB1:** En resumen, la capacidad de comunicar ideas y resultados de manera escrita con objetividad a audiencias diversas es esencial para el progreso exitoso de proyectos de ingeniería. Este criterio de student outcome no solo implica la habilidad de redactar información técnica de manera clara y precisa, sino también de adaptar el estilo y el tono según las necesidades y el nivel de comprensión de cada lector. Al dominar esta habilidad, los estudiantes de ingeniería pueden facilitar la transferencia de conocimientos, promover la colaboración entre equipos multidisciplinarios y garantizar una toma de decisiones informada y efectiva en todas las etapas del proyecto. La comunicación escrita objetiva no solo fortalece la eficacia y la eficiencia del equipo, sino que también contribuye a la construcción de una base sólida para la comunicación y la documentación en el ámbito profesional de la ingeniería.             	|
 
 
 
@@ -823,6 +859,31 @@ Resumen:
 Durante la entrevista, Gaby expresó su entusiasmo por una futura aplicación de gestión de automotrices. Sugirió características como un sistema de citas avanzado con recordatorios automáticos, un seguimiento detallado del progreso de los servicios, estimaciones precisas de costos con opciones de comparación, una comunicación bidireccional efectiva con el personal del taller, un sistema de retroalimentación integrado, un botón de acción rápida y la posibilidad de registrar múltiples vehículos y realizar pagos en línea. Estas sugerencias reflejan sus expectativas de una aplicación que mejore la experiencia del cliente y optimice la gestión de servicios automotrices.
 
 ### 2.2.3 Análisis de entrevistas.
+
+**Segmento Objetivo: Administrador de taller**
+
+Puntos en común:
+1. Ambos entrevistados están relacionados con el sector automotriz y se enfrentan a desafíos similares en cuanto a la comunicación con los clientes y el manejo de registros.
+2. Tanto Natanael David Soto Salis como Sasha Chávez reconocen la importancia de mejorar la comunicación con los clientes para optimizar sus procesos y atraer más clientes.
+3. Ambos expresan interés en utilizar herramientas tecnológicas para mejorar la comunicación con los clientes y el manejo de registros, reconociendo la necesidad de una plataforma más eficiente y moderna.
+
+Diferencias:
+1. Natanael David Soto Salis utiliza principalmente WhatsApp como medio de comunicación con sus clientes, mientras que Sasha Chávez emplea diversos medios como mensajes de texto y llamadas telefónicas.
+2. Natanael David Soto Salis se centra en la necesidad de una plataforma que permita una comunicación directa con los clientes y muestre el estado de los vehículos en mantenimiento, mientras que Sasha Chávez muestra interés en un software que también ayude a formalizar la interacción con los clientes y mejorar el registro de los mismos.
+3. Natanael David Soto Salis es un joven de 23 años y puede estar más abierto a nuevas tecnologías y enfoques, mientras que Sasha Chávez es una administradora de 39 años y puede estar más interesada en soluciones prácticas y probadas en el campo.
+
+**Segmento Objetivo: Propietario de Vehiculos**
+
+Puntos en común:
+1. Tanto Emily Mendoza como Gaby Manrique expresan la necesidad de un seguimiento cercano al estado de sus vehículos, con recordatorios de mantenimiento y la posibilidad de reservar citas de manera eficiente.
+2. Ambos entrevistados desean tener acceso a un sistema que les proporcione información detallada sobre los servicios realizados en sus vehículos, incluyendo reportes de cada mantenimiento y estimaciones precisas de costos.
+3. Tanto Emily como Gaby muestran interés en una comunicación bidireccional efectiva con el personal del taller, así como en la posibilidad de ofrecer y recibir retroalimentación sobre los servicios prestados.
+
+Diferencias:
+1. Emily Mendoza se centra en la necesidad de recordatorios de mantenimiento y en la facilidad para reservar citas, mientras que Gaby Manrique sugiere características adicionales como estimaciones de costos detalladas, opciones de comparación y un sistema de retroalimentación integrado.
+2. Emily Mendoza enfatiza la importancia de tener un lugar de confianza para realizar mantenimiento, mientras que Gaby Manrique se centra en la experiencia del cliente y en la optimización de la gestión de servicios automotrices a través de una aplicación.
+3. Las expectativas de Emily Mendoza pueden estar más enfocadas en soluciones prácticas y accesibles para el usuario promedio, mientras que Gaby Manrique sugiere características más avanzadas y tecnológicas que buscan mejorar la experiencia del cliente y la eficiencia en la gestión de servicios automotrices.
+
 ## 2.3 Needfinding.
 ### 2.3.1. User Personas.
 Se realizó las dos User Personas de los dos segmentos objetivos que estamos abarcando
@@ -1273,9 +1334,9 @@ User goal 10: Como Administradores de Automotrices quiero poder agregar vehiculo
 <img src="images/WAWD18.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD19.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 11: Como Administradores de Automotrices quiero contar con una zona de ayuda disponible para resolver problemas que puedan surgir .
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD20.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 12: Como Administradores de Automotrices quiero que se me notifique en caso el stock se encuentre reducidopara poder tomar medidas preventivas y asegurar un suministro adecuado.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD21.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 13: Como Administradores de Automotrices quiero poder supervisar el stock del inventario para mantener un control preciso de la disponibilidad.
 <img src="images/WAWD24.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD25.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
@@ -1474,14 +1535,24 @@ Administradores de Taller:
 </div>
 
 <div align="center">
-  <img src="images/u15_mocks-up.png" alt="User Goal 14" width="100%">
+  <img src="images/u15_mocks-up.png" alt="User Goal 15" width="100%">
 </div>
 
 <div align="center">
-  <img src="images/u16_mocks-up.png" alt="User Goal 14" width="100%">
+  <img src="images/u16_mocks-up.png" alt="User Goal 16" width="100%">
 </div>
 
 ## 4.5. Web Applications Prototyping	
+
+Basándonos en los flujos de usuario definidos previamente, desarrollamos el prototipo funcional utilizando Figma. Se detalla el funcionamiento en el video adjunto.
+
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EXW0BiMQ8npGuHFVO-jiIjYBQ9cPGB2OU_zRalNgR8Lwxw?e=QHnpMD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+<div align="center">
+  <img src="images/prototype.png" alt="prototype" width="100%">
+</div>
+
+
 ## 4.6. Domain-Driven Software Architecture	
 ### 4.6.1. Software Architecture Context Diagram
 
