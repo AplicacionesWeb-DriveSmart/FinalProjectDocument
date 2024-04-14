@@ -1406,6 +1406,57 @@ Para llevar a cabo estas pruebas, hemos empleado el lenguaje Gherkin, que se bas
 ## 5.2. Landing Page, Services & Applications Implementation	
 ### 5.2.1. Sprint 1	
 #### 5.2.1.1 Sprint Planning 1
+<p>Se planeó el primer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
+
+<table border="1">
+  <tr>
+    <th>Sprint #</th><th>Sprint 1</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td>Date</td><td>2024-04-08</td>
+  </tr>
+  <tr>
+    <td>Time</td><td>9:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td><td>Virtual</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td><td>Carlos Eduardo Guimaraes Escalante</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>
+      <p>De la Piedra Quintanilla, Erwin Miquel</p>
+      <p>Gutierrez Zumaeta, Manuel Alonso</p>
+      <p>Montes Figueroa, Juan Eduardo</p>
+      <p>Guimaraes Escalante, Carlos Eduardo</p>
+      <p>Altamirano Saenz, Jorge Armando</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n - 1 Review Summary</td><td>No hubo sprint anterior</td>
+  </tr>
+  <tr>
+    <td>Sprint n - 1 Retrospective Summary</td><td>No hubo sprint anterior</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Goal</td><td>Realzación del Landing Page</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Velocity	</td><td>20</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points	</td><td>20</td>
+  </tr>
+</table>
+
 #### 5.2.1.2 Sprint Backlog 1
 #### 5.2.1.3 Development Evidence for Sprint Review 
 #### 5.2.1.4 Testing Suit Evidence for Sprint Review
