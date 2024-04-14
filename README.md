@@ -1009,10 +1009,10 @@ Aplicamos esto con el objetivo de evaluar la complejidad de las tareas.
 <table border="1">
   <tr><th># Orden</th><th>User Story ID</th><th>Título</th><th>Descripción</th><th>Prioridad</th><th>Story Points(1/2/3/5/8)</th></tr>
   <tr><td>1</td><td>US25</td><td>NavBar</td><td>Como usuario quiero visualizar una barra de navegación que me permita acceder a todas las secciones de la página de manera rápida, para navegar facilmente a través de la página.</td><td>Media</td><td>2</td></tr>
-  <tr><td>2</td><td>US26</td><td>Página de Inicio</td><td>Como usuario quiero poder visualizar una página de inicio, para poder vsualizar la infroamción fundamental relacionada a la aplicación.</td><td>Media</td><td>3</td></tr>
-  <tr><td>3</td><td>US27</td><td>Sección "Features"</td><td>Como usuario quiero poder acceder a una seccion de "Features" dentro de la página principal, para poder visualizar las características importantes que la aplicación ofrece.</td><td>Media</td><td>3</td></tr>
-  <tr><td>4</td><td>US28</td><td>Sección "FAQs"</td><td>Como usuario quiero poder acceder a una seccion de "FAQs" dentro de la página principal, para poder visualizar las preguntas frecuentes que la mayoría de usuarios tiene, y resolver las mismas dudas.</td><td>Media</td><td>3</td></tr>
-  <tr><td>5</td><td>US29</td><td>Sección "Acerca de"</td><td>Como usuario quiero poder acceder a una seccion de "Acerca de" dentro de la página principal, para poder visualizar información sobre la empresa, y los integrantes que foramn parte de ella.</td><td>Media</td><td>3</td></tr>
+  <tr><td>2</td><td>US26</td><td>Página de Inicio</td><td>Como usuario quiero poder visualizar una página de inicio, para poder visualizar la información fundamental relacionada a la aplicación.</td><td>Media</td><td>3</td></tr>
+  <tr><td>3</td><td>US27</td><td>Sección "Features"</td><td>Como usuario quiero poder acceder a una sección de "Features" dentro de la página principal, para poder visualizar las características importantes que la aplicación ofrece.</td><td>Media</td><td>3</td></tr>
+  <tr><td>4</td><td>US28</td><td>Sección "FAQs"</td><td>Como usuario quiero poder acceder a una sección de "FAQs" dentro de la página principal, para poder visualizar las preguntas frecuentes que la mayoría de usuarios tiene, y resolver las mismas dudas.</td><td>Media</td><td>3</td></tr>
+  <tr><td>5</td><td>US29</td><td>Sección "Acerca de"</td><td>Como usuario quiero poder acceder a una sección de "Acerca de" dentro de la página principal, para poder visualizar información sobre la empresa, y los integrantes que forman parte de ella.</td><td>Media</td><td>3</td></tr>
   <tr><td>6</td><td>US01</td><td>Registro en la aplicación</td><td>Como propietario del taller, quiero poder registrar en la aplicación a mi taller para poder llegar a más clientes.</td><td>Alta</td><td>3</td></tr>
   <tr><td>7</td><td>US32</td><td>Elegir plan de suscripción</td><td>Como cliente, quiero elegir un plan de suscripción que se adapte a mis necesidades, para acceder a las funcionalidades necesarias para mí.</td><td>Media</td><td>2</td></tr>
   <tr><td>8</td><td>US07</td><td>Registro de datos del vehículo</td><td>Como cliente que cuenta con un vehículo, quiero poder registrar los datos de mi vehículo en la aplicación.</td><td>Alta</td><td>8</td></tr>
@@ -1775,14 +1775,17 @@ Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma re
     <td>Sprint 1 Goal</td><td>Realzación del Landing Page</td>
   </tr>
   <tr>
-    <td>Sprint 1 Velocity	</td><td>14</td>
+    <td>Sprint 1 Velocity	</td><td>19</td>
   </tr>
   <tr>
-    <td>Sum of Story Points	</td><td>14</td>
+    <td>Sum of Story Points	</td><td>19</td>
   </tr>
 </table>
 
 #### 5.2.1.2 Sprint Backlog 1
+
+<p>El principal objetivo de este primer sprint es lograr completar todos los requisitos que se piden para el Landing Page. Además, se lleva en simultáneo el Sprint 1 con un archivo en Trello:</p>
+<p><a href="https://trello.com/invite/b/LkJlmIa3/ATTIcd1ab5d2af7dd4faade0fdf63b035fe64B5274E2/sprint-1-car-help" target="_blank">https://trello.com/invite/b/LkJlmIa3/ATTIcd1ab5d2af7dd4faade0fdf63b035fe64B5274E2/sprint-1-car-help</a></p>
 
 <table border="1">
   <tr>
@@ -1808,6 +1811,12 @@ Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma re
   </tr>
   <tr>
     <td>US29</td><td>Sección "Acerca de"</td><td>TS05</td><td>Implementación de una sección "Acerca de"</td><td>Se implementa una sección "Acerca de", que muestre información sobre las Startup y sus integrnates.</td><td>1</td><td>Juan Montes</td><td>Done</td>
+  </tr>
+   <tr>
+    <td>US01</td><td>Registro en la aplicación</td><td>TS06</td><td>Implementación de un "Registro"</td><td>Se implementa un registro, donde el usuario ponga sus datos y quede registrado dentro de la aplicación.</td><td>2</td><td>Carlos Guimaraes</td><td>To - Do</td>
+  </tr>
+   <tr>
+    <td>US32</td><td>Elegir plan de suscripción</td><td>TS07</td><td>Implementar un plan de sucripción anual</td><td>Se implementa un plan de suscripción anual dentro de la aplicación para que todas sus funciones esten disponibles.</td><td>1</td><td>Miquel de la Piedra</td><td>To - Do</td>
   </tr>
 </table>
 
