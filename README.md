@@ -859,6 +859,31 @@ Resumen:
 Durante la entrevista, Gaby expresó su entusiasmo por una futura aplicación de gestión de automotrices. Sugirió características como un sistema de citas avanzado con recordatorios automáticos, un seguimiento detallado del progreso de los servicios, estimaciones precisas de costos con opciones de comparación, una comunicación bidireccional efectiva con el personal del taller, un sistema de retroalimentación integrado, un botón de acción rápida y la posibilidad de registrar múltiples vehículos y realizar pagos en línea. Estas sugerencias reflejan sus expectativas de una aplicación que mejore la experiencia del cliente y optimice la gestión de servicios automotrices.
 
 ### 2.2.3 Análisis de entrevistas.
+
+**Segmento Objetivo: Administrador de taller**
+
+Puntos en común:
+1. Ambos entrevistados están relacionados con el sector automotriz y se enfrentan a desafíos similares en cuanto a la comunicación con los clientes y el manejo de registros.
+2. Tanto Natanael David Soto Salis como Sasha Chávez reconocen la importancia de mejorar la comunicación con los clientes para optimizar sus procesos y atraer más clientes.
+3. Ambos expresan interés en utilizar herramientas tecnológicas para mejorar la comunicación con los clientes y el manejo de registros, reconociendo la necesidad de una plataforma más eficiente y moderna.
+
+Diferencias:
+1. Natanael David Soto Salis utiliza principalmente WhatsApp como medio de comunicación con sus clientes, mientras que Sasha Chávez emplea diversos medios como mensajes de texto y llamadas telefónicas.
+2. Natanael David Soto Salis se centra en la necesidad de una plataforma que permita una comunicación directa con los clientes y muestre el estado de los vehículos en mantenimiento, mientras que Sasha Chávez muestra interés en un software que también ayude a formalizar la interacción con los clientes y mejorar el registro de los mismos.
+3. Natanael David Soto Salis es un joven de 23 años y puede estar más abierto a nuevas tecnologías y enfoques, mientras que Sasha Chávez es una administradora de 39 años y puede estar más interesada en soluciones prácticas y probadas en el campo.
+
+**Segmento Objetivo: Propietario de Vehiculos**
+
+Puntos en común:
+1. Tanto Emily Mendoza como Gaby Manrique expresan la necesidad de un seguimiento cercano al estado de sus vehículos, con recordatorios de mantenimiento y la posibilidad de reservar citas de manera eficiente.
+2. Ambos entrevistados desean tener acceso a un sistema que les proporcione información detallada sobre los servicios realizados en sus vehículos, incluyendo reportes de cada mantenimiento y estimaciones precisas de costos.
+3. Tanto Emily como Gaby muestran interés en una comunicación bidireccional efectiva con el personal del taller, así como en la posibilidad de ofrecer y recibir retroalimentación sobre los servicios prestados.
+
+Diferencias:
+1. Emily Mendoza se centra en la necesidad de recordatorios de mantenimiento y en la facilidad para reservar citas, mientras que Gaby Manrique sugiere características adicionales como estimaciones de costos detalladas, opciones de comparación y un sistema de retroalimentación integrado.
+2. Emily Mendoza enfatiza la importancia de tener un lugar de confianza para realizar mantenimiento, mientras que Gaby Manrique se centra en la experiencia del cliente y en la optimización de la gestión de servicios automotrices a través de una aplicación.
+3. Las expectativas de Emily Mendoza pueden estar más enfocadas en soluciones prácticas y accesibles para el usuario promedio, mientras que Gaby Manrique sugiere características más avanzadas y tecnológicas que buscan mejorar la experiencia del cliente y la eficiencia en la gestión de servicios automotrices.
+
 ## 2.3 Needfinding.
 ### 2.3.1. User Personas.
 Se realizó las dos User Personas de los dos segmentos objetivos que estamos abarcando
