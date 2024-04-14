@@ -1172,12 +1172,259 @@ El método de navegación entre las diversas secciones de la landing page estar�
 
 ## 4.4. Web Applications UX/UI Design	
 ### 4.4.1. Web Applications Wireframes	
+
+Aplicacion Mobile
+<p>Welcome</p>
+<img src="images/WAWM1.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Sing in - User Vehicle
+<img src="images/WAWM2.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Chat-User Vehicle
+<img src="images/WAWM3.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+List- User Vehicle
+<img src="images/WAWM4.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+List- User Vehicle
+<img src="images/WAWM5.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Repair- User Vehicle
+<img src="images/WAWM6.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Repair- User Vehicle
+<img src="images/WAWM7.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Profile- User Vehicle
+<img src="images/WAWM8.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Edit Profile- User Vehicle
+<img src="images/WAWM9.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+
+Aplicación web
+<p>Wireframe-Login in taller</p>
+<img src="images/WAW1.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Sign in taller
+<img src="images/WAW2.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Menú
+<img src="images/WAW3.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Invoice List
+<img src="images/WAW4.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe de Previsualización de datos del taller
+<img src="images/WAW5.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Soporte
+<img src="images/WAW6.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-add client
+<img src="images/WAW7.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Delete client account
+<img src="images/WAW8.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Delete customer account confirmation
+<img src="images/WAW9.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Client list
+<img src="images/WAW10.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Chat con cliente
+<img src="images/WAW11.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Previsualización de factura
+<img src="images/WAW12.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Creación de la factura
+<img src="images/WAW13.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Lista Vehículos
+<img src="images/WAW14.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Filtro de cliente por su vehículo
+<img src="images/WAW15.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Wireframe-Agregar vehículo
+<img src="images/WAW16.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Low stock warning 
+<img src="images/WAW17.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Individual stock supervision
+<img src="images/WAW18.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Ingresar stock
+<img src="images/WAW19.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+Supervisar stock
+<img src="images/WAW20.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
+
+
 ### 4.4.2. Web Applications Wireframes Diagrams	
+
 ### 4.4.3. Web Applications Mock-ups	
-### 4.4.4. Web Applications User Flow Diagrams	
+
+Se empleó la estructura definida en los wireframes como base para cada una de las vistas, pero se adaptó al estilo establecido en el styles guidelines.
+
+Propietarios de Vehiculos:
+
+<div align="center">
+  <img src="images/f1_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+
+<div align="center">
+  <img src="images/f2_mocsk-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f3_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+Administradores de Taller:
+
+<div align="center">
+  <img src="images/f5_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f6_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f7_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f8_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f9_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f10_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f11_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f12_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f13_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f14_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f15_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f16_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f17_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f18_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f19_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f20_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f21_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f22_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f23_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f24_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f25_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/f26_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+Figma: [link]()
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+Figma: [link]()
+
+Propietarios de Vehiculos:
+
+<div align="center">
+  <img src="images/u1_mocks-up.png" alt="User Goal 1" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u2_mocks-up.png" alt="User Goal 2" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u3_mocks-up.png" alt="User Goal 3" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u4_mocks-up.png" alt="User Goal 4" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u5_mocks-up.png" alt="User Goal 5" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u6_mocks-up.png" alt="User Goal 6" width="100%">
+</div>
+
+Administradores de Taller:
+
+<div align="center">
+  <img src="images/u7_mocks-up.png" alt="User Goal 7" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u8_mocks-up.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u9_mocks-up.png" alt="User Goal 9" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u10_mocks-up.png" alt="User Goal 10" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u11_mocks-up.png" alt="User Goal 11" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u12_mocks-up.png" alt="User Goal 12" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u13_mocks-up.png" alt="User Goal 13" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u14_mocks-up.png" alt="User Goal 14" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u15_mocks-up.png" alt="User Goal 14" width="100%">
+</div>
+
+<div align="center">
+  <img src="images/u16_mocks-up.png" alt="User Goal 14" width="100%">
+</div>
+
 ## 4.5. Web Applications Prototyping	
 ## 4.6. Domain-Driven Software Architecture	
 ### 4.6.1. Software Architecture Context Diagram
+
 <p align="center">
   <img src="images/c41.png" alt="context" width="100%"></p>
 
@@ -1401,8 +1648,86 @@ Software Testing:
 Para llevar a cabo estas pruebas, hemos empleado el lenguaje Gherkin, que se basa en el formato de escenario Given-When-Then y nos permite analizar las variables de entrada y salida. Este lenguaje se destaca por su simplicidad y claridad al utilizar una estructura que se asemeja al lenguaje natural, lo que facilita su comprensión para todos los involucrados en el proceso.
 
 ### 5.1.2. Source Code Management	
+
+Usuarios de GitHub:
+
+|          Integrante          |      Usuario de Github      |
+|:-----------------------------:|:-------------------:|
+|   De la Piedra Quintanilla, Erwin Miquel   |    Miquel    |
+|  Altamirano Saenz, Jorge Armando  |    jorgealtamirano1    |
+|   Guimaraes Escalante, Carlos Eduardo  |    CarlosG345    |
+|  Montes Figueroa, Juan Eduardo   |    Zyx81   |
+|   Gutierrez Zumaeta, Manuel Alonso   |    ManuelGutierrez2003   |
+
+*URL de repositorio Landing Page*: [https://github.com/AplicacionesWeb-DriveSmart/Landing-Page](https://github.com/AplicacionesWeb-DriveSmart/Landing-Page)
+
+Para llevar a cabo el desarrollo del proyecto, seguiremos el modelo de flujo de trabajo GitFlow. Este enfoque se basa en el control de versiones Git y se compone de varias ramas, cada una con un propósito específico: Main, Feature y Develop. La rama Main se utiliza para trabajar con las versiones finales del sprint y realizar despliegues de la aplicación web. Por lo tanto, todas las versiones almacenadas en esta rama deben ser funcionales y estables para el usuario. Las ramas Feature se emplean para desarrollar características específicas, como por ejemplo, un registro de usuario. Cada una de estas ramas se gestiona de forma independiente para mantener un orden basado en el Product Backlog, lo que significa que cualquier problema que surja al trabajar en una característica no afectará al programa en su totalidad. Por último, está la rama Develop, donde se fusionan todas las características ya trabajadas. Esta práctica asegura que todo funcione según lo previsto antes de realizar un despliegue oficial hacia la rama Main.
+
 ### 5.1.3. Source Code Style Guide & Conventions	
+
+Durante el desarrollo proyecto, se emplearán diversos lenguajes para la creación del Landing Page, Web Services y Frontend Web Application. Para mantener la coherencia y uniformidad en el desarrollo, nos regiremos por las pautas y convenciones que se detallan a continuación.
+
+**HTML**
+
+Es el idioma que se usa para organizar el contenido de una página web, proporcionando una diversidad de elementos potenciales como texto, imágenes, formularios, y más.
+
+- Incluir la declaración del tipo de documento en la primera línea con `<!DOCTYPE html>`, manteniendo la estructura básica del HTML con `<html>`, `<head>`, `<body>`.
+
+- Indicar el título de la página para informar al usuario sobre el contenido de la página utilizando el elemento `<title>` dentro de `<head>`.
+
+- Adoptar una indentación coherente para mejorar la legibilidad del código, asegurándose de tabular correctamente cada nivel de anidamiento.
+
+- Asegurarse de cerrar siempre los elementos que lo requieran, como divisiones, párrafos, títulos, utilizando la etiqueta de cierre correspondiente (por ejemplo, `</div>` para cerrar una `<div>`).
+
+- Incluir el atributo `"alt"` para las imágenes, proporcionando una descripción alternativa que se muestra cuando la imagen no se puede cargar.
+
+**CSS**
+
+Es el idioma empleado para establecer el diseño de una página web, incluyendo los estilos, tipos de letra, colores, contenedores y otros aspectos visuales.
+
+- Utilizar la indentación de manera adecuada.
+- Utilizar nombres cortos y en minúsculas para los elementos.
+- Especificar los colores en código hexadecimal (por ejemplo, #024A86).
+- Incluir comentarios para describir el propósito y uso de los estilos.
+- Asegurarse de que el diseño sea responsive para que los usuarios puedan visualizarlo cómodamente en cualquier dispositivo.
+
+**JavaScript**
+
+Es el idioma de programación más popular en el ámbito del desarrollo web, ya que posibilita la creación de páginas interactivas con animaciones atractivas para los usuarios.
+
+- Utilizar nombres breves y apropiados para las variables y funciones.
+- Agregar comentarios para explicar la función de cada parte del código en la página web.
+- Asegurarse de poner un punto y coma al final de cada línea de código.
+- Definir constantes en lugar de variables cuando su valor no cambiará.
+- Emplear operadores de comparación estrictos en lugar de comparaciones regulares siempre que sea factible (por ejemplo, usar === en lugar de ==).
+
+**C#**
+
+Es un idioma de programación ampliamente empleado en diversas áreas, incluyendo la programación web, móvil, y otros campos.
+
+- Utilizar CamelCase para nombrar las variables, funciones y clases, asegurándose de que sean significativos y breves.
+- Emplear comillas dobles ("") para delimitar las cadenas de texto.
+- Aplicar una correcta indentación para mantener un código coherente y ordenado.
+- Incluir comentarios en cada bloque de código para explicar su funcionalidad.
+- Definir constantes para variables cuyos valores permanecerán constantes a lo largo del código.
+
+**Gherkin**
+
+Es el lenguaje utilizado para elaborar casos de prueba en función de los requerimientos establecidos por la empresa. Su aplicación se lleva a cabo durante el proceso de pruebas o testing.
+
+- Dividir el bloque de Given When Then en partes separadas para mejorar su legibilidad y subdivisiones apropiadas.
+- Cuando se presentan las variables de entrada y salida junto con sus ejemplos, se utilizan tablas para su representación. Sin embargo, no es necesario utilizar varias tablas para cada parte del código; es suficiente con una tabla general al final del escenario.
+- Si hay más de un escenario en un archivo, se debe realizar una separación adecuada entre ellos para distinguirlos claramente. Esto se puede lograr dejando dos líneas en blanco para indicar el final de un escenario y el inicio del siguiente.
+- Añadir líneas en blanco dentro de cada paso (Step) para mejorar la legibilidad y la organización de la información.
+
 ### 5.1.4. Software Deployment Configuration	
+
+Para la gestión del despliegue de la aplicación, optaremos por Git, un sistema de control de versiones distribuido ampliamente utilizado en proyectos de desarrollo de software. Esta herramienta esencial facilita el trabajo colaborativo y el seguimiento de los cambios realizados por los miembros del equipo. Una de sus ventajas destacadas es su capacidad para registrar los cambios en los archivos de un proyecto a lo largo del tiempo. Con Git, podemos crear ramas, efectuar cambios en ellas y fusionarlos eficientemente, lo que permite que varios desarrolladores trabajen en diferentes aspectos del proyecto simultáneamente sin conflictos.
+
+Por otro lado, contamos con GitHub, una plataforma que sirve para alojar repositorios de Git. Es uno de los servicios más populares entre los desarrolladores a nivel global, ya que posibilita la gestión de repositorios tanto públicos como privados para almacenar el código en la nube. Además de almacenar el código, GitHub mantiene el historial de los repositorios, lo que permite a los usuarios acceder a todas las versiones trabajadas y revertir a una versión anterior si es necesario. Ofrece otras herramientas útiles como los pull requests, que son solicitudes de revisión de una rama y su posterior fusión con otra rama.
+
+Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma remota desde su entorno de desarrollo integrado (IDE), manteniendo una copia del repositorio Git a través del repositorio en línea almacenado en GitHub. De esta manera, pueden realizar commits para enviar los cambios que hayan realizado.
+
 ## 5.2. Landing Page, Services & Applications Implementation	
 ### 5.2.1. Sprint 1	
 #### 5.2.1.1 Sprint Planning 1
