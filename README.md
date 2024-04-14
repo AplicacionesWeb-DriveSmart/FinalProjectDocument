@@ -720,25 +720,26 @@ Preguntas para: Técnicos y administradores del taller
 
 <u>**Entrevista: 1 - Segmento Objetivo: Administrador de taller**</u>
 
-Fecha Entrevista: 
+Fecha Entrevista: 04/04/2024
 
-Entrevistador: 
+Entrevistador: Carlos Eduardo Guimaraes Escalante
 
-Entrevistado: 
+Entrevistado: Natanael David Soto Salis 
 
 Datos del Entrevistado:
 
-- Edad: 
-- Distrito: 
+- Edad: 23 años
+- Distrito: San Juan de Lurigancho
 
-Link del Video de la Entrevista:[link]()
+Link del Video de la Entrevista: [link]()
 
 - Minuto de Inicio: 
 - Minuto de Fin: 
 
-<img src="images/.png" alt="Entrevista" width="100%">
+<img src="images/entrevistaCarlos.png" alt="Entrevista" width="100%">
 
 Resumen de la Entrevista:
+<p>En la entrevista, David Soto, un joven de 23 años nos dice como suelen ser los procesos que se realizan en su taller. La forma que utiliza para comunicarse con sus clientes es vía Whatsapp, donde le informa a sus cliente de los mantemientos, repuestos y todo lo relacionado al servicio, sin embargo, esta es una forma un poco ineficiente para el ya que algunas veces sus clientes no responden a sus mensajes, por lo cual la comunicación no es tan efectiva. Él considera que una plataforma donde se pueda tener una comunicación directa con los clientes, y que a la vez tenga funcionalidades para mostrar a sus clientes el estado de sus vehículos cuando están en mantenimiento, seria beneficioso para él y optimizaría el taller, atrallendo mas clientes.</p>
 
 <u>**Entrevista: 2 - Segmento Objetivo: Administrador de taller**</u>
 
@@ -753,7 +754,7 @@ Datos del entrevistado:
 - Edad: 39 años
 - Distrito: Miraflores
 
-Link del Video de la Entrevista:[link]()
+Link del Video de la Entrevista: [link]()
 
 - Minuto de Inicio: 
 - Minuto de Fin: 
@@ -778,7 +779,7 @@ Datos del Entrevistado:
 - Edad: 64 años
 - Distrito: Surco
 
-Link del Video de la Entrevista:[link]()
+Link del Video de la Entrevista: [link]()
 
 - Minuto de Inicio: 
 - Minuto de Fin: 
@@ -802,7 +803,7 @@ Datos del Entrevistado:
 - Edad: 20 años
 - Distrito: Magdalena
 
-Link del Video de la Entrevista:[link]()
+Link del Video de la Entrevista: [link]()
 
 - Minuto de Inicio: 
 - Minuto de Fin: 
@@ -824,7 +825,7 @@ Entrevistado: Luis Alberto Peralta Gutiérrez
 - Edad: 40
 - Distrito: La Molina
 
-Link del Video de la Entrevista:[https://drive.google.com/file/d/1gcvt_pYIZ43hSIbL6XIwA3s9rcFSFj5P/view?usp=sharing]()
+Link del Video de la Entrevista:[https://drive.google.com/file/d/1gcvt_pYIZ43hSIbL6XIwA3s9rcFSFj5P/view?usp=sharing](https://drive.google.com/file/d/1gcvt_pYIZ43hSIbL6XIwA3s9rcFSFj5P/view?usp=sharing)
 
 - Minuto de Inicio: 00:09
 - Minuto de Fin: 04:16
@@ -846,7 +847,7 @@ Entrevistado: Gaby Manrique
 - Edad: 50
 - Distrito: La Molina
 
-Link del Video de la Entrevista:[link]()
+Link del Video de la Entrevista: [link]()
 
 - Minuto de Inicio: 0:00
 - Minuto de Fin: 03:46
@@ -956,25 +957,25 @@ Segmento Objetivo #2: Automotrices que se inscriben en la aplicación
 ## 3.2 User Stories
 
 <table><tr><th valign="top"><b>Epic ID</b></th><th valign="top"><b>Epic</b></th><th valign="top"><b>User story ID</b></th><th valign="top"><b>User stories</b></th></tr>
-<tr><td rowspan="6" valign="top">E01</td><td rowspan="6" valign="top"><p>Como gerente del taller</p><p>Quiero que la aplicación permite que los clientes puedan programar citas en línea.</p></td><td valign="top">US01</td><td valign="top">Registro en la aplicación</td></tr>
+<tr><td rowspan="6" valign="top">E01</td><td rowspan="6" valign="top"><p>Como gerente del taller, quiero que la aplicación permita que los clientes puedan programar citas en línea, para agilizar y ahorrar tiempo.</p></td><td valign="top">US01</td><td valign="top">Registro en la aplicación</td></tr>
 <tr><td valign="top">US02</td><td valign="top">Programación de citas</td></tr>
 <td valign="top">US03</td><td valign="top">Visualización de calendario</td></tr>
 <tr><td valign="top">US04</td><td valign="top">Notificación de citas</td></tr>
 <tr><td valign="top">US05</td><td valign="top">Acceso a información de clientes</td></tr>
 <tr><td valign="top">US06</td><td valign="top">Gestión de servicios y disponibilidad</td></tr>
-<tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><b><p>Como cliente</p><p>que cuenta con un vehículo quiero poder registrar los mantenimientos de mi vehículo</p></td><td valign="top">US07</td><td valign="top">Registro de datos del vehículo</td></tr>
+<tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><p>Como cliente que cuenta con un vehículo, quiero poder registrar los mantenimientos de mi vehículo para poder tener un historial de los mantenimientos hechos y mostrarlos en caso no pueda ir al mismo taller.</p></td><td valign="top">US07</td><td valign="top">Registro de datos del vehículo</td></tr>
 <tr><td valign="top">US08</td><td valign="top">Registro de los mantenimientos</td></tr>
 <tr><td valign="top">US09</td><td valign="top">Cálculo del costo del mantenimiento</td></tr>
 <tr><td valign="top">US10</td><td valign="top">Recordatorios de mantenimiento al vehículo</td></tr>
 <tr><td valign="top">US11</td><td valign="top">Categorizar el tipo de mantenimiento</td></tr>
 <tr><td valign="top">US12</td><td valign="top">Historial de mantenimientos realizados</td></tr>
-<tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top"><p>Como cliente,</p><p>Quiero recibir recordatorios automáticos de mantenimiento</p><p>Para mi vehículo</p></td><td valign="top">US13</td><td valign="top">Recordatorio de inspección técnica</td></tr>
+<tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top"><p>Como cliente, quiero recibir recordatorios automáticos de mantenimiento, para asi aplicarselos a mi vehículo cuando sea necesario.</p></td><td valign="top">US13</td><td valign="top">Recordatorio de inspección técnica</td></tr>
 <tr><td valign="top">US14</td><td valign="top">Recordatorio de cambio de aceite</td></tr>
 <tr><td valign="top">US15</td><td valign="top">Personalización de recordatorios de mantenimiento</td></tr>
 <tr><td valign="top">US16</td><td valign="top">Recordatorio de vencimiento de póliza de seguro</td></tr>
 <tr><td valign="top">US17</td><td valign="top">Recordatorio de vencimiento de garantía</td></tr>
 <tr><td valign="top">US18</td><td valign="top">Marcado de recordatorios de mantenimiento como completados</td></tr>
-<tr><td rowspan="6" valign="top">E04</td><td rowspan="6" valign="top"><p>Como gerente del taller</p><p>Quiero poder crear una cuenta, modificar y eliminar los datos de los clientes</p><p>Para poder actualizar la información de nuestros clientes y agregar nuevos.</p><p></p>
+<tr><td rowspan="6" valign="top">E04</td><td rowspan="6" valign="top"><p>Como gerente del taller, quiero poder crear una cuenta, modificar y eliminar los datos de los clientes, para poder actualizar la información de nuestros clientes y agregar nuevos.</p>
 </td><td valign="top">US19</td><td valign="top">Registrar tecnico o administrador</td></tr>
 <tr><td valign="top">US20</td><td valign="top">Registrar nuevo cliente</td></tr>
 <tr><td valign="top">US21</td><td valign="top">Actualización de clientes</td></tr>
@@ -1308,11 +1309,9 @@ User goal 10: Como Administradores de Automotrices quiero poder agregar vehiculo
 <img src="images/WAWD18.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD19.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 11: Como Administradores de Automotrices quiero contar con una zona de ayuda disponible para resolver problemas que puedan surgir .
-<img src="images/WAWD20.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
-<img src="images/WAWD21.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 12: Como Administradores de Automotrices quiero que se me notifique en caso el stock se encuentre reducidopara poder tomar medidas preventivas y asegurar un suministro adecuado.
-<img src="images/WAWD22.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
-<img src="images/WAWD23.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 13: Como Administradores de Automotrices quiero poder supervisar el stock del inventario para mantener un control preciso de la disponibilidad.
 <img src="images/WAWD24.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD25.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
