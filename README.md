@@ -2059,4 +2059,4 @@ JavaScript Style Guide. (s.f.).https://www.w3schools.com/js/js_conventions.asp
 
 Videos de exposiciones
 
-Exposición TB1:
+Exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EXB0bW88FlxOio70KU0kVlkBCh-8gRyxDVxqqJcHs1IC5w?e=jpofn5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
