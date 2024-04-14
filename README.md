@@ -1239,10 +1239,192 @@ Supervisar stock
 ### 4.4.2. Web Applications Wireframes Diagrams	
 
 ### 4.4.3. Web Applications Mock-ups	
-### 4.4.4. Web Applications User Flow Diagrams	
+
+Se empleó la estructura definida en los wireframes como base para cada una de las vistas, pero se adaptó al estilo establecido en el styles guidelines.
+
+Propietarios de Vehiculos:
+
+<div align="center">
+  <img src="img/f1_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+
+<div align="center">
+  <img src="img/f2_mocsk-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f3_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+Administradores de Taller:
+
+<div align="center">
+  <img src="img/f5_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f6_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f7_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f8_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f9_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f10_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f11_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f12_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f13_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f14_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f15_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f16_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f17_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f18_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f19_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f20_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f21_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f22_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f23_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f24_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f25_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f26_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+Figma: [link]()
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+Figma: [link]()
+
+Propietarios de Vehiculos:
+
+<div align="center">
+  <img src="img/u1_mocks-up.png" alt="User Goal 1" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u2_mocks-up.png" alt="User Goal 2" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u3_mocks-up.png" alt="User Goal 3" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u4_mocks-up.png" alt="User Goal 4" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u5_mocks-up.png" alt="User Goal 5" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u6_mocks-up.png" alt="User Goal 6" width="100%">
+</div>
+
+Administradores de Taller:
+
+<div align="center">
+  <img src="img/u7_mocks-up.png" alt="User Goal 7" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u8_mocks-up.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u9_mocks-up.png" alt="User Goal 9" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u10_mocks-up.png" alt="User Goal 10" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u11_mocks-up.png" alt="User Goal 11" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u12_mocks-up.png" alt="User Goal 12" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u13_mocks-up.png" alt="User Goal 13" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u14_mocks-up.png" alt="User Goal 14" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u15_mocks-up.png" alt="User Goal 14" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u16_mocks-up.png" alt="User Goal 14" width="100%">
+</div>
+
 ## 4.5. Web Applications Prototyping	
 ## 4.6. Domain-Driven Software Architecture	
 ### 4.6.1. Software Architecture Context Diagram
+
 <p align="center">
   <img src="images/c41.png" alt="context" width="100%"></p>
 
