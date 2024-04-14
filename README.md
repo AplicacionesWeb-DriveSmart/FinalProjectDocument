@@ -695,10 +695,10 @@ Datos del Entrevistado:
 - Edad: 23 años
 - Distrito: San Juan de Lurigancho
 
-Link del Video de la Entrevista: [link]()
+Link del Video de la Entrevista: 
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 25:19
+- Minuto de Fin: 33:30
 
 <img src="images/entrevistaCarlos.png" alt="Entrevista" width="100%">
 
@@ -718,10 +718,10 @@ Datos del entrevistado:
 - Edad: 39 años
 - Distrito: Miraflores
 
-Link del Video de la Entrevista: [link]()
+Link del Video de la Entrevista: 
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 4:20
+- Minuto de Fin: 12:30
 
 <img src="images/entrevista2.png" alt="Entrevista" width="100%">
 
@@ -743,10 +743,10 @@ Datos del Entrevistado:
 - Edad: 64 años
 - Distrito: Surco
 
-Link del Video de la Entrevista: [link]()
+Link del Video de la Entrevista:
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 33:31
+- Minuto de Fin: 42:51
 
 <img src="images/entrevista3.png" alt="Entrevista" width="100%">
 
@@ -767,10 +767,10 @@ Datos del Entrevistado:
 - Edad: 20 años
 - Distrito: Magdalena
 
-Link del Video de la Entrevista: [link]()
+Link del Video de la Entrevista: 
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 21:32
+- Minuto de Fin: 25:18
 
 <img src="images/entrevistaManuel.png" alt="Entrevista" width="100%">
 
@@ -789,10 +789,10 @@ Entrevistado: Luis Alberto Peralta Gutiérrez
 - Edad: 40
 - Distrito: La Molina
 
-Link del Video de la Entrevista:[https://drive.google.com/file/d/1gcvt_pYIZ43hSIbL6XIwA3s9rcFSFj5P/view?usp=sharing](https://drive.google.com/file/d/1gcvt_pYIZ43hSIbL6XIwA3s9rcFSFj5P/view?usp=sharing)
+Link del Video de la Entrevista:
 
-- Minuto de Inicio: 00:09
-- Minuto de Fin: 04:16
+- Minuto de Inicio: 00:00
+- Minuto de Fin: 04:19
 
 <img src="images/entrevista.PNG" alt="Entrevista" width="100%">
 
@@ -811,10 +811,10 @@ Entrevistado: Gaby Manrique
 - Edad: 50
 - Distrito: La Molina
 
-Link del Video de la Entrevista: [link]()
+Link del Video de la Entrevista: 
 
-- Minuto de Inicio: 0:00
-- Minuto de Fin: 03:46
+- Minuto de Inicio: 12:31
+- Minuto de Fin: 21:31
 
 <img src="images/imgentrevista6.png" alt="Entrevista" width="100%">
 
