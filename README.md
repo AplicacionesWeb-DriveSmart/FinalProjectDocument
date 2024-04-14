@@ -1172,6 +1172,27 @@ El método de navegación entre las diversas secciones de la landing page estar�
 
 ## 4.4. Web Applications UX/UI Design	
 ### 4.4.1. Web Applications Wireframes	
+
+Aplicacion Mobile
+Welcome
+<img src="images/" alt="Wireframes" width="100%"></p></td>
+Sing in - User Vehicle
+<img src="images/" alt="Wireframes" width="100%"></p></td>
+Chat-User Vehicle
+<img src="images/" alt="Wireframes" width="100%"></p></td>
+List- User Vehicle
+<img src="images/" alt="Wireframes" width="100%"></p></td>
+List- User Vehicle
+<img src="images/" alt="Wireframes" width="100%"></p></td>
+Repair- User Vehicle
+<img src="images/" alt="Wireframes" width="100%"></p></td>
+Repair- User Vehicle
+<img src="images/" alt="Wireframes" width="100%"></p></td>
+Profile- User Vehicle
+<img src="images/" alt="Wireframes" width="100%"></p></td>
+Edit Profile- User Vehicle
+<img src="images/" alt="Wireframes" width="100%"></p></td>
+
 ### 4.4.2. Web Applications Wireframes Diagrams	
 ### 4.4.3. Web Applications Mock-ups	
 ### 4.4.4. Web Applications User Flow Diagrams	
