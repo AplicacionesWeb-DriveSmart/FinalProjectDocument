@@ -1288,6 +1288,7 @@ User goal 15: Como Administradores de Automotrices quiero poder eliminar cuentas
 <img src="images/WAWD32.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD33.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 16: Como Administradores de Automotrices quiero agregar nuevos productos al stock para  satisfacer las necesidades cambiantes de nuestros clientes.
+
 <img src="images/WAWD34.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD35.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD36.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
