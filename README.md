@@ -30,15 +30,51 @@
 
 ---
 
-# Registro de Versiones del informe
-| Version | Fecha | Autor | Descripcion de Modificacion |
-| ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 28/03/2024 |Grupo 1 |Se crea el documento |
-- - -
+
+</div>
+
+<table>
+  <thead>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>TB1</strong></td>
+      <td>Miércoles 10 de Abril</td>
+      <td>
+        <ul>
+          <li>De la Piedra Quintanilla, Erwin Miquel</li>
+          <li>Altamirano Saenz, Jorge Armando</li>
+          <li>Guimaraes Escalante, Carlos Eduardo</li>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Montes Figueroa, Juan Eduardo	</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
+  </tbody>
+</table>
+
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/AplicacionesWeb-DriveSmart/FinalProjectDocument/blob/main/README.md)
 
-(Imagenes de los commits cada entrega)
+Commits en reporte avance TB1
+
 - - -
 # Contenido
 
@@ -163,8 +199,8 @@ del ABET – EAC - Student Outcome 3
 
 | Criterio específico                                                                                                                                                                    	| Acciones realizadas 	| Conclusiones 	|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------	|--------------	|
-| Comunica oralmente sus ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería.    	|                     	|              	|
-| Comunica en forma escrita ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería. 	|                     	|              	|
+| Comunica oralmente sus ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería.    	|         <p>**Altamirano Saenz, Jorge Armando**	TB1: A lo largo de mi formación en ingeniería, he desarrollado la capacidad de comunicar mis ideas y resultados de manera objetiva y efectiva a públicos con diversos niveles de experiencia y competencias técnicas. Desde presentaciones formales hasta discusiones informales, me aseguro de transmitir información relevante y precisa, facilitando así la comprensión y toma de decisiones dentro del equipo de proyecto.</p> <p>**De la Piedra Quintanilla, Erwin Miquel	TB1:** En mi experiencia como estudiante de ingeniería, he aprendido a comunicar mis ideas y resultados de manera clara y objetiva a diversos públicos, independientemente de su especialidad o nivel jerárquico. Durante el desarrollo de proyectos, he sido capaz de transmitir información técnica de manera accesible y comprensible, adaptando mi discurso según las necesidades y conocimientos de mi audiencia.</p> <p>**Guimaraes Escalante, Carlos Eduardo TB1:** Durante la ejecución de proyectos de ingeniería, he cultivado la habilidad de comunicar mis ideas y hallazgos de manera objetiva y precisa a audiencias con diferentes niveles de experiencia y conocimientos técnicos. Ya sea frente a colegas especializados o a personal de dirección, mi enfoque se centra en transmitir la información de manera clara y concisa, utilizando un lenguaje adecuado para cada contexto.</p> <p>**Gutierrez Zumaeta, Manuel Alonso TB1:** Como estudiante de ingeniería, he perfeccionado mi habilidad para comunicar mis ideas y resultados con objetividad a audiencias de diferentes especialidades y niveles jerárquicos. Durante la realización de proyectos, me enfoco en presentar la información de manera clara y coherente, utilizando ejemplos y analogías cuando sea necesario para asegurar una comprensión completa por parte de mi audiencia.</p> <p>**Montes Figueroa, Juan Eduardo TB1:** A lo largo de mi trayectoria académica en ingeniería, he adquirido la destreza de comunicar mis ideas y resultados de manera objetiva a públicos con variados conocimientos técnicos y jerarquías dentro de un proyecto. Ya sea a través de presentaciones orales, informes técnicos o reuniones de equipo, me esfuerzo por transmitir información de manera clara y precisa, promoviendo así una comunicación efectiva y una colaboración exitosa en el desarrollo de proyectos de ingeniería.       	|             	|
+| Comunica en forma escrita ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería. 	|<p>**Altamirano Saenz, Jorge Armando**	TB1: Durante mi formación como estudiante de ingeniería, he desarrollado la habilidad de comunicar mis ideas y resultados de forma escrita con objetividad a audiencias diversas, independientemente de su especialidad o nivel jerárquico. A través de informes técnicos, documentos de diseño y correos electrónicos profesionales, me aseguro de transmitir información precisa y relevante que pueda ser comprendida por todos los involucrados en el proyecto.</p> <p>**De la Piedra Quintanilla, Erwin Miquel	TB1:** Como estudiante de ingeniería, he aprendido a redactar de manera clara y objetiva para comunicar ideas y resultados a públicos con diferentes niveles de experiencia y conocimientos técnicos. Ya sea elaborando documentación técnica para ingenieros especializados o informes ejecutivos para la alta dirección, mi enfoque se centra en presentar la información de manera concisa y precisa, facilitando así la toma de decisiones informadas en el proyecto.</p> <p>**Guimaraes Escalante, Carlos Eduardo TB1:** A lo largo de mi carrera universitaria en ingeniería, he perfeccionado mi capacidad para comunicar ideas y resultados de manera escrita con objetividad a públicos de diversas especialidades y niveles jerárquicos. Desde la redacción de informes técnicos hasta la elaboración de manuales de usuario, me esfuerzo por utilizar un lenguaje claro y preciso que garantice una comprensión adecuada por parte de todos los lectores involucrados en el proyecto.</p> <p>**Gutierrez Zumaeta, Manuel Alonso TB1:** Durante el desarrollo de proyectos de ingeniería, he cultivado la habilidad de comunicar ideas y resultados de manera escrita con objetividad a audiencias con diferentes niveles de experiencia y especialización. A través de la redacción de documentos técnicos, especificaciones de diseño y memorandos internos, me aseguro de transmitir información de manera clara y concisa, contribuyendo así al éxito del proyecto y la colaboración efectiva entre los miembros del equipo.</p> <p>**Montes Figueroa, Juan Eduardo TB1:** Como estudiante de ingeniería comprometido con la excelencia académica y profesional, me he dedicado a perfeccionar mi habilidad para comunicar ideas y resultados de forma escrita con objetividad a públicos diversos en el contexto de proyectos de ingeniería. Ya sea redactando informes de progreso, documentación técnica o comunicados internos, mi objetivo es presentar la información de manera clara y precisa, promoviendo así una comunicación efectiva y una toma de decisiones informada en el desarrollo del proyecto.                      	|              	|
 
 
 
