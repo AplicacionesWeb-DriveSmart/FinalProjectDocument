@@ -6,12 +6,12 @@
 
 # Universdiad Peruana de Ciencias Aplicadas
 
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
+### INGENIERÍA DE SISTEMAS DE SOFTWARE
 ### Ciclo: 5
-## CURSO: SI730 Aplicaciones Web | SECCIÓN SW51
+### CURSO: SI730 Aplicaciones Web | SECCIÓN SW51
  Profesor: Tinoco Licas, Juan Carlos
  
-# Proyecto de curso
+## Proyecto de curso
 ## Informe del TF
 #### StartUp: DriveSmart
 #### Producto: CarHelp
@@ -74,6 +74,10 @@
 [URL del repositorio](https://github.com/AplicacionesWeb-DriveSmart/FinalProjectDocument/blob/main/README.md)
 
 Commits en reporte avance TB1
+
+<div align="center">
+  <img src="images/commits.png" alt="Commits" width="100%">
+</div>
 
 - - -
 # Contenido
@@ -2016,6 +2020,20 @@ URL deployment Landing Page: [https://aplicacionesweb-drivesmart.github.io/Landi
 <img src="images/g4.png" alt="Software Deployment" width="100%">
 
 #### 5.2.1.8 Team Collaboration Insights during Sprint
+
+Durante la implementación del Landing Page, todos los miembros del equipo realizaron commits relacionados con la rama de características en la que estaban trabajando.
+
+<img src="images/commits landing.png" alt="Commits landing" width="100%">
+
+Nos dividimos de la siguiente forma para trabajar en el Landing Page:
+
+Manuel Guitierrez: head and body
+Jorge Altamirano: frequent
+Miquel de la Piedra: About Us
+Juan Montes: Css Styles and images
+Carlos Guimaraes: Css Styles, images and fix errors
+
+<img src="images/commits history.png" alt="Commits landing" width="30%">
 
 # Conclusiones	
 
