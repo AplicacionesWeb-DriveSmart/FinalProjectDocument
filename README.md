@@ -1401,6 +1401,22 @@ Software Testing:
 Para llevar a cabo estas pruebas, hemos empleado el lenguaje Gherkin, que se basa en el formato de escenario Given-When-Then y nos permite analizar las variables de entrada y salida. Este lenguaje se destaca por su simplicidad y claridad al utilizar una estructura que se asemeja al lenguaje natural, lo que facilita su comprensión para todos los involucrados en el proceso.
 
 ### 5.1.2. Source Code Management	
+
+Usuarios de GitHub:
+
+|          Integrante          |      Usuario de Github      |
+|:-----------------------------:|:-------------------:|
+|   De la Piedra Quintanilla, Erwin Miquel   |    Miquel    |
+|  Altamirano Saenz, Jorge Armando  |    jorgealtamirano1    |
+|   Guimaraes Escalante, Carlos Eduardo  |    CarlosG345    |
+|  Montes Figueroa, Juan Eduardo   |    Zyx81   |
+|   Gutierrez Zumaeta, Manuel Alonso   |    ManuelGutierrez2003   |
+
+*URL de repositorio Landing Page*: [https://github.com/AplicacionesWeb-DriveSmart/Landing-Page](https://github.com/AplicacionesWeb-DriveSmart/Landing-Page)
+
+Para llevar a cabo el desarrollo del proyecto, seguiremos el modelo de flujo de trabajo GitFlow. Este enfoque se basa en el control de versiones Git y se compone de varias ramas, cada una con un propósito específico: Main, Feature y Develop. La rama Main se utiliza para trabajar con las versiones finales del sprint y realizar despliegues de la aplicación web. Por lo tanto, todas las versiones almacenadas en esta rama deben ser funcionales y estables para el usuario. Las ramas Feature se emplean para desarrollar características específicas, como por ejemplo, un registro de usuario. Cada una de estas ramas se gestiona de forma independiente para mantener un orden basado en el Product Backlog, lo que significa que cualquier problema que surja al trabajar en una característica no afectará al programa en su totalidad. Por último, está la rama Develop, donde se fusionan todas las características ya trabajadas. Esta práctica asegura que todo funcione según lo previsto antes de realizar un despliegue oficial hacia la rama Main.
+
+
 ### 5.1.3. Source Code Style Guide & Conventions	
 ### 5.1.4. Software Deployment Configuration	
 ## 5.2. Landing Page, Services & Applications Implementation	
