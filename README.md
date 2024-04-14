@@ -1787,7 +1787,27 @@ Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma re
 #### 5.2.1.4 Testing Suit Evidence for Sprint Review
 #### 5.2.1.5 Execution Evidence for Sprint Review
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+En este primer sprint, no hemos trabajado con servicios web, ya que nos hemos concentrado exclusivamente en la creación del Landing Page estático. Es por ello que en esta ocasión, no se trabajó la documentación relacionada con el uso de servicios web.
+
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
+
+Después de completar los commits y lanzar la versión de este sprint, procedemos con el despliegue. En la primera iteración, implementamos el despliegue del Landing Page estático a través de GitHub Pages. Esto implicó acceder a la configuración del repositorio y dirigirnos a la sección de Páginas.
+
+<img src="images/g1.png" alt="Software Deployment" width="100%">
+
+En la sección "Branch", seleccionamos la rama principal, que es donde hemos realizado el lanzamiento del sprint, y luego guardamos los cambios.
+
+<img src="images/g2.png" alt="Software Deployment" width="100%">
+
+Ahora solo nos toca aguardar a que GitHub genere la página web y nos proporcione el enlace para acceder y visualizar el Landing Page estático.
+
+<img src="images/g3.png" alt="Software Deployment" width="100%">
+
+URL deployment Landing Page: [link](link)
+
+<img src="images/g4.png" alt="Software Deployment" width="100%">
+
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 
 # Conclusiones	
