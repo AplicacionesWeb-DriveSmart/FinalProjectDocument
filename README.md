@@ -785,10 +785,10 @@ Entrevistado: Luis Alberto Peralta Gutiérrez
 - Edad: 40
 - Distrito: La Molina
 
-Link del Video de la Entrevista:[link]()
+Link del Video de la Entrevista:[https://drive.google.com/file/d/1gcvt_pYIZ43hSIbL6XIwA3s9rcFSFj5P/view?usp=sharing]()
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 00:09
+- Minuto de Fin: 04:16
 
 <img src="images/entrevista.PNG" alt="Entrevista" width="100%">
 
@@ -1177,7 +1177,7 @@ Aplicacion Mobile
 <p>Welcome</p>
 <img src="images/WAWM1.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 Sing in - User Vehicle
-<img src="images/WAWM2.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+<img src="images/WAWM22.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 Chat-User Vehicle
 <img src="images/WAWM3.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 List- User Vehicle
@@ -1235,6 +1235,7 @@ Ingresar stock
 Supervisar stock
 <img src="images/WAW20.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
 
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1]()
 
 ### 4.4.2. Web Applications Wireframes Diagrams	
 
@@ -1254,25 +1255,45 @@ User goal 6: Como cliente de Automotriz quiero poder revisar detalladamente el c
 <img src="images/WAWD8.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD9.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 7: Como Administradores de Automotrices quiero tener un listado de mis facturas para llevar un registro detallado de nuestras transacciones financieras.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD10.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD11.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 8: Como Administradores de Automotrices quiero poder crear facturas para registrar y gestionar las transacciones de ventas de vehículos
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD12.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD13.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD14.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 9: Como Administradores de Automotrices quiero poder inspeccionar la lista de vehículos a reparar para ver los datos y el proceso que se encuentra cada uno.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD15.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD16.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 10: Como Administradores de Automotrices quiero poder agregar vehiculos para gestionar su reparación de manera eficiente.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD17.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD18.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD19.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 11: Como Administradores de Automotrices quiero contar con una zona de ayuda disponible para resolver problemas que puedan surgir .
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD20.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD21.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 12: Como Administradores de Automotrices quiero que se me notifique en caso el stock se encuentre reducidopara poder tomar medidas preventivas y asegurar un suministro adecuado.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD22.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD23.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 13: Como Administradores de Automotrices quiero poder supervisar el stock del inventario para mantener un control preciso de la disponibilidad.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD24.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD25.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD26.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 14: Como Administradores de Automotrices quiero poder agregar cuentas de clientes y visualizar una lista completa de ellos para gestionar eficientemente el sistema.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD27.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD28.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD29.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 15: Como Administradores de Automotrices quiero poder eliminar cuentas de clientes para mantener actualizada nuestra base de datos
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD30.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD31.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD32.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD33.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 16: Como Administradores de Automotrices quiero agregar nuevos productos al stock para  satisfacer las necesidades cambiantes de nuestros clientes.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD34.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD35.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD36.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD37.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1]()
 
 ### 4.4.3. Web Applications Mock-ups	
 
@@ -1383,11 +1404,11 @@ Administradores de Taller:
   <img src="images/f26_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
-Figma: [link]()
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1]()
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-Figma: [link]()
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1()
 
 Propietarios de Vehiculos:
 
