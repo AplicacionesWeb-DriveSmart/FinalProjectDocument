@@ -1172,7 +1172,72 @@ El método de navegación entre las diversas secciones de la landing page estar�
 
 ## 4.4. Web Applications UX/UI Design	
 ### 4.4.1. Web Applications Wireframes	
+
+Aplicacion Mobile
+<p>Welcome</p>
+<img src="images/WAWM1.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Sing in - User Vehicle
+<img src="images/WAWM2.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Chat-User Vehicle
+<img src="images/WAWM3.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+List- User Vehicle
+<img src="images/WAWM4.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+List- User Vehicle
+<img src="images/WAWM5.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Repair- User Vehicle
+<img src="images/WAWM6.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Repair- User Vehicle
+<img src="images/WAWM7.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Profile- User Vehicle
+<img src="images/WAWM8.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Edit Profile- User Vehicle
+<img src="images/WAWM9.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+
+Aplicación web
+<p>Wireframe-Login in taller</p>
+<img src="images/WAW1.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Sign in taller
+<img src="images/WAW2.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Menú
+<img src="images/WAW3.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Invoice List
+<img src="images/WAW4.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe de Previsualización de datos del taller
+<img src="images/WAW5.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Soporte
+<img src="images/WAW6.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-add client
+<img src="images/WAW7.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Delete client account
+<img src="images/WAW8.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Delete customer account confirmation
+<img src="images/WAW9.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Client list
+<img src="images/WAW10.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Chat con cliente
+<img src="images/WAW11.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Previsualización de factura
+<img src="images/WAW12.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Creación de la factura
+<img src="images/WAW13.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Lista Vehículos
+<img src="images/WAW14.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Filtro de cliente por su vehículo
+<img src="images/WAW15.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Wireframe-Agregar vehículo
+<img src="images/WAW16.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Low stock warning 
+<img src="images/WAW17.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Individual stock supervision
+<img src="images/WAW18.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Ingresar stock
+<img src="images/WAW19.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+Supervisar stock
+<img src="images/WAW20.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+
+
 ### 4.4.2. Web Applications Wireframes Diagrams	
+
 ### 4.4.3. Web Applications Mock-ups	
 ### 4.4.4. Web Applications User Flow Diagrams	
 ## 4.5. Web Applications Prototyping	
@@ -1422,6 +1487,57 @@ Para llevar a cabo el desarrollo del proyecto, seguiremos el modelo de flujo de 
 ## 5.2. Landing Page, Services & Applications Implementation	
 ### 5.2.1. Sprint 1	
 #### 5.2.1.1 Sprint Planning 1
+<p>Se planeó el primer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
+
+<table border="1">
+  <tr>
+    <th>Sprint #</th><th>Sprint 1</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td>Date</td><td>2024-04-08</td>
+  </tr>
+  <tr>
+    <td>Time</td><td>9:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td><td>Virtual</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td><td>Carlos Eduardo Guimaraes Escalante</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>
+      <p>De la Piedra Quintanilla, Erwin Miquel</p>
+      <p>Gutierrez Zumaeta, Manuel Alonso</p>
+      <p>Montes Figueroa, Juan Eduardo</p>
+      <p>Guimaraes Escalante, Carlos Eduardo</p>
+      <p>Altamirano Saenz, Jorge Armando</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n - 1 Review Summary</td><td>No hubo sprint anterior</td>
+  </tr>
+  <tr>
+    <td>Sprint n - 1 Retrospective Summary</td><td>No hubo sprint anterior</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Goal</td><td>Realzación del Landing Page</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Velocity	</td><td>20</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points	</td><td>20</td>
+  </tr>
+</table>
+
 #### 5.2.1.2 Sprint Backlog 1
 #### 5.2.1.3 Development Evidence for Sprint Review 
 #### 5.2.1.4 Testing Suit Evidence for Sprint Review
