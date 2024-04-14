@@ -1481,8 +1481,63 @@ Usuarios de GitHub:
 
 Para llevar a cabo el desarrollo del proyecto, seguiremos el modelo de flujo de trabajo GitFlow. Este enfoque se basa en el control de versiones Git y se compone de varias ramas, cada una con un propósito específico: Main, Feature y Develop. La rama Main se utiliza para trabajar con las versiones finales del sprint y realizar despliegues de la aplicación web. Por lo tanto, todas las versiones almacenadas en esta rama deben ser funcionales y estables para el usuario. Las ramas Feature se emplean para desarrollar características específicas, como por ejemplo, un registro de usuario. Cada una de estas ramas se gestiona de forma independiente para mantener un orden basado en el Product Backlog, lo que significa que cualquier problema que surja al trabajar en una característica no afectará al programa en su totalidad. Por último, está la rama Develop, donde se fusionan todas las características ya trabajadas. Esta práctica asegura que todo funcione según lo previsto antes de realizar un despliegue oficial hacia la rama Main.
 
-
 ### 5.1.3. Source Code Style Guide & Conventions	
+
+Durante el desarrollo proyecto, se emplearán diversos lenguajes para la creación del Landing Page, Web Services y Frontend Web Application. Para mantener la coherencia y uniformidad en el desarrollo, nos regiremos por las pautas y convenciones que se detallan a continuación.
+
+**HTML**
+
+Es el idioma que se usa para organizar el contenido de una página web, proporcionando una diversidad de elementos potenciales como texto, imágenes, formularios, y más.
+
+- Incluir la declaración del tipo de documento en la primera línea con `<!DOCTYPE html>`, manteniendo la estructura básica del HTML con `<html>`, `<head>`, `<body>`.
+
+- Indicar el título de la página para informar al usuario sobre el contenido de la página utilizando el elemento `<title>` dentro de `<head>`.
+
+- Adoptar una indentación coherente para mejorar la legibilidad del código, asegurándose de tabular correctamente cada nivel de anidamiento.
+
+- Asegurarse de cerrar siempre los elementos que lo requieran, como divisiones, párrafos, títulos, utilizando la etiqueta de cierre correspondiente (por ejemplo, `</div>` para cerrar una `<div>`).
+
+- Incluir el atributo `"alt"` para las imágenes, proporcionando una descripción alternativa que se muestra cuando la imagen no se puede cargar.
+
+**CSS**
+
+Es el idioma empleado para establecer el diseño de una página web, incluyendo los estilos, tipos de letra, colores, contenedores y otros aspectos visuales.
+
+- Utilizar la indentación de manera adecuada.
+- Utilizar nombres cortos y en minúsculas para los elementos.
+- Especificar los colores en código hexadecimal (por ejemplo, #024A86).
+- Incluir comentarios para describir el propósito y uso de los estilos.
+- Asegurarse de que el diseño sea responsive para que los usuarios puedan visualizarlo cómodamente en cualquier dispositivo.
+
+**JavaScript**
+
+Es el idioma de programación más popular en el ámbito del desarrollo web, ya que posibilita la creación de páginas interactivas con animaciones atractivas para los usuarios.
+
+- Utilizar nombres breves y apropiados para las variables y funciones.
+- Agregar comentarios para explicar la función de cada parte del código en la página web.
+- Asegurarse de poner un punto y coma al final de cada línea de código.
+- Definir constantes en lugar de variables cuando su valor no cambiará.
+- Emplear operadores de comparación estrictos en lugar de comparaciones regulares siempre que sea factible (por ejemplo, usar === en lugar de ==).
+
+**C#**
+
+Es un idioma de programación ampliamente empleado en diversas áreas, incluyendo la programación web, móvil, y otros campos.
+
+- Utilizar CamelCase para nombrar las variables, funciones y clases, asegurándose de que sean significativos y breves.
+- Emplear comillas dobles ("") para delimitar las cadenas de texto.
+- Aplicar una correcta indentación para mantener un código coherente y ordenado.
+- Incluir comentarios en cada bloque de código para explicar su funcionalidad.
+- Definir constantes para variables cuyos valores permanecerán constantes a lo largo del código.
+
+**Gherkin**
+
+Es el lenguaje utilizado para elaborar casos de prueba en función de los requerimientos establecidos por la empresa. Su aplicación se lleva a cabo durante el proceso de pruebas o testing.
+
+- Dividir el bloque de Given When Then en partes separadas para mejorar su legibilidad y subdivisiones apropiadas.
+- Cuando se presentan las variables de entrada y salida junto con sus ejemplos, se utilizan tablas para su representación. Sin embargo, no es necesario utilizar varias tablas para cada parte del código; es suficiente con una tabla general al final del escenario.
+- Si hay más de un escenario en un archivo, se debe realizar una separación adecuada entre ellos para distinguirlos claramente. Esto se puede lograr dejando dos líneas en blanco para indicar el final de un escenario y el inicio del siguiente.
+- Añadir líneas en blanco dentro de cada paso (Step) para mejorar la legibilidad y la organización de la información.
+
 ### 5.1.4. Software Deployment Configuration	
 ## 5.2. Landing Page, Services & Applications Implementation	
 ### 5.2.1. Sprint 1	
