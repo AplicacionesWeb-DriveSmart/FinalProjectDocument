@@ -731,7 +731,7 @@ Datos del Entrevistado:
 - Edad: 23 años
 - Distrito: San Juan de Lurigancho
 
-Link del Video de la Entrevista: 
+Link del Video de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EVdNITzpz91HrvUMcC_5VZgBgySvqfefvFObyXGpsfo5nA?e=ufGrCv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
 - Minuto de Inicio: 25:19
 - Minuto de Fin: 33:30
@@ -754,7 +754,7 @@ Datos del entrevistado:
 - Edad: 39 años
 - Distrito: Miraflores
 
-Link del Video de la Entrevista: 
+Link del Video de la Entrevista:  <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EVdNITzpz91HrvUMcC_5VZgBgySvqfefvFObyXGpsfo5nA?e=ufGrCv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
 - Minuto de Inicio: 4:20
 - Minuto de Fin: 12:30
@@ -779,7 +779,7 @@ Datos del Entrevistado:
 - Edad: 64 años
 - Distrito: Surco
 
-Link del Video de la Entrevista:
+Link del Video de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EVdNITzpz91HrvUMcC_5VZgBgySvqfefvFObyXGpsfo5nA?e=ufGrCv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
 - Minuto de Inicio: 33:31
 - Minuto de Fin: 42:51
@@ -803,7 +803,7 @@ Datos del Entrevistado:
 - Edad: 20 años
 - Distrito: Magdalena
 
-Link del Video de la Entrevista: 
+Link del Video de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EVdNITzpz91HrvUMcC_5VZgBgySvqfefvFObyXGpsfo5nA?e=ufGrCv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
 - Minuto de Inicio: 21:32
 - Minuto de Fin: 25:18
@@ -825,7 +825,7 @@ Entrevistado: Luis Alberto Peralta Gutiérrez
 - Edad: 40
 - Distrito: La Molina
 
-Link del Video de la Entrevista:
+Link del Video de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EVdNITzpz91HrvUMcC_5VZgBgySvqfefvFObyXGpsfo5nA?e=ufGrCv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
 - Minuto de Inicio: 00:00
 - Minuto de Fin: 04:19
@@ -847,7 +847,7 @@ Entrevistado: Gaby Manrique
 - Edad: 50
 - Distrito: La Molina
 
-Link del Video de la Entrevista: 
+Link del Video de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EVdNITzpz91HrvUMcC_5VZgBgySvqfefvFObyXGpsfo5nA?e=ufGrCv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
 - Minuto de Inicio: 12:31
 - Minuto de Fin: 21:31
