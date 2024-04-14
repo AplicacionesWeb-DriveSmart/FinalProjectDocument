@@ -1535,14 +1535,24 @@ Administradores de Taller:
 </div>
 
 <div align="center">
-  <img src="images/u15_mocks-up.png" alt="User Goal 14" width="100%">
+  <img src="images/u15_mocks-up.png" alt="User Goal 15" width="100%">
 </div>
 
 <div align="center">
-  <img src="images/u16_mocks-up.png" alt="User Goal 14" width="100%">
+  <img src="images/u16_mocks-up.png" alt="User Goal 16" width="100%">
 </div>
 
 ## 4.5. Web Applications Prototyping	
+
+Basándonos en los flujos de usuario definidos previamente, desarrollamos el prototipo funcional utilizando Figma. Se detalla el funcionamiento en el video adjunto.
+
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EXW0BiMQ8npGuHFVO-jiIjYBQ9cPGB2OU_zRalNgR8Lwxw?e=QHnpMD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+<div align="center">
+  <img src="images/prototype.png" alt="prototype" width="100%">
+</div>
+
+
 ## 4.6. Domain-Driven Software Architecture	
 ### 4.6.1. Software Architecture Context Diagram
 
