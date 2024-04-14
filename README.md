@@ -1334,9 +1334,9 @@ User goal 10: Como Administradores de Automotrices quiero poder agregar vehiculo
 <img src="images/WAWD18.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD19.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 11: Como Administradores de Automotrices quiero contar con una zona de ayuda disponible para resolver problemas que puedan surgir .
-<img src="images/WAWD20" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD20.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 12: Como Administradores de Automotrices quiero que se me notifique en caso el stock se encuentre reducidopara poder tomar medidas preventivas y asegurar un suministro adecuado.
-<img src="images/WAWD21" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD21.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 13: Como Administradores de Automotrices quiero poder supervisar el stock del inventario para mantener un control preciso de la disponibilidad.
 <img src="images/WAWD24.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD25.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
