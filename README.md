@@ -1245,106 +1245,106 @@ Se empleó la estructura definida en los wireframes como base para cada una de l
 Propietarios de Vehiculos:
 
 <div align="center">
-  <img src="img/f1_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f1_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 
 <div align="center">
-  <img src="img/f2_mocsk-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f2_mocsk-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f3_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f3_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 Administradores de Taller:
 
 <div align="center">
-  <img src="img/f5_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f5_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f6_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f6_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f7_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f7_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f8_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f8_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f9_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f9_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f10_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f10_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f11_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f11_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f12_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f12_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f13_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f13_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f14_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f14_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f15_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f15_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f16_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f16_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f17_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f17_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f18_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f18_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f19_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f19_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f20_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f20_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f21_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f21_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f22_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f22_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f23_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f23_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f24_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f24_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f25_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f25_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/f26_mocks-up.png" alt="Mocks-up" width="100%">
+  <img src="images/f26_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
 Figma: [link]()
@@ -1356,69 +1356,69 @@ Figma: [link]()
 Propietarios de Vehiculos:
 
 <div align="center">
-  <img src="img/u1_mocks-up.png" alt="User Goal 1" width="100%">
+  <img src="images/u1_mocks-up.png" alt="User Goal 1" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u2_mocks-up.png" alt="User Goal 2" width="100%">
+  <img src="images/u2_mocks-up.png" alt="User Goal 2" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u3_mocks-up.png" alt="User Goal 3" width="100%">
+  <img src="images/u3_mocks-up.png" alt="User Goal 3" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u4_mocks-up.png" alt="User Goal 4" width="100%">
+  <img src="images/u4_mocks-up.png" alt="User Goal 4" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u5_mocks-up.png" alt="User Goal 5" width="100%">
+  <img src="images/u5_mocks-up.png" alt="User Goal 5" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u6_mocks-up.png" alt="User Goal 6" width="100%">
+  <img src="images/u6_mocks-up.png" alt="User Goal 6" width="100%">
 </div>
 
 Administradores de Taller:
 
 <div align="center">
-  <img src="img/u7_mocks-up.png" alt="User Goal 7" width="100%">
+  <img src="images/u7_mocks-up.png" alt="User Goal 7" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u8_mocks-up.png" alt="User Goal 8" width="100%">
+  <img src="images/u8_mocks-up.png" alt="User Goal 8" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u9_mocks-up.png" alt="User Goal 9" width="100%">
+  <img src="images/u9_mocks-up.png" alt="User Goal 9" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u10_mocks-up.png" alt="User Goal 10" width="100%">
+  <img src="images/u10_mocks-up.png" alt="User Goal 10" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u11_mocks-up.png" alt="User Goal 11" width="100%">
+  <img src="images/u11_mocks-up.png" alt="User Goal 11" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u12_mocks-up.png" alt="User Goal 12" width="100%">
+  <img src="images/u12_mocks-up.png" alt="User Goal 12" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u13_mocks-up.png" alt="User Goal 13" width="100%">
+  <img src="images/u13_mocks-up.png" alt="User Goal 13" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u14_mocks-up.png" alt="User Goal 14" width="100%">
+  <img src="images/u14_mocks-up.png" alt="User Goal 14" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u15_mocks-up.png" alt="User Goal 14" width="100%">
+  <img src="images/u15_mocks-up.png" alt="User Goal 14" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/u16_mocks-up.png" alt="User Goal 14" width="100%">
+  <img src="images/u16_mocks-up.png" alt="User Goal 14" width="100%">
 </div>
 
 ## 4.5. Web Applications Prototyping	
