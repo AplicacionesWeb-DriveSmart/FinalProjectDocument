@@ -1775,14 +1775,43 @@ Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma re
     <td>Sprint 1 Goal</td><td>Realzación del Landing Page</td>
   </tr>
   <tr>
-    <td>Sprint 1 Velocity	</td><td>20</td>
+    <td>Sprint 1 Velocity	</td><td>14</td>
   </tr>
   <tr>
-    <td>Sum of Story Points	</td><td>20</td>
+    <td>Sum of Story Points	</td><td>14</td>
   </tr>
 </table>
 
 #### 5.2.1.2 Sprint Backlog 1
+
+<table border="1">
+  <tr>
+    <td>Sprint #</td><td colspan="7" align="center">Sprint 1</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">User Story</td><td colspan="6" align="center">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>ID</td><td>Title</td><td>ID</td><td>Title</td><td>Description</td><td>Estimation (Hours)</td><td>Assigned To</td><td>Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td>US25</td><td>NavBar</td><td>TS01</td><td>Implementación de un navbar</td><td>Se crea un navbar para la página que se adapte a distintas dimensiones.</td><td>1</td><td>Manuel Gutierrez</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US26</td><td>Página de Inicio</td><td>TS02</td><td>Implementación de una página de inicio</td><td>Se implementa una página de inicio donde se muestre información de la empresa.</td><td>2</td><td>Jorge Altamirano</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US27</td><td>Sección "Features"</td><td>TS03</td><td>Implementación de una sección "Features"</td><td>Se implementa una sección "Features", donde se muestre las funcionalidades que ofrece nuestra aplicación.</td><td>2</td><td>Miquel de la Piedra</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US28</td><td>Sección "FAQs"</td><td>TS04</td><td>Implementación de una sección "FAQs"</td><td>Se implementa una sección "FAQs", que muestre respuestas a las preguntas más frecuentes.</td><td>2</td><td>Carlos Guimaraes</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US29</td><td>Sección "Acerca de"</td><td>TS05</td><td>Implementación de una sección "Acerca de"</td><td>Se implementa una sección "Acerca de", que muestre información sobre las Startup y sus integrnates.</td><td>1</td><td>Juan Montes</td><td>Done</td>
+  </tr>
+</table>
+
+
 #### 5.2.1.3 Development Evidence for Sprint Review 
 #### 5.2.1.4 Testing Suit Evidence for Sprint Review
 #### 5.2.1.5 Execution Evidence for Sprint Review
