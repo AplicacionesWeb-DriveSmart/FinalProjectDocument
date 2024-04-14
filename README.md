@@ -146,24 +146,27 @@
 [5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
 [5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)  
 
-[5.3. Validation Interviews](#53-validation-interviews)  
-[5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
-[5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)  
-[5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)  
-
-[5.4. Video About-the-Product](#54-video-about-the-product)  
-
 [Conclusiones](#conclusiones)  
-
-[Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)  
-
-[Video About-the-Team](#video-about-the-team)  
 
 [Bibliografía](#bibliografía)  
 
 [Anexos](#anexos)  
 
 - - -
+
+# Student Outcome
+
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 3
+
+| Criterio específico                                                                                                                                                                    	| Acciones realizadas 	| Conclusiones 	|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------	|--------------	|
+| Comunica oralmente sus ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería.    	|                     	|              	|
+| Comunica en forma escrita ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería. 	|                     	|              	|
+
+
 
 # Capítulo I: Introducción
 ## 1.1 Startup Profile.
@@ -786,10 +789,10 @@ Entrevistado: Luis Alberto Peralta Gutiérrez
 - Edad: 40
 - Distrito: La Molina
 
-Link del Video de la Entrevista: [link]()
+Link del Video de la Entrevista:[https://drive.google.com/file/d/1gcvt_pYIZ43hSIbL6XIwA3s9rcFSFj5P/view?usp=sharing](https://drive.google.com/file/d/1gcvt_pYIZ43hSIbL6XIwA3s9rcFSFj5P/view?usp=sharing)
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 00:09
+- Minuto de Fin: 04:16
 
 <img src="images/entrevista.PNG" alt="Entrevista" width="100%">
 
@@ -1178,7 +1181,7 @@ Aplicacion Mobile
 <p>Welcome</p>
 <img src="images/WAWM1.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 Sing in - User Vehicle
-<img src="images/WAWM2.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
+<img src="images/WAWM22.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 Chat-User Vehicle
 <img src="images/WAWM3.png" alt="Web_Applications_Wireframes" width="30%"></p></td>
 List- User Vehicle
@@ -1236,6 +1239,7 @@ Ingresar stock
 Supervisar stock
 <img src="images/WAW20.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
 
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1]()
 
 ### 4.4.2. Web Applications Wireframes Diagrams	
 
@@ -1255,25 +1259,44 @@ User goal 6: Como cliente de Automotriz quiero poder revisar detalladamente el c
 <img src="images/WAWD8.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD9.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 7: Como Administradores de Automotrices quiero tener un listado de mis facturas para llevar un registro detallado de nuestras transacciones financieras.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD10.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD11.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 8: Como Administradores de Automotrices quiero poder crear facturas para registrar y gestionar las transacciones de ventas de vehículos
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD12.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD13.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD14.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 9: Como Administradores de Automotrices quiero poder inspeccionar la lista de vehículos a reparar para ver los datos y el proceso que se encuentra cada uno.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD15.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD16.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 10: Como Administradores de Automotrices quiero poder agregar vehiculos para gestionar su reparación de manera eficiente.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD17.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD18.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD19.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 11: Como Administradores de Automotrices quiero contar con una zona de ayuda disponible para resolver problemas que puedan surgir .
 <img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 12: Como Administradores de Automotrices quiero que se me notifique en caso el stock se encuentre reducidopara poder tomar medidas preventivas y asegurar un suministro adecuado.
 <img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 13: Como Administradores de Automotrices quiero poder supervisar el stock del inventario para mantener un control preciso de la disponibilidad.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD24.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD25.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD26.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 14: Como Administradores de Automotrices quiero poder agregar cuentas de clientes y visualizar una lista completa de ellos para gestionar eficientemente el sistema.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD27.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD28.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD29.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 15: Como Administradores de Automotrices quiero poder eliminar cuentas de clientes para mantener actualizada nuestra base de datos
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD30.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD31.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD32.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD33.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 16: Como Administradores de Automotrices quiero agregar nuevos productos al stock para  satisfacer las necesidades cambiantes de nuestros clientes.
-<img src="images/" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+
+<img src="images/WAWD34.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD35.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD36.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+<img src="images/WAWD37.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
+
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1]()
 
 ### 4.4.3. Web Applications Mock-ups	
 
@@ -1384,11 +1407,11 @@ Administradores de Taller:
   <img src="images/f26_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
-Figma: [link]()
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1]()
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-Figma: [link]()
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1()
 
 Propietarios de Vehiculos:
 
@@ -1859,8 +1882,46 @@ Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma re
 
 
 #### 5.2.1.3 Development Evidence for Sprint Review 
+
+Se realizaron los avances con los commits correspondientes en el repositorio de la siguiente forma.
+
+| Repository                                | Branch           | Commit Id | Commit Message                                       | Commit Message Body                                        | Commited on (Date) |
+|-------------------------------------------|------------------|-----------|------------------------------------------------------|-----------------------------------------------------------|---------------------|
+| AplicacionesWeb-DriveSmart/Landing-Page  | feature/index    | bf503c3   | feat: head and body were added                  | head and body from main were added                               | 13/04/2024         |
+| AplicacionesWeb-DriveSmart/Landing-Page  | feature/index | 1231832  | feat: frequent questions were added                       | frequent questions were added                                    | 13/04/2024                        | about us section added                                    | 13/04/2024         |
+| AplicacionesWeb-DriveSmart/Landing-Page  | feature/index| f08dd82   | feat: About us were added                      | About us were added added                                   | 13/04/2024         |
+
 #### 5.2.1.4 Testing Suit Evidence for Sprint Review
+
+Se realizaron los acceptance tests para las historias de usuario trabajadas y se registraron en el repositorio de la siguiente forma.
+
+URL de repositorio: [https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests](https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests)
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|e6f7c7d|<p>feat: Added Acceptance_Test US25</p><p></p>|Added Acceptance_Test US25|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8eac1a9|feat: Added Acceptance_Test US26|Added Acceptance_Test US26|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|0a2fbba|feat: Added Acceptance_Test US27|Added Acceptance_Test US27|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8526710|feat: Added Acceptance_Test US28|Added Acceptance_Test US28|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|fec1484|feat: Added Acceptance_Test US29|Added Acceptance_Test US29|14/04/2024|
+
 #### 5.2.1.5 Execution Evidence for Sprint Review
+
+En esta sección se mostrará el progreso alcanzado durante el primer sprint, centrado en la creación del Landing Page estático
+
+La barra de navegación y la página de inicio se desarrollaron inicialmente debido a su importancia crucial para la navegación del sitio. Además, son responsivos y pueden ajustarse a diferentes tamaños de pantalla.
+
+<img src="images/nav_index.png" alt="Logo del servicio" width="100%">
+
+Sección Acerca de:
+
+<img src="images/about_us.png" alt="Logo del servicio" width="100%">
+
+Sección FAQs:
+
+<img src="images/Faqs.png" alt="Logo del servicio" width="100%">
+
+
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
 En este primer sprint, no hemos trabajado con servicios web, ya que nos hemos concentrado exclusivamente en la creación del Landing Page estático. Es por ello que en esta ocasión, no se trabajó la documentación relacionada con el uso de servicios web.
@@ -1886,20 +1947,27 @@ URL deployment Landing Page: [https://aplicacionesweb-drivesmart.github.io/Landi
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 
 # Conclusiones	
-# Conclusiones y recomendaciones	
-# Video About the Team	
+
+Validación del Modelo de Negocio: A lo largo del proyecto, se ha validado la viabilidad del modelo de negocio basado en el desarrollo y la comercialización de una plataforma tecnológica para la gestión de clientes en el sector automotriz peruano.
+Importancia de la Colaboración Interdisciplinaria: Se ha evidenciado la importancia de la colaboración entre equipos técnicos y comerciales para desarrollar una solución integral que satisfaga tanto las necesidades tecnológicas como comerciales del mercado automotriz.
+Enfoque en la Innovación Continua: La innovación continua y la adaptación a las cambiantes necesidades del mercado son esenciales para mantener la relevancia y la competitividad de la plataforma a largo plazo.
+Énfasis en la Seguridad y Privacidad de los Datos: Se ha resaltado la necesidad de implementar medidas robustas de seguridad y protección de datos para garantizar la confidencialidad y la integridad de la información de los clientes y las automotrices.
+Potencial de Escalabilidad y Expansión: Con una base sólida establecida, existe un gran potencial para la escalabilidad y la expansión del proyecto hacia nuevos mercados y sectores relacionados con la industria automotriz en el futuro.
+
 # Bibliografía	
+
+Mollahosseini, A. (2021). Make your Gherkin Specifications More Readable. BDD Framework for NET. https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+
+Google HTML/CSS Style Guide. (s.f.). https://google.github.io/styleguide/htmlcssguide.html
+
+HTML style guide and coding conventions. (s.f.). https://google.github.io/styleguide/htmlcssguide.html
+
+BillWagner. (2023). .NET documentation C# Coding Conventions - C#. Microsoft Learn.https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+
+JavaScript Style Guide. (s.f.).https://www.w3schools.com/js/js_conventions.asp
+
 # Anexos
-anexos
-# Student Outcome
 
-Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 3
+Videos de exposiciones
 
-| Criterio específico                                                                                                                                                                    	| Acciones realizadas 	| Conclusiones 	|
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------	|--------------	|
-| Comunica oralmente sus ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería.    	|                     	|              	|
-| Comunica en forma escrita ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería. 	|                     	|              	|
-
+Exposición TB1:
