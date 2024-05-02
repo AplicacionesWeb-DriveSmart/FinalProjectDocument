@@ -962,6 +962,7 @@ Segmento Objetivo: Administrador del Taller de Taller
 ### 2.3.5. As-is Scenario Mapping.
 
 <img src="images/as-is.jpg" alt="As-Is mapping" width="100%"></p></td>
+<img src="images/asis2.jpg" alt="As-Is mapping" width="100%"></p></td>
 
 ## 2.4. Ubiquitous Language.
 Entidad: Propietario de vehículo
