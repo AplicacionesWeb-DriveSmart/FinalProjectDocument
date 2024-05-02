@@ -2275,6 +2275,11 @@ Video demostracion de frontend: https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 Después de completar los commits y lanzar la versión de este sprint, procedemos con el despliegue. En esta segunda iteración, implementamos el despliegue del frontend.
 
+<img src="images/deploy.png" alt="frontend" width="80%">
+
+Link de despligue del frontend: https://aplicacionesweb-drivesmart.github.io/frontend-carhelp/
+
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 Durante la implementación del frontend, todos los miembros del equipo realizaron commits relacionados con el feature q se le fue designado.
