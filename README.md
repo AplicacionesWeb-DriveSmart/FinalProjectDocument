@@ -67,6 +67,31 @@
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TP</strong></td>
+      <td>Miércoles 1 de Abril</td>
+      <td>
+        <ul>
+          <li>De la Piedra Quintanilla, Erwin Miquel</li>
+          <li>Altamirano Saenz, Jorge Armando</li>
+          <li>Guimaraes Escalante, Carlos Eduardo</li>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Montes Figueroa, Juan Eduardo	</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Frontend:</li>
+          <li>feature 1</li>
+          <li>feature 2</li>
+          <li>feature 3</li>
+          <li>feature 4</li>
+          <li>feature 5</li>
+          <li>Avance del Capítulo V: Sprint 2</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -2089,6 +2114,7 @@ Carlos Guimaraes: Css Styles, images and fix errors
 </table>
 
 #### 5.2.2.2.Sprint Backlog 2.
+
 <p>El principal objetivo de este segundo sprint es lograr completar todos los requisitos que se piden para el Frontend. Además, se lleva en simultáneo el Sprint 2 con un archivo en Trello:</p>
 <p><a href=""></a></p>
 
@@ -2239,7 +2265,16 @@ Plans
 <img src="images/plans.png" alt="frontend" width="80%">
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Para la realizacion del frontend, hemos utilizado una fake api para acceder a los datos requeridos. Esto se puede verificar dentro del siguiente video:
+
+Video demostracion de frontend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Ed0COTCb91pJpQOwB1EOx6UBBvMLnLNwD3SaxJOKA65wKg?e=iqmGMO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Después de completar los commits y lanzar la versión de este sprint, procedemos con el despliegue. En esta segunda iteración, implementamos el despliegue del frontend.
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 Durante la implementación del frontend, todos los miembros del equipo realizaron commits relacionados con el feature q se le fue designado.
