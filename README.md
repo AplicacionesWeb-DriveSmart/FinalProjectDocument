@@ -2164,6 +2164,18 @@ Se realizaron los avances con los commits correspondientes en el repositorio de 
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
+Se realizaron los acceptance tests para las historias de usuario trabajadas y se registraron en el repositorio de la siguiente forma.
+
+URL de repositorio: [https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests](https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests)
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|e6f7c7d|<p>feat: Added Acceptance_Test US25</p><p></p>|Added Acceptance_Test US25|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8eac1a9|feat: Added Acceptance_Test US26|Added Acceptance_Test US26|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|0a2fbba|feat: Added Acceptance_Test US27|Added Acceptance_Test US27|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8526710|feat: Added Acceptance_Test US28|Added Acceptance_Test US28|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|fec1484|feat: Added Acceptance_Test US29|Added Acceptance_Test US29|14/04/2024|
+
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
 En esta sección se mostrará el progreso alcanzado durante el segundo sprint, centrado en la creación del frontend 
