@@ -2470,6 +2470,22 @@ Bounded context 3 - Vehicle/Maintenance - Jorge Altamirano
 
 <img src="images/history backend.png" alt="Commits backend" width="30%">
 
+
+
+## 5.3. Validation Interviews	
+
+### 5.3.1 Diseño de Entrevistas
+<img src="images/disenio_entrevista" alt="Disenio de Entrevista" width="100%">
+
+### 5.3.1 Registro de Entrevistas
+
+### 5.3.1 Evaluacion segun Heuristicas
+
+
+## 5.4 Video About-the-Product
+
+
+
 # Conclusiones	
 
 Validación del Modelo de Negocio: A lo largo del proyecto, se ha validado la viabilidad del modelo de negocio basado en el desarrollo y la comercialización de una plataforma tecnológica para la gestión de clientes en el sector automotriz peruano.
