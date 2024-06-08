@@ -92,9 +92,9 @@
         </ul>
       </td>
   </tr>
-  <tr>
-      <td><strong>TB3</strong></td>
-      <td>Martes 4 de Junio</td>
+    <tr>
+      <td><strong>TB2</strong></td>
+      <td>Sabado 8 de Junio</td>
       <td>
         <ul>
           <li>De la Piedra Quintanilla, Erwin Miquel</li>
@@ -108,10 +108,12 @@
         Se han incluído los siguientes capítulos:
         <ul>
           <li>Backend:</li>
-          <li>Bounded context 1 - Users</li>
-          <li>Bounded context 3 - Workshop-maintenance</li>
+          <li>feature 1</li>
+          <li>feature 2</li>
+          <li>feature 3</li>
+          <li>feature 4</li>
+          <li>feature 5</li>
           <li>Avance del Capítulo V: Sprint 3</li>
-          <li>Avance del Capítulo V: Validation interviews</li>
         </ul>
       </td>
   </tr>
