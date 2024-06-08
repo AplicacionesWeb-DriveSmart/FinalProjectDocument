@@ -92,6 +92,29 @@
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TB3</strong></td>
+      <td>Martes 4 de Junio</td>
+      <td>
+        <ul>
+          <li>De la Piedra Quintanilla, Erwin Miquel</li>
+          <li>Altamirano Saenz, Jorge Armando</li>
+          <li>Guimaraes Escalante, Carlos Eduardo</li>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Montes Figueroa, Juan Eduardo	</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Backend:</li>
+          <li>Bounded context 1 - Users</li>
+          <li>Bounded context 3 - Workshop-maintenance</li>
+          <li>Avance del Capítulo V: Sprint 3</li>
+          <li>Avance del Capítulo V: Validation interviews</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -2357,40 +2380,121 @@ Feature 5 - Jorge Altamirano
 #### 5.2.3.2 Sprint Backlog 3
 
 <p>El principal objetivo de este tercer sprint es lograr completar todos los requisitos que se piden para el Backend. Además, se lleva en simultáneo el Sprint 3 con un archivo en Trello:</p>
-<p><a href="" target="_blank"></a></p>
+<p>
 
-<table border="1">
-  <tr>
-    <td>Sprint #</td><td colspan="7" align="center">Sprint 1</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">User Story</td><td colspan="6" align="center">Work-Item / Task</td>
-  </tr>
-  <tr>
-    <td>ID</td><td>Title</td><td>ID</td><td>Title</td><td>Description</td><td>Estimation (Hours)</td><td>Assigned To</td><td>Status (To-Do / In-Process / Review / Done)</td>
-  </tr>
-  <tr>
-    <td>US25</td><td>NavBar</td><td>TS01</td><td>Implementación de un navbar</td><td>Se crea un navbar para la página que se adapte a distintas dimensiones.</td><td>1</td><td>Manuel Gutierrez</td><td>Done</td>
-  </tr>
-  <tr>
-    <td>US26</td><td>Página de Inicio</td><td>TS02</td><td>Implementación de una página de inicio</td><td>Se implementa una página de inicio donde se muestre información de la empresa.</td><td>2</td><td>Jorge Altamirano</td><td>Done</td>
-  </tr>
-  <tr>
-    <td>US27</td><td>Sección "Features"</td><td>TS03</td><td>Implementación de una sección "Features"</td><td>Se implementa una sección "Features", donde se muestre las funcionalidades que ofrece nuestra aplicación.</td><td>2</td><td>Miquel de la Piedra</td><td>Done</td>
-  </tr>
-  <tr>
-    <td>US28</td><td>Sección "FAQs"</td><td>TS04</td><td>Implementación de una sección "FAQs"</td><td>Se implementa una sección "FAQs", que muestre respuestas a las preguntas más frecuentes.</td><td>2</td><td>Carlos Guimaraes</td><td>Done</td>
-  </tr>
-  <tr>
-    <td>US29</td><td>Sección "Acerca de"</td><td>TS05</td><td>Implementación de una sección "Acerca de"</td><td>Se implementa una sección "Acerca de", que muestre información sobre las Startup y sus integrnates.</td><td>1</td><td>Juan Montes</td><td>Done</td>
-  </tr>
-   <tr>
-    <td>US01</td><td>Registro en la aplicación</td><td>TS06</td><td>Implementación de un "Registro"</td><td>Se implementa un registro, donde el usuario ponga sus datos y quede registrado dentro de la aplicación.</td><td>2</td><td>Carlos Guimaraes</td><td>To - Do</td>
-  </tr>
-   <tr>
-    <td>US32</td><td>Elegir plan de suscripción</td><td>TS07</td><td>Implementar un plan de sucripción anual</td><td>Se implementa un plan de suscripción anual dentro de la aplicación para que todas sus funciones esten disponibles.</td><td>1</td><td>Miquel de la Piedra</td><td>To - Do</td>
-  </tr>
-</table>
+Sprint Backlog 3
+
+Duración del Sprint: 2 semanas (del 15 de junio al 29 de junio)
+
+Objetivos del Sprint:
+
+Implementar la funcionalidad de notificaciones automáticas.
+
+Mejorar la interfaz de usuario (UI) para la sección de gestión de inventarios.
+
+Integrar la función de análisis de datos para generar reportes.
+
+Historias de Usuario:
+
+US13: Notificaciones Automáticas de Mantenimiento
+
+Como usuario, quiero recibir notificaciones automáticas sobre el estado de mis vehículos, incluyendo recordatorios de mantenimiento y alertas de posibles problemas mecánicos.
+
+US20: Registrar Nuevo Cliente
+
+Como gerente del taller, quiero poder crear una cuenta, modificar y eliminar los datos de los clientes, para poder actualizar la información de nuestros clientes y agregar nuevos.
+
+US25: Landing Page Informativa
+
+Como usuario, quiero acceder a una Landing Page que brinde información detallada sobre la aplicación y sus características.
+
+US31: Análisis de Datos y Reportes
+
+Como gerente del taller, quiero que la aplicación pueda generar reportes de análisis de datos para poder tomar decisiones informadas sobre la gestión de mi taller.
+Tareas:
+
+Implementar Notificaciones Automáticas (US13)
+
+Diseñar el flujo de notificaciones.
+
+Desarrollar el backend para manejar el envío de notificaciones.
+
+Integrar el sistema de notificaciones con la base de datos de usuarios.
+
+
+Pruebas de funcionalidad y usabilidad de las notificaciones.
+
+Mejorar UI de Gestión de Inventarios (Parte de US05)
+
+Rediseñar la interfaz de la sección de inventarios.
+
+Implementar filtros y opciones de búsqueda en la UI de inventarios.
+
+Realizar pruebas de usabilidad con usuarios.
+
+Desarrollar Landing Page Informativa (US25)
+
+Crear el diseño de la Landing Page.
+
+Implementar el diseño con HTML, CSS y JavaScript.
+
+Incluir secciones como "Características", "FAQs" y "Acerca de".
+
+Pruebas de visualización en diferentes dispositivos y navegadores.
+
+Integrar Análisis de Datos y Reportes (US31)
+
+Diseñar los reportes que se generarán (ventas, inventario, clientes, etc.).
+
+Desarrollar el backend para recopilar y procesar los datos necesarios.
+
+Implementar la generación de reportes en formato PDF y Excel.
+
+Pruebas de generación y exportación de reportes.
+
+Definición de Hecho (DoD):
+
+Cada tarea debe pasar por revisión de código.
+
+Las funcionalidades deben ser testeadas y validadas.
+
+La UI debe ser aprobada por el equipo de diseño.
+
+La documentación de las nuevas funcionalidades debe ser actualizada.
+
+Asignaciones:
+
+Implementar Notificaciones Automáticas (US13)
+
+Desarrollador Backend: Implementar lógica de notificaciones.
+
+Desarrollador Frontend: Integrar notificaciones en la UI.
+
+QA: Pruebas de usabilidad y funcionalidad.
+
+Mejorar UI de Gestión de Inventarios (Parte de US05)
+
+Diseñador UI/UX: Rediseñar la interfaz de inventarios.
+
+Desarrollador Frontend: Implementar el nuevo diseño.
+
+QA: Pruebas de usabilidad.
+
+Desarrollar Landing Page Informativa (US25)
+
+Desarrollador Frontend: Crear y ajustar el diseño.
+
+Content Writer: Redactar contenido informativo.
+
+QA: Pruebas de visualización y funcionalidad.
+
+Integrar Análisis de Datos y Reportes (US31)
+
+Desarrollador Backend: Procesamiento y generación de reportes.
+
+Desarrollador Frontend: Integración de interfaz de reportes.
+
+QA: Validación y pruebas de exportación de reportes.
 
 
 #### 5.2.3.3 Development Evidence for Sprint Review 
@@ -2452,7 +2556,7 @@ Después de completar los commits y lanzar la versión de este sprint, procedemo
 <img src="images/backend.png" alt="Backend" width="100%">
 
 
-Link del despliegue: []()
+Link del despliegue: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaXRaY95deVNq2YCIpOCo4wBmD1hGGvTTJ5W0jstY5Pv1w?e=8qbX13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaXRaY95deVNq2YCIpOCo4wBmD1hGGvTTJ5W0jstY5Pv1w?e=8qbX13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D()
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint
 
@@ -2505,7 +2609,7 @@ Bounded context 3 - Vehicle/Maintenance - Jorge Altamirano
 
 ### 5.3.2 Registro de Entrevistas
 
-URL de entrvista: [s](s)
+URL de entrvista: [https://drive.google.com/file/d/1fGFd4xt0Mcjuuz8_yIdY7BFWEZFX00ui/view?usp=sharing](https://drive.google.com/file/d/1fGFd4xt0Mcjuuz8_yIdY7BFWEZFX00ui/view?usp=sharing)
 
 ### 5.3.3 Evaluacion segun Heuristicas
 
