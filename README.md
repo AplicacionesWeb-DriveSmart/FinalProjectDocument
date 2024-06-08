@@ -2301,6 +2301,422 @@ Feature 5 - Jorge Altamirano
 
 <img src="images/history frontend.png" alt="frontend" width="30%">
 
+asd
+	
+### 5.2.3. Sprint 3	
+#### 5.2.3.1 Sprint Planning 3
+<p>Se planeó el tercer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
+
+<table border="1">
+  <tr>
+    <th>Sprint #</th><th>Sprint 3</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td>Date</td><td>2024-06-01</td>
+  </tr>
+  <tr>
+    <td>Time</td><td>9:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td><td>Virtual</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td><td>Carlos Eduardo Guimaraes Escalante</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>
+      <p>De la Piedra Quintanilla, Erwin Miquel</p>
+      <p>Gutierrez Zumaeta, Manuel Alonso</p>
+      <p>Montes Figueroa, Juan Eduardo</p>
+      <p>Guimaraes Escalante, Carlos Eduardo</p>
+      <p>Altamirano Saenz, Jorge Armando</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n - 1 Review Summary</td><td>Sprint 2</td>
+  </tr>
+  <tr>
+    <td>Sprint n - 1 Retrospective Summary</td><td>Sprint 2</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Goal</td><td>Realzación del Backend</td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Velocity	</td><td>19</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points	</td><td>19</td>
+  </tr>
+</table>
+
+#### 5.2.3.2 Sprint Backlog 3
+
+<p>El principal objetivo de este tercer sprint es lograr completar todos los requisitos que se piden para el Backend. Además, se lleva en simultáneo el Sprint 3 con un archivo en Trello:</p>
+<p><a href="" target="_blank"></a></p>
+
+<table border="1">
+  <tr>
+    <td>Sprint #</td><td colspan="7" align="center">Sprint 1</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">User Story</td><td colspan="6" align="center">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>ID</td><td>Title</td><td>ID</td><td>Title</td><td>Description</td><td>Estimation (Hours)</td><td>Assigned To</td><td>Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td>US25</td><td>NavBar</td><td>TS01</td><td>Implementación de un navbar</td><td>Se crea un navbar para la página que se adapte a distintas dimensiones.</td><td>1</td><td>Manuel Gutierrez</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US26</td><td>Página de Inicio</td><td>TS02</td><td>Implementación de una página de inicio</td><td>Se implementa una página de inicio donde se muestre información de la empresa.</td><td>2</td><td>Jorge Altamirano</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US27</td><td>Sección "Features"</td><td>TS03</td><td>Implementación de una sección "Features"</td><td>Se implementa una sección "Features", donde se muestre las funcionalidades que ofrece nuestra aplicación.</td><td>2</td><td>Miquel de la Piedra</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US28</td><td>Sección "FAQs"</td><td>TS04</td><td>Implementación de una sección "FAQs"</td><td>Se implementa una sección "FAQs", que muestre respuestas a las preguntas más frecuentes.</td><td>2</td><td>Carlos Guimaraes</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US29</td><td>Sección "Acerca de"</td><td>TS05</td><td>Implementación de una sección "Acerca de"</td><td>Se implementa una sección "Acerca de", que muestre información sobre las Startup y sus integrnates.</td><td>1</td><td>Juan Montes</td><td>Done</td>
+  </tr>
+   <tr>
+    <td>US01</td><td>Registro en la aplicación</td><td>TS06</td><td>Implementación de un "Registro"</td><td>Se implementa un registro, donde el usuario ponga sus datos y quede registrado dentro de la aplicación.</td><td>2</td><td>Carlos Guimaraes</td><td>To - Do</td>
+  </tr>
+   <tr>
+    <td>US32</td><td>Elegir plan de suscripción</td><td>TS07</td><td>Implementar un plan de sucripción anual</td><td>Se implementa un plan de suscripción anual dentro de la aplicación para que todas sus funciones esten disponibles.</td><td>1</td><td>Miquel de la Piedra</td><td>To - Do</td>
+  </tr>
+</table>
+
+
+#### 5.2.3.3 Development Evidence for Sprint Review 
+
+Se realizaron los avances con los commits correspondientes en el repositorio de la siguiente forma.
+
+| Repository                                | Branch           | Commit Id | Commit Message                                       | Commit Message Body                                        | Commited on (Date) |
+|-------------------------------------------|------------------|-----------|------------------------------------------------------|-----------------------------------------------------------|---------------------|
+| AplicacionesWeb-DriveSmart/Landing-Page  | feature/index    | bf503c3   | feat: head and body were added                  | head and body from main were added                               | 13/04/2024         |
+| AplicacionesWeb-DriveSmart/Landing-Page  | feature/index | 1231832  | feat: frequent questions were added                       | frequent questions were added                                    | 13/04/2024                        | about us section added                                    | 13/04/2024         |
+| AplicacionesWeb-DriveSmart/Landing-Page  | feature/index| f08dd82   | feat: About us were added                      | About us were added added                                   | 13/04/2024         |
+
+#### 5.2.3.4 Testing Suit Evidence for Sprint Review
+
+Se realizaron los acceptance tests para las historias de usuario trabajadas y se registraron en el repositorio de la siguiente forma.
+
+URL de repositorio: [https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests](https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests)
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|e6f7c7d|<p>feat: Added Acceptance_Test US25</p><p></p>|Added Acceptance_Test US25|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8eac1a9|feat: Added Acceptance_Test US26|Added Acceptance_Test US26|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|0a2fbba|feat: Added Acceptance_Test US27|Added Acceptance_Test US27|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8526710|feat: Added Acceptance_Test US28|Added Acceptance_Test US28|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|fec1484|feat: Added Acceptance_Test US29|Added Acceptance_Test US29|14/04/2024|
+
+#### 5.2.3.5 Execution Evidence for Sprint Review
+
+En esta sección se mostrará el progreso alcanzado durante el tercer sprint, centrado en la creación del Backend.
+
+El web services se separa en tres bounded context para un mejor desarrollo.
+
+<img src="images/bounded context 1.png" alt="Logo del servicio" width="100%">
+
+Sección Acerca de:
+
+<img src="images/bounded context 2.png" alt="Logo del servicio" width="100%">
+
+Sección FAQs:
+
+<img src="images/bounded context 3.png" alt="Logo del servicio" width="100%">
+
+
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review
+
+Para el desarrollo de este tercer Sprint, se llevo acabo la implementacion del Frontend y Backend, permitiendo la edicion de la informacion perteneciente a la base de datos.
+Video demostracion backend:
+
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+Después de completar los commits y lanzar la versión de este sprint, procedemos con el despliegue. En esta tercera iteración, implementamos el despliegue del Backend.
+
+<img src="images/backend.png" alt="Backend" width="100%">
+
+
+Link del despliegue: [https://aplicacionesweb-drivesmart.github.io/Landing-Page/](https://aplicacionesweb-drivesmart.github.io/Landing-Page/)
+
+#### 5.2.3.8 Team Collaboration Insights during Sprint
+
+Durante la implementación del Backend, todos los miembros del equipo realizaron commits relacionados con la rama de características en la que estaban trabajando.
+
+<img src="images/commits backend.png" alt="backend" width="80%">
+
+Nos dividimos de la siguiente forma para trabajar en el Landing Page:
+
+Nos dividimos de la siguiente forma para trabajar en el frontend:
+
+Bounded context 1 y 3 - User/Invoices - Manuel Zumaeta
+
+Bounded context 1 y 3 - Notification/History - Carlos Guimaraes
+
+Bounded context 1 - Customer/Workshop - Miquel De la Piedra
+
+Bounded context 2 - Product/Advertaising - Juan Figueroa
+
+Bounded context 3 - Vehicle/Maintenance - Jorge Altamirano
+
+<img src="images/history backend.png" alt="Commits backend" width="30%">
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
+<p>Se planeó el segundo sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
+
+<table border="1">
+  <tr>
+    <th>Sprint #</th><th>Sprint 2</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td>Date</td><td>2024-04-23</td>
+  </tr>
+  <tr>
+    <td>Time</td><td>9:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td><td>Virtual</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td><td>Carlos Eduardo Guimaraes Escalante</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>
+      <p>De la Piedra Quintanilla, Erwin Miquel</p>
+      <p>Gutierrez Zumaeta, Manuel Alonso</p>
+      <p>Montes Figueroa, Juan Eduardo</p>
+      <p>Guimaraes Escalante, Carlos Eduardo</p>
+      <p>Altamirano Saenz, Jorge Armando</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n - 1 Review Summary</td><td>No hubo sprint anterior</td>
+  </tr>
+  <tr>
+    <td>Sprint n - 1 Retrospective Summary</td><td>No hubo sprint anterior</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Goal</td><td>Realzación del Frontend</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Velocity	</td><td>20</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points	</td><td>20</td>
+  </tr>
+</table>
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+<p>El principal objetivo de este segundo sprint es lograr completar todos los requisitos que se piden para el Frontend. Además, se lleva en simultáneo el Sprint 2 con un archivo en Trello:</p>
+<p><a href=""></a></p>
+
+<table border="1">
+  <tr>
+    <td>Sprint #</td><td colspan="7" align="center">Sprint 2</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">User Story</td><td colspan="6" align="center">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>ID</td><td>Title</td><td>ID</td><td>Title</td><td>Description</td><td>Estimation (Hours)</td><td>Assigned To</td><td>Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td>US20</td><td>Registrar nuevo cliente</td><td>TS01</td><td>Implementación registro de nuevo cliente</td><td>Se crea apartado para agregar cliente.</td><td>2</td><td>Miquel De la Piedra</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US26</td><td>Página de Inicio</td><td>TS02</td><td>Implementación de una página de inicio</td><td>Se implementa una página de inicio donde se muestre notificaciones.</td><td>2</td><td>Miquel De la Piedra</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US22</td><td>Eliminar cliente</td><td>TS03</td><td>Implementación de apartado para eliminar cliente</td><td>Se implementa un apartado de confirmacion para la eliminacion del cliente</td><td>2</td><td>Miquel de la Piedra</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US30</td><td>Inicio de sesion</td><td>TS04</td><td>Implementación de apartado de inicio de sesion</td><td>Se implementa apartado de login.</td><td>2</td><td>Manuel Zumaeta</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US07</td><td>Registro de datos del vehículo</td><td>TS05</td><td>Implementación de apartado de datos del vehiculo</td><td>Se implementa apartado para ver los vehiculos.</td><td>1</td><td>Juan Montes</td><td>Done</td>
+  </tr>
+   <tr>
+    <td>US01</td><td>Registro en la aplicación</td><td>TS06</td><td>Implementación de un "Registro"</td><td>Se implementa un registro, donde el usuario ponga sus datos y quede registrado dentro de la aplicación.</td><td>2</td><td>Manuel Zumaeta</td><td>Done</td>
+  </tr>
+   <tr>
+    <td>US32</td><td>Elegir plan de suscripción</td><td>TS07</td><td>Implementar un plan de sucripción anual</td><td>Se implementa apartado de planes de suscripción anual dentro de la aplicación</td><td>1</td><td>Carlos Guimaraes</td><td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td><td>Gestión de servicios y disponibilidad</td><td>TS08</td><td>Implementar apartado para verifica inventario.</td><td>Se implmenta apartado donde se visualiza el stock de la empresa.</td><td>2</td><td>Jorge Altamirano</td><td>Done</td>
+  </tr>
+</table>
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+Se realizaron los avances con los commits correspondientes en el repositorio de la siguiente forma.
+
+| Repository                                | Branch           | Commit Id | Commit Message                                       | Commit Message Body                                        | Commited on (Date) |
+|-------------------------------------------|------------------|-----------|------------------------------------------------------|-----------------------------------------------------------|---------------------|
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | e72f056 | docs: docs updated | docs updated | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | c90e2c2 | docs: docs updated | docs updated | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 9cd9ee2 | docs: docs updated | docs updated | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 635b913 | docs: docs updated | docs updated | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 45ba194 | docs: inventory updated | inventory updated | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 9416c4a | feat: routing edit | routing edit | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | F461 db5 | feat: added client-list pages and client routing | added client-list pages and client routing | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 651833e | feat: added client-profile page and edit client-card component | added client-profile page and edit client-card component | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 914e369 | feat: added client-delete-confirmation page and edit button on client-card | added client-delete-confirmation page and edit button on client-card | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 4101767 | feat: added client-add page and routing | added client-add page and routing | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 8a37b23 | Merge branch 'master' of https://github.com/AplicacionesWeb-DriveSmart/frontend-carhelp | Merge branch 'master' of https://github.com/AplicacionesWeb-DriveSmart/frontend-carhelp | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | fc50896 | docs: inventory updated | inventory updated | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 4649408 | docs: inventory updated | inventory updated | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 0413655 | docs: inventory updated | inventory updated | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 2c1ae98 | feat: add-invoice, invoice-card, invoice-list components added and routing | add-invoice, invoice-card, invoice-list components added and routing | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 5a0816e | feat: add-invoice, invoice-card, invoice-list components added and routing | add-invoice, invoice-card, invoice-list components added and routing | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | aafc864 | Merge remote-tracking branch 'origin/master' | Merge remote-tracking branch 'origin/master' | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | a24d087 | docs: inventory updated | inventory updated | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 5625ff8 | Merge remote-tracking branch 'origin/master' | Merge remote-tracking branch 'origin/master' | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | cdd6216 | docs: invoice updated | invoice updated | 02/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 82689c2 | feat: added support | added support | 01/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | b0713f5 | feat: completed support component | completed support component | 01/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 3c49d63 | feat: added alt to images | added alt to images | 01/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | ca596e1 | docs: vehicles updated | vehicles updated | 01/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 2068fad | docs: vehicles updated | vehicles updated | 01/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 2ede533 | docs: vehicles updated | vehicles updated | 01/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 346370c | feat: added home page | added home page | 01/05/2024 |
+| AplicacionesWeb-DriveSmart/frontend-carhelp | feature/index | 4a5995f | feat: added subscription plans | added subscription plans | 01/05/2024 |
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+Se realizaron los acceptance tests para las historias de usuario trabajadas y se registraron en el repositorio de la siguiente forma.
+
+URL de repositorio: [https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests](https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests)
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|e6f7c7d|<p>feat: Added Acceptance_Test US25</p><p></p>|Added Acceptance_Test US25|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8eac1a9|feat: Added Acceptance_Test US26|Added Acceptance_Test US26|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|0a2fbba|feat: Added Acceptance_Test US27|Added Acceptance_Test US27|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8526710|feat: Added Acceptance_Test US28|Added Acceptance_Test US28|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|fec1484|feat: Added Acceptance_Test US29|Added Acceptance_Test US29|14/04/2024|
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+En esta sección se mostrará el progreso alcanzado durante el segundo sprint, centrado en la creación del frontend 
+
+La página de inicio, toolbar y sidenav se desarrollaron inicialmente debido a su importancia crucial para la navegación del sitio. Además, son responsivos y pueden ajustarse a diferentes tamaños de pantalla.
+
+Pagina de inicio:
+
+<img src="images/Pagina inicio.png" alt="frontend" width="80%">
+
+Side nav:
+
+<img src="images/Side nav.png" alt="frontend" width="80%">
+
+Client list
+
+<img src="images/client.png" alt="frontend" width="80%">
+
+Add client
+
+<img src="images/add-client.png" alt="frontend" width="80%">
+
+Edit client
+
+<img src="images/edit-client.png" alt="frontend" width="80%">
+
+Delete confirmation
+
+<img src="images/delete-confirmation.png" alt="frontend" width="80%">
+
+Vehicle list
+
+<img src="images/vehicle-list.png" alt="frontend" width="80%">
+
+Inventory list
+
+<img src="images/inventory-stock.png" alt="frontend" width="80%">
+
+Inventory more info
+
+<img src="images/inventory-more-info.png" alt="frontend" width="80%">
+
+Invoice list
+
+<img src="images/invoice-list.png" alt="frontend" width="80%">
+
+Invoice add
+
+<img src="images/invoice-add.png" alt="frontend" width="80%">
+
+Invoice more info
+
+<img src="images/invoice-info.png" alt="frontend" width="80%">
+
+Support
+
+<img src="images/support.png" alt="frontend" width="80%">
+
+Plans
+
+<img src="images/plans.png" alt="frontend" width="80%">
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Para la realizacion del frontend, hemos utilizado una fake api para acceder a los datos requeridos. Esto se puede verificar dentro del siguiente video:
+
+Video demostracion de frontend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Ed0COTCb91pJpQOwB1EOx6UBBvMLnLNwD3SaxJOKA65wKg?e=iqmGMO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Después de completar los commits y lanzar la versión de este sprint, procedemos con el despliegue. En esta segunda iteración, implementamos el despliegue del frontend.
+
+<img src="images/deploy.png" alt="frontend" width="80%">
+
+Link de despligue del frontend: https://aplicacionesweb-drivesmart.github.io/frontend-carhelp/
+
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+Durante la implementación del frontend, todos los miembros del equipo realizaron commits relacionados con el feature q se le fue designado.
+
+<img src="images/commits frontend.png" alt="frontend" width="80%">
+
+Nos dividimos de la siguiente forma para trabajar en el frontend:
+
+Feature 1 - Manuel Zumaeta
+
+Feature 2 - Carlos Guimaraes
+
+Feature 3 - Miquel De la Piedra
+
+Feature 4 - Juan Figueroa
+
+Feature 5 - Jorge Altamirano
+
+<img src="images/history frontend.png" alt="frontend" width="30%">
+
+
+
+
+asd
+
 # Conclusiones	
 
 Validación del Modelo de Negocio: A lo largo del proyecto, se ha validado la viabilidad del modelo de negocio basado en el desarrollo y la comercialización de una plataforma tecnológica para la gestión de clientes en el sector automotriz peruano.
