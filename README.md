@@ -2549,6 +2549,8 @@ Swagger acerca de Bounded context 3 - Workshop-Miantenance
 Para el desarrollo de este tercer Sprint, se llevo acabo la implementacion del Frontend y Backend, permitiendo la edicion de la informacion perteneciente a la base de datos.
 Video demostracion backend:
 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaXRaY95deVNq2YCIpOCo4wBmD1hGGvTTJ5W0jstY5Pv1w?e=8qbX13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review
 
 Después de completar los commits y lanzar la versión de este sprint, procedemos con el despliegue. En esta tercera iteración, implementamos el despliegue del Backend.
@@ -2556,7 +2558,7 @@ Después de completar los commits y lanzar la versión de este sprint, procedemo
 <img src="images/backend.png" alt="Backend" width="100%">
 
 
-Link del despliegue: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaXRaY95deVNq2YCIpOCo4wBmD1hGGvTTJ5W0jstY5Pv1w?e=8qbX13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaXRaY95deVNq2YCIpOCo4wBmD1hGGvTTJ5W0jstY5Pv1w?e=8qbX13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D()
+Link del despliegue: ()
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint
 
@@ -2609,45 +2611,9 @@ Bounded context 3 - Vehicle/Maintenance - Jorge Altamirano
 
 ### 5.3.2 Registro de Entrevistas
 
-URL de entrvista: [s](s)
+URL de entrvista: [https://drive.google.com/file/d/1fGFd4xt0Mcjuuz8_yIdY7BFWEZFX00ui/view?usp=sharing](https://drive.google.com/file/d/1fGFd4xt0Mcjuuz8_yIdY7BFWEZFX00ui/view?usp=sharing)
 
 ### 5.3.3 Evaluacion segun Heuristicas
-
-<p><b>UX HEURISTICS & PRINCIPLES EVALUATION</b></p>
-
-## Usability – Inclusive Design – Information Architecture
-### CARRERA
-- **CURSO**: Ingeniería de Software
-- **SECCIÓN**: Desarrollo de Aplicaciones Open Source
-- **CÓDIGO DE LA SECCIÓN**: Código de la sección
-- **PROFESORES**: Todos
-- **AUDITOR**: Nombre del Grupo que ejecuta la Sesión de evaluación
-- **CLIENTE(S)**: Nombre de las personas que participan en la sesión
-
-### SITE o APP A EVALUAR:
-Nombre de App
-
-### TAREAS A EVALUAR:
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
-1. Registro en la aplicación
-2. Programación de citas
-3. Visualización de calendario
-4. Notificación de citas
-5. Acceso a información de clientes
-6. Gestión de servicios y disponibilidad
-7. Registro de datos del vehículo
-8. Registro de los mantenimientos
-
-No están incluidas en esta versión de la evaluación las siguientes tareas:
-1. Recordatorio de mantenimiento al vehículo
-2. Cálculo del costo del mantenimiento
-3. Recordatorios automáticos de mantenimiento
-4. Crear una cuenta, modificar y eliminar los datos de los clientes
-5. Acceder a una Landing Page que brinde información detallada sobre la aplicación y sus características
-6. Iniciar sesión para acceder a la cuenta y cerrar sesión para salir de ella
-7. Elegir plan de suscripción
-8. Búsqueda de clientes
-
 
 Site o App a Evaluar: Carhelp Tareas a evaluar: El alcance de esta evaluación incluye la revisión de usabilidad de las siguientes tareas:
 
