@@ -2509,6 +2509,24 @@ URL de entrvista: [s](s)
 
 ### 5.3.3 Evaluacion segun Heuristicas
 
+Site o App a Evaluar: Carhelp Tareas a evaluar: El alcance de esta evaluación incluye la revisión de usabilidad de las siguientes tareas:
+
+- Inicio de sesión
+- Visualización de clientes/perfil de usuario
+- Visualización de vehiculos
+- Visualización de comprobantes de pago
+- Visualización de información de la automotriz
+- Registro de nueva venta
+- Registro nuevo cliente
+- Visualización de notificaciones
+- Visualización de ticket de ayuda
+- Elección de plan de suscripción
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+Landing Page
+Recuperación de cuenta
+
 ## 5.4 Video About-the-Product
 
 
