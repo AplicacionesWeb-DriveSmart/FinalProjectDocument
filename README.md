@@ -92,6 +92,31 @@
         </ul>
       </td>
   </tr>
+    <tr>
+      <td><strong>TB2</strong></td>
+      <td>Sabado 8 de Junio</td>
+      <td>
+        <ul>
+          <li>De la Piedra Quintanilla, Erwin Miquel</li>
+          <li>Altamirano Saenz, Jorge Armando</li>
+          <li>Guimaraes Escalante, Carlos Eduardo</li>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Montes Figueroa, Juan Eduardo	</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Backend:</li>
+          <li>feature 1</li>
+          <li>feature 2</li>
+          <li>feature 3</li>
+          <li>feature 4</li>
+          <li>feature 5</li>
+          <li>Avance del Capítulo V: Sprint 3</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
