@@ -2529,7 +2529,7 @@ Recuperación de cuenta
 
 ## 5.4 Video About-the-Product
 
-
+Link del video acerca del producto: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Ed0COTCb91pJpQOwB1EOx6UBBvMLnLNwD3SaxJOKA65wKg?e=vXPRn6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones	
 
@@ -2558,3 +2558,5 @@ Videos de exposiciones
 Exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EXB0bW88FlxOio70KU0kVlkBCh-8gRyxDVxqqJcHs1IC5w?e=jpofn5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Exposición frontend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/ERR4I-cE_71Kqx16AcsYPYoB7vmu3y2QVlkmR_VmQIMIVw?e=vuJ9Hf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Exposición about the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Ed0COTCb91pJpQOwB1EOx6UBBvMLnLNwD3SaxJOKA65wKg?e=vXPRn6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
