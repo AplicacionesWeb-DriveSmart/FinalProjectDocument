@@ -2481,12 +2481,33 @@ Bounded context 3 - Vehicle/Maintenance - Jorge Altamirano
 ## 5.3. Validation Interviews	
 
 ### 5.3.1 Diseño de Entrevistas
-<img src="images/disenio_entrevista" alt="Disenio de Entrevista" width="100%">
+<p><b>LANDING PAGE:</b></p>
+<p><b>Informacion de la startup:</b></p>
+<p>¿La pagina contiene informacion util sobre la startup?</p>
+<p>¿La informacion es clara y concisa?</p>
+<p><b>Informacion del producto:</b></p>
+<p>¿La página contiene información útil sobre el producto que ofrecemos?</p>
+<p>¿Al leer la información tiene una idea más clara sobre lo que ofrecemos?</p>
+<p><b>Diseño de la página</b></p>
+<p>¿La landing page tiene las secciones necesarias? Si no que sección debería de ser agregada?</p>
+<p>¿Las secciones de la landing page contienen información relevante?
+</p>
+<p>¿Cree que la landing page tiene sus secciones en un orden correcto?
+</p>
+<p>¿Cree que la landing page se puede adaptar a diferentes resoluciones de pantallas?</p>
+<p><b>FRONT-END:</b></p>
+<p><b>Agregar vehículo</b></p>
+<p>¿Considera que el formulario para agregar un vehículo tiene los campos necesarios?</p>
+<p><b>Editar perfil</b></p>
+<p>¿Ha podido editar la información de su perfil sin ningún problema?</p>
+<p><b>Ver notificaciones</b></p>
+<p>¿Considera que la sección de las notificaciones le puede ser útil?</p>
 
-### 5.3.1 Registro de Entrevistas
+### 5.3.2 Registro de Entrevistas
 
-### 5.3.1 Evaluacion segun Heuristicas
+URL de entrvista: [s](s)
 
+### 5.3.3 Evaluacion segun Heuristicas
 
 ## 5.4 Video About-the-Product
 
