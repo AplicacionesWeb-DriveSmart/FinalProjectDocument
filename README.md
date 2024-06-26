@@ -108,11 +108,9 @@
         Se han incluído los siguientes capítulos:
         <ul>
           <li>Backend:</li>
-          <li>feature 1</li>
-          <li>feature 2</li>
-          <li>feature 3</li>
-          <li>feature 4</li>
-          <li>feature 5</li>
+          <li>Bounded context 1</li>
+          <li>Bounded context 2</li>
+          <li>Bounded context 3</li>
           <li>Avance del Capítulo V: Sprint 3</li>
         </ul>
       </td>
@@ -2638,6 +2636,76 @@ Bounded context 3 - Vehicle/Maintenance - Jorge Altamirano
 </table>
 
 #### 5.2.4.2.Sprint Backlog 4.
+
+<p>El principal objetivo de este cuarto sprint es lograr completar todos los requisitos adicionales para el Backend y mejorar la estabilidad y rendimiento del sistema. Además, se lleva en simultáneo el Sprint 4 con un archivo en Trello:</p>
+
+<table border="1">
+  <tr>
+    <td>Sprint #</td><td colspan="7" align="center">Sprint 4</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">User Story</td><td colspan="6" align="center">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>ID</td><td>Title</td><td>ID</td><td>Title</td><td>Description</td><td>Estimation (Hours)</td><td>Assigned To</td><td>Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td>US13</td><td>Notificaciones Automáticas de Mantenimiento</td><td>TS16</td><td>Monitoreo de envío de notificaciones</td><td>Implementar el monitoreo del envío y recepción de notificaciones.</td><td>4</td><td>Backend Developer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US13</td><td>Notificaciones Automáticas de Mantenimiento</td><td>TS17</td><td>Mejoras en el sistema de notificaciones</td><td>Optimizar el sistema de notificaciones para mayor eficiencia.</td><td>5</td><td>Backend Developer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US20</td><td>Registrar Nuevo Cliente</td><td>TS18</td><td>Mejorar validación de datos del cliente</td><td>Implementar mejores validaciones en la entrada de datos del cliente.</td><td>3</td><td>Backend Developer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US20</td><td>Registrar Nuevo Cliente</td><td>TS19</td><td>Automatización de pruebas para registro de clientes</td><td>Desarrollar scripts para la automatización de pruebas del registro de clientes.</td><td>4</td><td>QA</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US25</td><td>Landing Page Informativa</td><td>TS20</td><td>Mejorar rendimiento de la Landing Page</td><td>Optimizar el rendimiento de la Landing Page para tiempos de carga más rápidos.</td><td>5</td><td>Frontend Developer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US25</td><td>Landing Page Informativa</td><td>TS21</td><td>Agregar secciones adicionales</td><td>Incluir nuevas secciones en la Landing Page como testimonios y casos de estudio.</td><td>4</td><td>Content Writer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US31</td><td>Análisis de Datos y Reportes</td><td>TS22</td><td>Implementar gráficos interactivos en reportes</td><td>Desarrollar gráficos interactivos en los reportes generados.</td><td>6</td><td>Frontend Developer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US31</td><td>Análisis de Datos y Reportes</td><td>TS23</td><td>Mejorar precisión del análisis de datos</td><td>Optimizar los algoritmos para una mejor precisión en el análisis de datos.</td><td>5</td><td>Backend Developer</td><td>To-Do</td>
+  </tr>
+</table>
+
+<h3>Definición de Hecho (DoD):</h3>
+<ul>
+  <li>Cada tarea debe pasar por revisión de código.</li>
+  <li>Las funcionalidades deben ser testeadas y validadas.</li>
+  <li>La UI debe ser aprobada por el equipo de diseño.</li>
+  <li>La documentación de las nuevas funcionalidades debe ser actualizada.</li>
+</ul>
+
+<h3>Asignaciones:</h3>
+<ul>
+  <li><strong>Notificaciones Automáticas de Mantenimiento (US13)</strong></li>
+  <ul>
+    <li>Backend Developer: Implementar monitoreo y optimización del sistema de notificaciones.</li>
+  </ul>
+  <li><strong>Registrar Nuevo Cliente (US20)</strong></li>
+  <ul>
+    <li>Backend Developer: Mejorar validaciones de datos del cliente.</li>
+    <li>QA: Automatización de pruebas del registro de clientes.</li>
+  </ul>
+  <li><strong>Landing Page Informativa (US25)</strong></li>
+  <ul>
+    <li>Frontend Developer: Optimizar rendimiento y agregar nuevas secciones a la Landing Page.</li>
+    <li>Content Writer: Crear contenido para las nuevas secciones.</li>
+  </ul>
+  <li><strong>Análisis de Datos y Reportes (US31)</strong></li>
+  <ul>
+    <li>Frontend Developer: Implementar gráficos interactivos en los reportes.</li>
+    <li>Backend Developer: Mejorar precisión del análisis de datos.</li>
+  </ul>
+</ul>
+
 
 #### 5.2.4.3.Development Evidence for Sprint Review.
 
