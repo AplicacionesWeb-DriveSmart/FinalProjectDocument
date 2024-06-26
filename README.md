@@ -4,7 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="LogoUPC">
 </p>
 
-# Universdiad Peruana de Ciencias Aplicadas
+# Universidad Peruana de Ciencias Aplicadas
 
 ### INGENIERÍA DE SISTEMAS DE SOFTWARE
 ### Ciclo: 5
@@ -68,7 +68,7 @@
       </td>
   </tr>
   <tr>
-      <td><strong>TP</strong></td>
+      <td><strong>TP1</strong></td>
       <td>Miércoles 1 de Abril</td>
       <td>
         <ul>
@@ -94,7 +94,7 @@
   </tr>
     <tr>
       <td><strong>TB2</strong></td>
-      <td>Sabado 8 de Junio</td>
+      <td>Sabado 8 de junio</td>
       <td>
         <ul>
           <li>De la Piedra Quintanilla, Erwin Miquel</li>
@@ -114,6 +114,28 @@
           <li>feature 4</li>
           <li>feature 5</li>
           <li>Avance del Capítulo V: Sprint 3</li>
+        </ul>
+      </td>
+  </tr>
+  <tr>
+      <td><strong>TF1</strong></td>
+      <td>Viernes 21 de junio</td>
+      <td>
+        <ul>
+          <li>De la Piedra Quintanilla, Erwin Miquel</li>
+          <li>Altamirano Saenz, Jorge Armando</li>
+          <li>Guimaraes Escalante, Carlos Eduardo</li>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Montes Figueroa, Juan Eduardo	</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes cambios:
+        <ul>
+          <li>Mejoras en despliegue de frontend y backend</li>
+          <li>Cambio dentro del backend</li>
+          <li>Conexion de backend y frontend</li>
+          <li>Avance del Capítulo V: Sprint 4</li>
         </ul>
       </td>
   </tr>
@@ -217,7 +239,7 @@ Commits en reporte avance TB1
 [4.8. Database Design](#48-database-design)  
 [4.8.1. Database Diagram](#481-database-diagram)  
 
-[Capítulo V: Product Implementation, Validation & Deploymen](#capítulo-v-product-implementation-validation--deployment)  
+[Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)  
 
 [5.1. Software Configuration Management](#51-software-configuration-management)  
 [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)  
@@ -246,15 +268,18 @@ Commits en reporte avance TB1
 
 # Student Outcome
 
-Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 3
+del ABET – EAC - Student Outcome 5.
 
-| Criterio específico                                                                                                                                                                    	| Acciones realizadas 	| Conclusiones 	|
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------	|--------------	|
-| Comunica oralmente sus ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería.    	|         <p>**Altamirano Saenz, Jorge Armando**	TB1: A lo largo de mi formación en ingeniería, he desarrollado la capacidad de comunicar mis ideas y resultados de manera objetiva y efectiva a públicos con diversos niveles de experiencia y competencias técnicas. Desde presentaciones formales hasta discusiones informales, me aseguro de transmitir información relevante y precisa, facilitando así la comprensión y toma de decisiones dentro del equipo de proyecto.</p><p>TP: En este segundo entregable, continúo comunicando mis ideas y resultados de manera objetiva a diversas audiencias en el marco del proyecto de ingeniería. A medida que avanzamos en el proyecto, ajusto mi discurso para adaptarme a las necesidades específicas de cada público, manteniendo siempre la claridad y la precisión en mis comunicaciones.</p> <p>**De la Piedra Quintanilla, Erwin Miquel	TB1:** En mi experiencia como estudiante de ingeniería, he aprendido a comunicar mis ideas y resultados de manera clara y objetiva a diversos públicos, independientemente de su especialidad o nivel jerárquico. Durante el desarrollo de proyectos, he sido capaz de transmitir información técnica de manera accesible y comprensible, adaptando mi discurso según las necesidades y conocimientos de mi audiencia.</p><p>TP: Como parte del segundo entregable de nuestro proyecto de ingeniería, sigo destacándome por mi capacidad para comunicar oralmente ideas y resultados con objetividad. Mantengo un enfoque imparcial y claro al presentar información ante diferentes especialidades y niveles jerárquicos, lo que contribuye significativamente a la eficacia de nuestro equipo.</p> <p>**Guimaraes Escalante, Carlos Eduardo TB1:** Durante la ejecución de proyectos de ingeniería, he cultivado la habilidad de comunicar mis ideas y hallazgos de manera objetiva y precisa a audiencias con diferentes niveles de experiencia y conocimientos técnicos. Ya sea frente a colegas especializados o a personal de dirección, mi enfoque se centra en transmitir la información de manera clara y concisa, utilizando un lenguaje adecuado para cada contexto.</p><p>TP: En el marco del segundo entregable de nuestro proyecto de ingeniería, reafirmo mi compromiso con la comunicación efectiva al presentar mis ideas y resultados con objetividad. A medida que avanzamos en el proyecto, mi capacidad para comunicar de manera clara y concisa sigue siendo clave para el éxito del equipo.</p> <p>**Gutierrez Zumaeta, Manuel Alonso TB1:** Como estudiante de ingeniería, he perfeccionado mi habilidad para comunicar mis ideas y resultados con objetividad a audiencias de diferentes especialidades y niveles jerárquicos. Durante la realización de proyectos, me enfoco en presentar la información de manera clara y coherente, utilizando ejemplos y analogías cuando sea necesario para asegurar una comprensión completa por parte de mi audiencia.</p><p>TP: Como parte del segundo entregable, continúo demostrando habilidades de comunicación oral al presentar mis ideas y resultados con objetividad y transparencia. En este punto del proyecto, mi capacidad para transmitir información técnica de manera comprensible sigue siendo esencial para mantener la colaboración y el progreso del equipo.</p> <p>**Montes Figueroa, Juan Eduardo TB1:** A lo largo de mi trayectoria académica en ingeniería, he adquirido la destreza de comunicar mis ideas y resultados de manera objetiva a públicos con variados conocimientos técnicos y jerarquías dentro de un proyecto. Ya sea a través de presentaciones orales, informes técnicos o reuniones de equipo, me esfuerzo por transmitir información de manera clara y precisa, promoviendo así una comunicación efectiva y una colaboración exitosa en el desarrollo de proyectos de ingeniería. </p<<p>TP: En este segundo entregable, continuo comunicando mis ideas y resultados de manera transparente y objetiva a lo largo del proyecto de ingeniería. Mi habilidad para adaptar el lenguaje técnico y estructurar la información de manera accesible sigue siendo fundamental para facilitar la comprensión y la colaboración dentro del equipo.</p>      	|  **TB1:** En conclusión, la capacidad de comunicar oralmente ideas y resultados con objetividad a audiencias diversas es una habilidad fundamental para el éxito en el desarrollo de proyectos de ingeniería. Este criterio de student outcome no solo implica la transmisión efectiva de información técnica, sino también la adaptación del discurso según las necesidades y conocimientos de cada audiencia. Al dominar esta habilidad, los estudiantes de ingeniería pueden facilitar la colaboración interdisciplinaria, promover la comprensión mutua entre los miembros del equipo y contribuir al avance exitoso de proyectos complejos. La comunicación clara y objetiva no solo fortalece la efectividad del equipo, sino que también fomenta una cultura de transparencia y confianza en el entorno profesional de la ingeniería.  <p> **TP:** En este segundo entregable, como grupo, hemos demostrado una sólida capacidad para comunicar oralmente ideas y resultados de manera objetiva y efectiva. Nuestra habilidad para adaptar nuestro discurso según las necesidades específicas de diferentes audiencias ha sido fundamental para mantener una colaboración fluida y productiva. A través de una comunicación clara y estructurada, hemos logrado transmitir información técnica de manera comprensible, promoviendo así una comprensión mutua y el progreso continuo del proyecto en su totalidad.    </p>    	|
-| Comunica en forma escrita ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería. 	|<p>**Altamirano Saenz, Jorge Armando**	TB1: Durante mi formación como estudiante de ingeniería, he desarrollado la habilidad de comunicar mis ideas y resultados de forma escrita con objetividad a audiencias diversas, independientemente de su especialidad o nivel jerárquico. A través de informes técnicos, documentos de diseño y correos electrónicos profesionales, me aseguro de transmitir información precisa y relevante que pueda ser comprendida por todos los involucrados en el proyecto.</p><p>TP: En este segundo entregable del proyecto de ingeniería, continúo comunicando mis ideas y resultados de manera escrita con objetividad a una variedad de públicos. Mi capacidad para estructurar la información de forma clara y precisa garantiza una comprensión efectiva por parte de audiencias con diferentes especialidades y niveles jerárquicos.</p> <p>**De la Piedra Quintanilla, Erwin Miquel	TB1:** Como estudiante de ingeniería, he aprendido a redactar de manera clara y objetiva para comunicar ideas y resultados a públicos con diferentes niveles de experiencia y conocimientos técnicos. Ya sea elaborando documentación técnica para ingenieros especializados o informes ejecutivos para la alta dirección, mi enfoque se centra en presentar la información de manera concisa y precisa, facilitando así la toma de decisiones informadas en el proyecto.</p><p> TP: Como parte del segundo entregable, he mejorado mi habilidad para comunicar en forma escrita ideas y resultados con objetividad a diversos públicos en el ámbito del proyecto de ingeniería. Mi enfoque imparcial y el uso adecuado del lenguaje técnico contribuyen a una comunicación clara y efectiva entre todos los implicados.</p> <p>**Guimaraes Escalante, Carlos Eduardo TB1:** A lo largo de mi carrera universitaria en ingeniería, he perfeccionado mi capacidad para comunicar ideas y resultados de manera escrita con objetividad a públicos de diversas especialidades y niveles jerárquicos. Desde la redacción de informes técnicos hasta la elaboración de manuales de usuario, me esfuerzo por utilizar un lenguaje claro y preciso que garantice una comprensión adecuada por parte de todos los lectores involucrados en el proyecto.</p><p>TP: En este segundo entregable, consolido mi capacidad para comunicar en forma escrita ideas y resultados objetivos dentro del proyecto de ingeniería. A través de una estructura clara y un tono adecuado, logro transmitir información técnica de manera comprensible a públicos con distintos niveles de experiencia y especialización.</p> <p>**Gutierrez Zumaeta, Manuel Alonso TB1:** Durante el desarrollo de proyectos de ingeniería, he cultivado la habilidad de comunicar ideas y resultados de manera escrita con objetividad a audiencias con diferentes niveles de experiencia y especialización. A través de la redacción de documentos técnicos, especificaciones de diseño y memorandos internos, me aseguro de transmitir información de manera clara y concisa, contribuyendo así al éxito del proyecto y la colaboración efectiva entre los miembros del equipo.</p><p>TP: Como parte del segundo entregable del proyecto de ingeniería, continúo perfeccionando mis habilidades de comunicación escrita al presentar ideas y resultados de manera objetiva. Mi enfoque profesional y la adecuada selección de términos técnicos facilitan la comprensión por parte de audiencias con diversos niveles jerárquicos y especialidades.</p> <p>**Montes Figueroa, Juan Eduardo TB1:** Como estudiante de ingeniería comprometido con la excelencia académica y profesional, me he dedicado a perfeccionar mi habilidad para comunicar ideas y resultados de forma escrita con objetividad a públicos diversos en el contexto de proyectos de ingeniería. Ya sea redactando informes de progreso, documentación técnica o comunicados internos, mi objetivo es presentar la información de manera clara y precisa, promoviendo así una comunicación efectiva y una toma de decisiones informada en el desarrollo del proyecto. <p> TP: Durante este segundo entregable del proyecto de ingeniería, sigo demostrando una comunicación escrita efectiva al transmitir ideas y resultados con objetividad. Mi habilidad para adaptar el estilo y el tono de mis comunicaciones según la audiencia garantiza una comprensión clara y precisa, independientemente del nivel jerárquico o la especialización del público.</p>                     	| **TB1:** En resumen, la capacidad de comunicar ideas y resultados de manera escrita con objetividad a audiencias diversas es esencial para el progreso exitoso de proyectos de ingeniería. Este criterio de student outcome no solo implica la habilidad de redactar información técnica de manera clara y precisa, sino también de adaptar el estilo y el tono según las necesidades y el nivel de comprensión de cada lector. Al dominar esta habilidad, los estudiantes de ingeniería pueden facilitar la transferencia de conocimientos, promover la colaboración entre equipos multidisciplinarios y garantizar una toma de decisiones informada y efectiva en todas las etapas del proyecto. La comunicación escrita objetiva no solo fortalece la eficacia y la eficiencia del equipo, sino que también contribuye a la construcción de una base sólida para la comunicación y la documentación en el ámbito profesional de la ingeniería.       <p> **TP:** "Como equipo, en este segundo entregable del proyecto de ingeniería, hemos consolidado nuestra capacidad para comunicar en forma escrita ideas y resultados con objetividad a una amplia gama de públicos. Nuestra habilidad colectiva para estructurar la información de manera clara y precisa ha mejorado significativamente, lo que garantiza una comunicación efectiva con audiencias de diferentes especialidades y niveles jerárquicos. Esta competencia ha fortalecido nuestra colaboración y contribuido al progreso exitoso del proyecto en su totalidad. </p>      	|
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | <p>Altamirano Saenz, Jorge Armando</p> <p>TB1:</p> <p>TP1:</p> <p>TB2:</p> <p>TF1:</p> <p>De la Piedra Quintanilla, Erwin Miquel</p> <p>TB1: Colaboré para definir los requisitos del sistema. Esta colaboración aseguró que todas las perspectivas fueran integradas de manera clara y comprensible.</p> <p>TP1: Asumí el rol de coordinador de proyecto, organizando reuniones semanales y utilizando herramientas para asignar tareas y monitorear el progreso. Esto permitió al equipo mantener el ritmo y cumplir con los plazos establecidos.</p> <p>TB2: Participé activamente en sesiones de revisión y retrospectivas para identificar áreas de mejora y ajustar las estrategias según fuera necesario. Este enfoque fomentó un ambiente de mejora continua dentro del equipo.</p> <p>TF1: Trabajé en la integración de soluciones técnicas y de diseño, asegurando que el producto final cumpliera con los estándares de calidad y los objetivos del proyecto. Esto demostró mi capacidad para actuar con eficacia, eficiencia y objetividad en un equipo multidisciplinario.</p> <p>Guimaraes Escalante, Carlos Eduardo</p> <p>TB1:</p> <p>TP1:</p> <p>TB2:</p> <p>TF1:</p> <p>Gutierrez Zumaeta, Manuel Alonso</p> <p>TB1:</p> <p>TP1:</p> <p>TB2:</p> <p>TF1:</p> <p>Montes Figueroa, Juan Eduardo</p> <p>TB1:</p> <p>TP1:</p> <p>TB2:</p> <p>TF1:</p> | <p>TB1: La colaboración efectiva entre los integrantes, permitió al grupo definir claramente los requisitos del sistema y asegurarse de que todas las perspectivas fueran consideradas, lo que resultó en un producto final más robusto y bien diseñado.</p> <p>TP1: La organización y coordinación mediante reuniones semanales y el uso de herramientas ayudaron al grupo a mantenerse enfocado, cumplir con los plazos establecidos y mejorar la gestión del proyecto en general.</p> <p>TB2: Las sesiones de revisión y retrospectivas regulares facilitaron la identificación de áreas de mejora y la implementación de cambios necesarios, fomentando un entorno de trabajo donde la mejora continua fue una prioridad compartida por todos los miembros del equipo.</p> <p>TF1: La integración de soluciones técnicas y de diseño, y el enfoque en cumplir con los estándares de calidad, demostraron que el grupo pudo trabajar con eficacia, eficiencia y objetividad, logrando así los objetivos del proyecto y proporcionando una solución de ingeniería de software exitosa.</p> |
+| Conoce al menos un sector empresarial o domínio de aplicación de soluciones de software. | <p>Altamirano Saenz, Jorge Armando</p> <p>TB1:</p> <p>TP1:</p> <p>TB2:</p> <p>TF1:</p> <p>De la Piedra Quintanilla, Erwin Miquel</p> <p>TB1: Participé en el desarrollo de un sistema de gestión de vehículos para una empresa automotriz, donde trabajé en la implementación de funcionalidades para el seguimiento en tiempo real de vehículos y la programación de mantenimientos preventivos. Esta experiencia me permitió comprender la importancia de la eficiencia operativa y la optimización del uso de vehículos en el sector.</p> <p>TP1: Cree una plataforma para la gestión de inventarios y ventas. Esto me ayudó a entender cómo las automotrices manejan su stock de vehículos, la relación con los clientes y las estrategias de ventas.</p> <p>TB2: Contribuí al desarrollo de una aplicación para la monitorización de la cadena de producción. Esta experiencia me dio una visión profunda de los procesos de manufactura en la industria automotriz y la importancia de la integración de sistemas para asegurar la calidad y eficiencia.</p> <p>TF1: Lideré el desarrollo de una aplicación de conectividad para vehículos en una empresa automotriz, permitiendo a los conductores monitorear el rendimiento de sus vehículos, recibir alertas de mantenimiento y acceder a servicios de asistencia en carretera en tiempo real. Esta solución mejoró significativamente la experiencia del usuario y fortaleció la lealtad del cliente al ofrecer un valor añadido a los propietarios de vehículos.</p> <p>Guimaraes Escalante, Carlos Eduardo</p> <p>TB1:</p> <p>TP1:</p> <p>TB2:</p> <p>TF1:</p> <p>Gutierrez Zumaeta, Manuel Alonso</p> <p>TB1:</p> <p>TP1:</p> <p>TB2:</p> <p>TF1:</p> <p>Montes Figueroa, Juan Eduardo</p> <p>TB1:</p> <p>TP1:</p> <p>TB2:</p> <p>TF1:</p> | <p>TB1: La implementación del sistema de gestión de vehículos resultó en una mejora significativa de la eficiencia operativa, optimizando el uso de vehículos y reduciendo los costos de mantenimiento preventivo, lo que benefició tanto a la empresa automotriz como a sus clientes.</p> <p>TP1: La plataforma de gestión de inventarios y ventas facilitó un manejo más eficiente del stock de vehículos y mejoró la relación con los clientes. Esto condujo a un aumento en las ventas y una mayor satisfacción del cliente, fortaleciendo la posición competitiva de los concesionarios.</p> <p>TB2: La aplicación de monitorización de la cadena de producción mejoró la integración de los sistemas de manufactura, asegurando procesos más eficientes y una mayor calidad en la producción de automóviles. Esta herramienta permitió identificar y resolver problemas rápidamente, optimizando el flujo de trabajo.</p> <p>TF1: El sistema de diagnóstico y mantenimiento para vehículos aumentó la precisión de los diagnósticos y la eficiencia en la gestión de reparaciones y repuestos. Esto no solo benefició a los talleres de reparación al mejorar su capacidad de servicio, sino que también incrementó la satisfacción de los clientes al recibir un mantenimiento más rápido y efectivo.</p> |
+
 
 
 
@@ -305,7 +330,7 @@ confianza y atención a los detalles.
   </tr>
   <tr>
     <td><strong>Gutierrez Zumaeta, Manuel Alonso (U202112353)</strong></td>
-    <td>Me llamo Manuel Gutierre, tengo 20 años, me gusta la fotografia y los videojuegos. Tambien tengo conocimientos en lenguajes de programacion como Python, C++, HTML, CSS y JavaScript. Considero que esto podria ayudar al equipo en el transcuso del curso, en la parte del desarrollo del aplicativo web, al igual al momento de hacer toda la documentacion correspondiente.</td>
+    <td>Me llamo Manuel Gutierre, tengo 20 años, me gusta la fotografia y los videojuegos. Tambien tengo conocimientos en lenguajes de programación como Python, C++, HTML, CSS y JavaScript. Considero que esto podria ayudar al equipo en el transcurso del curso, en la parte del desarrollo del aplicativo web, al igual al momento de hacer toda la documentación correspondiente.</td>
     <td><p align="center">
   <img src="images/manuelGutierrez.jpg" alt="Integrantes" width="100%"></p></td>
   </tr>
@@ -793,7 +818,7 @@ Link del Video de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:
 <img src="images/entrevistaCarlos.png" alt="Entrevista" width="100%">
 
 Resumen de la Entrevista:
-<p>En la entrevista, David Soto, un joven de 23 años nos dice como suelen ser los procesos que se realizan en su taller. La forma que utiliza para comunicarse con sus clientes es vía Whatsapp, donde le informa a sus cliente de los mantemientos, repuestos y todo lo relacionado al servicio, sin embargo, esta es una forma un poco ineficiente para el ya que algunas veces sus clientes no responden a sus mensajes, por lo cual la comunicación no es tan efectiva. Él considera que una plataforma donde se pueda tener una comunicación directa con los clientes, y que a la vez tenga funcionalidades para mostrar a sus clientes el estado de sus vehículos cuando están en mantenimiento, seria beneficioso para él y optimizaría el taller, atrallendo mas clientes.</p>
+<p>En la entrevista, David Soto, un joven de 23 años nos dice como suelen ser los procesos que se realizan en su taller. La forma que utiliza para comunicarse con sus clientes es vía Whatsapp, donde le informa a sus cliente de los mantenimientos, repuestos y todo lo relacionado al servicio, sin embargo, esta es una forma un poco ineficiente para el ya que algunas veces sus clientes no responden a sus mensajes, por lo cual la comunicación no es tan efectiva. Él considera que una plataforma donde se pueda tener una comunicación directa con los clientes, y que a la vez tenga funcionalidades para mostrar a sus clientes el estado de sus vehículos cuando están en mantenimiento, seria beneficioso para él y optimizaría el taller, atrayendo mas clientes.</p>
 
 <u>**Entrevista: 2 - Segmento Objetivo: Administrador de taller**</u>
 
@@ -848,7 +873,7 @@ Resumen:
 
 Fecha Entrevista: 01/04/2024
 
-Entrevistador: Manuel Guitierrez
+Entrevistador: Manuel Gutierrez
 
 Entrevistado: Emily Mendoza
 
@@ -950,12 +975,12 @@ Se realizó las dos User Personas de los dos segmentos objetivos que estamos aba
   - Automotriz:
 
     <p align="justify">
-      <img src="images/automotrizUS.png" alt="Automtriz User Persona" width="50%">
+      <img src="images/automotrizUS.png" alt="Automotriz User Persona" width="50%">
     </p>
     
 ### 2.3.2. User Task Matrix.
 
-|          Juan Valazquez          | Frecuencia | Importancia |
+|          Juan Velazquez          | Frecuencia | Importancia |
 |----------------------------------|-------------------------------------|------------|
 | Agendar una cita de mantenimiento| Alta                                | Alta       | 
 | Comunicarse con la automotriz    | Alta                                | Alta       | 
@@ -1077,24 +1102,24 @@ Se presentan los siguientes user stories:
 
 |User Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
 | :-: | :-: | :-: | :-: | :-: |
-|US01|Registro en la aplicación|Como propietario del taller, quiero poder registrar en la aplicación a mi taller para poder llegar a más clientes.|<p>**Escenario 1: Registro Exitoso**</p><p>- Dado que el propietario del taller accede a la aplicación por primera vez,</p><p>- Cuando completa el formulario de registro en la plataforma de citas dentro de la aplicación,</p><p>- Entonces recibe un mensaje de confirmación que indica que su registro ha sido exitoso y ahora puede acceder a la plataforma de citas utilizando las credenciales proporcionadas.</p><p>**Escenario 2: Error de Registro**</p><p>- Dado que el propietario del taller intenta registrarse en la aplicación,</p><p>- Cuando ingresa información incorrecta o incompleta en el formulario de registro,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos que deben corregirse y solicita al propietario que los complete correctamente para poder registrarse.</p>|E01|
-|US02|Programación de citas|Como dueño del taller, quiero poder programar citas directamente desde la aplicación.|<p>**Escenario 1: Programación de Cita Exitosa**</p><p>- Dado que el propietario del taller accede a la función de programación de citas en la aplicación,</p><p>- Cuando selecciona una fecha y hora disponibles para la cita y proporciona los detalles necesarios,</p><p>- Entonces la aplicación confirma la cita y muestra un mensaje de confirmación al propietario, además de enviar una notificación al cliente sobre la cita programada.</p>**Escenario 2: Sin Disponibilidad para la Cita**<p></p><p>- Dado que el propietario del taller intenta programar una cita en la aplicación,</p><p>- Cuando selecciona una fecha y hora para la cita, pero no hay disponibilidad en ese momento,</p><p>- Entonces la aplicación muestra un mensaje indicando que no hay horarios disponibles en la fecha y hora seleccionadas, y sugiere al propietario que elija otro horario.</p>|E01|
-|US03|Visualización de calendario|Como propietario del taller, quiero poder ver y gestionar el calendario de citas desde la aplicación|<p>**Escenario 1: Visualización de Calendario Exitosa**</p><p>- Dado que el propietario del taller accede a la función de visualización del calendario en la aplicación,</p><p>- Cuando la aplicación carga el calendario de citas con todas las citas programadas,</p><p>-Entonces el propietario puede ver claramente las citas programadas con detalles como fechas, horas y servicios solicitados.</p><p>**Escenario 2: Modificación de una Cita Existente**</p><p>-Dado que el propietario del taller accede al calendario de citas en la aplicación,</p><p>- Cuando selecciona una cita existente que necesita ser modificada,</p><p>- Entonces la aplicación le permite al propietario modificar la fecha, hora o detalles de la cita, actualizando automáticamente el calendario con los cambios realizados.</p>|E01|
-|US04|Notificación de citas|Como propietario del taller, quiero recibir notificaciones sobre las citas programadas a través de la aplicación|<p>**Escenario 1: Recepción de Notificación de Cita**</p><p>- Dado que el propietario del taller ha habilitado las notificaciones en la aplicación,</p><p>-Cuando se acerca la fecha de una cita programada,</p><p>- Entonces la aplicación envía una notificación al propietario para recordarle la cita programada, incluyendo detalles como la fecha, hora y tipo de servicio.</p><p>**Escenario 2: Confirmación de Cita desde la Notificación**</p><p>- Dado que el propietario del taller recibe una notificación sobre una cita próxima,</p><p>- Cuando revisa los detalles de la cita en la notificación,</p><p>- Entonces la aplicación permite al propietario confirmar la cita directamente desde la notificación, marcándola como confirmada en el sistema y actualizando automáticamente el estado en el calendario de citas.</p>|E01|
-|US05|Acceso a información de clientes|Como propietario del taller, quiero tener acceso rápido a la información de contacto y preferencias de los clientes desde la aplicación|<p>**Escenario 1: Visualización de Información del Cliente**</p><p>- Dado que el propietario ha iniciado sesión en la aplicación web,</p><p>- Cuando selecciona un cliente de la lista,</p><p>-Entonces la aplicación muestra los detalles del cliente, incluyendo nombre y contacto.</p><p>**Escenario 2: Edición de Preferencias del Cliente**</p><p>- Dado que el propietario está revisando la información de un cliente en la aplicación web,</p><p>- Cuando decide actualizar las preferencias del cliente,</p><p>- Entonces la aplicación le permite editar y guardar las preferencias del cliente, como notas especiales o preferencias de servicio.</p>|E01|
-|US06|Gestión de servicios y disponibilidad|Como propietario del taller, quiero poder configurar los servicios disponibles y su disponibilidad desde la aplicación.|<p>**Escenario 1: Configuración de Servicios**</p><p>- Dado que el propietario ha iniciado sesión en la aplicación web,</p><p>- Cuando agrega un nuevo servicio,</p><p>- Entonces completa los detalles del servicio y lo guarda.</p><p>**Escenario 2: Gestión de Disponibilidad de Servicios**</p><p>- Dado que el propietario está revisando los servicios,</p><p>- Cuando modifica la disponibilidad de un servicio,</p><p>- Entonces selecciona los días y horas disponibles y guarda los cambios.</p>|E01|
-|US07|Registro de datos del vehículo|Como cliente que cuenta con un vehículo, quiero poder registrar los datos de mi vehículo en la aplicación.|<p>**Escenario 1: Registro Exitoso de Datos del Vehículo**</p><p>- Dado que un cliente accede a la función de registro de datos del vehículo en la aplicación,</p><p>- Cuando ingresa la marca, modelo, año, número de placa y tipo de combustible del vehículo,</p><p>- Entonces la aplicación confirma el registro exitoso de los datos del vehículo y muestra un mensaje de confirmación al cliente.</p><p>**Escenario 2: Registro Incompleto de Datos del Vehículo**</p><p>- Dado que un cliente intenta registrar los datos del vehículo en la aplicación,</p><p>- Cuando omite algunos campos obligatorios como la marca o el año del vehículo,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos faltantes y no permite completar el registro hasta que todos los campos obligatorios estén llenos.</p>|E02|
-|US08|Registro de los mantenimientos|Como cliente que cuenta con un vehículo, quiero poder registrar los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Registro Exitoso de Mantenimiento**</p><p>- Dado que un cliente accede a la función de registro de mantenimientos en la aplicación,</p><p>- Cuando ingresa la fecha, tipo de mantenimiento, costo y detalles adicionales del mantenimiento,</p><p>- Entonces la aplicación confirma el registro exitoso del mantenimiento y muestra un mensaje de confirmación al cliente.</p><p>**Escenario 2: Registro Incompleto de Mantenimiento**</p><p>- Dado que un cliente intenta registrar un mantenimiento en la aplicación,</p><p>- Cuando omite algunos campos obligatorios como la fecha o el tipo de mantenimiento,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos faltantes y no permite completar el registro hasta que todos los campos obligatorios estén llenos.</p>|E02|
-|US09|Cálculo del costo del mantenimiento|Como cliente que cuenta con un vehículo, quiero que la aplicación calcule automáticamente el costo total de los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Cálculo Exitoso del Costo del Mantenimiento**</p><p>- Dado que un cliente accede a la función de cálculo del costo del mantenimiento en la aplicación,</p><p>- Cuando revisa el historial de mantenimientos y la aplicación realiza el cálculo automático del costo total,</p><p>- Entonces la aplicación muestra el costo total correctamente y lo presenta de forma clara al cliente.</p><p>**Escenario 2: Sin Mantenimientos Registrados**</p><p>- Dado que un cliente revisa el historial de mantenimientos en la aplicación,</p><p>- Cuando no hay mantenimientos registrados para el vehículo,</p><p>- Entonces la aplicación muestra un mensaje indicando que no hay registros de mantenimientos y el costo total es cero.</p>|E02|
-|US10|Recordatorios de mantenimiento al vehículo|Como cliente que cuenta con un vehículo, quiero recibir recordatorios automáticos para los mantenimientos periódicos de mi vehículo.|<p>**Escenario 1: Recepción Exitosa de Recordatorio de Mantenimiento**</p><p>- Dado que un cliente tiene configurados recordatorios de mantenimiento en la aplicación,</p><p>- Cuando llega el momento programado para un mantenimiento y la aplicación envía un recordatorio automático,</p><p>- Entonces el cliente recibe el recordatorio y la aplicación muestra la información relevante sobre el mantenimiento a realizar.</p><p>**Escenario 2: Configuración de Recordatorios**</p><p>- Dado que un cliente accede a la configuración de recordatorios en la aplicación,</p><p>- Cuando establece la frecuencia y los detalles para los recordatorios de mantenimiento,</p><p>- Entonces la aplicación guarda la configuración correctamente y comienza a enviar los recordatorios según lo programado.</p>|E02|
-|US11|Categorizar el tipo de mantenimiento|Como cliente que cuenta con un vehículo, quiero poder categorizar los diferentes tipos de mantenimiento realizados en mi vehículo.|<p>**Escenario 1: Categorización Exitosa del Tipo de Mantenimiento**</p><p>- Dado que un cliente accede a la función de categorización de mantenimientos en la aplicación,</p><p>- Cuando asigna categorías adecuadas a los diferentes tipos de mantenimiento registrados,</p><p>- Entonces la aplicación guarda las categorías correctamente y muestra la información categorizada en el historial de mantenimientos.</p><p>**Escenario 2: Categorización Inválida del Tipo de Mantenimiento**</p><p>- Dado que un cliente intenta asignar una categoría no válida a un mantenimiento en la aplicación,</p><p>- Cuando selecciona una categoría inexistente o incorrecta,</p><p>- Entonces la aplicación muestra un mensaje de error indicando que la categoría no es válida y no permite completar la acción hasta que se elija una categoría válida.</p>|E02|
-|US12|Historial de mantenimientos realizado|Como cliente que cuenta con un vehículo, quiero poder ver un historial completo de todos los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Acceso al Historial de Mantenimientos**</p><p>- Dado que un cliente accede al historial de mantenimientos en la aplicación,</p><p>- Cuando revisa la lista de mantenimientos realizados,</p><p>- Entonces la aplicación muestra de manera clara y organizada todos los registros de mantenimientos con detalles completos.</p><p>**Escenario 2: Ordenamiento del Historial de Mantenimientos**</p><p>- Dado que un cliente accede al historial de mantenimientos en la aplicación,</p><p>- Cuando ordena los registros por fecha, tipo de mantenimiento o costo,</p><p>- Entonces la aplicación muestra el historial ordenado según el criterio seleccionado por el cliente.</p>|E02|
-|US13|Recordatorio de inspección técnica|Como cliente, quiero recibir un recordatorio automático un mes antes de que expire la próxima inspección técnica de mi vehículo|<p>**Escenario 1: Envío de Notificación**</p><p>- Dado que falta 1 mes para la inspección técnica</p><p>- Cuando utiliza mi dispositivo móvil,</p><p>- Entonces me llega la notificacion de que le toca inspeccion tecnica a mi vehículo</p><p>**Escenario 2: Gestión de Notificación**</p><p>- Dado recibi la notificacion de revisión técnica,</p><p>- Cuando entre a la aplicación y al apartado de notificación,</p><p>- Entonces podré ver los detalles sobre la fecha límite para programar la inspección</p>|E03|
-|US14|Recordatorio de cambio de aceite|Como cliente, quiero recibir un recordatorio automático por notificación push en la aplicación dos semanas antes de que sea necesario realizar un cambio de aceite en mi vehículo|<p>**Escenario 1: Envío de Notificación**</p><p>- Dado que faltan 2 semanas antes de la fecha recomendada para el cambio de aceite</p><p>- Cuando utiliza mi dispositivo móvil,</p><p>- Entonces me llega la notificación de que le toca cambio de aceite a mi vehículo</p><p>**Escenario 2: Gestión de notificación**</p><p>- Dado que recibe la notificación de cambio de aceite,</p><p>- Cuando entre a la aplicación y al apartado de notificación,</p><p>- Entonces podré ver los detalles del tipo de servicio necesario para programar la cita</p>|E03|
-|US15|Personalización de recordatorios de mantenimiento|Como cliente, quiero poder personalizar la frecuencia y los tipos de recordatorios de mantenimiento que recibo en mi aplicación DriveSmart|<p>**Escenario 1: Personalización de Frecuencia**</p><p>- Dado que me encuentro en la aplicación,</p><p>Cuando entro al apartado de configuración,</p><p>- Y seleccione la opción de notificaciones,</p><p>- Entonces podrás personalizar la frecuencia y los tipos de recordatorios de mantenimiento que recibo</p><p>**Escenario 2: Configuración de preferencias**</p><p>- Dado que me encuentro en el apartado de configuración,</p><p>- Cuando entro a la opción de las preferencias,</p><p>- Entonces podre configurar las preferencias específicas para diferentes tipos de mantenimiento</p>|E03|
-|US16|Recordatorio de vencimiento de póliza de seguro|Como cliente, quiero recibir un recordatorio automático por mensaje de texto una semana antes de la fecha de vencimiento de la póliza de seguro de mi vehículo|<p>**Escenario 1: Envío de Notificación**</p><p>- Dado que falta 1 semana antes de la fecha de vencimiento de mi poliza,</p><p>- Cuando utiliza mi dispositivo móvil,</p><p>Entonces me llega la notificación de que va a vencer mi poliza</p><p>**Escenario 2: Gestión de notificación**</p><p>- Dado que recibe la notificación de vencimiento de póliza,</p><p>- Cuando entre a la aplicación y al apartado de notificación,</p><p>- Entonces podré ver los detalles sobre la fecha límite para renovar el seguro y numero de contacto</p>|E03|
-|US17|Recordatorio de vencimiento de garantía|Como cliente, quiero recibir un recordatorio automático por notificación en la aplicación un mes antes de que expire la garantía de mi vehículo|<p>**Escenario 1: Envío de Notificación**</p><p>- Dado que faltan 1 mes antes de que expire la garantía de mi vehículo,</p><p>- Cuando utiliza mi dispositivo móvil,</p><p>- Entonces me llega la notificación de que va a expirar la garantía</p><p>**Escenario 2: Gestión de notificación**</p><p>- Dado que recibe la notificación de expiracion de mi garantia,</p><p>- Cuando entre a la aplicación y al apartado de notificación,</p><p>- Entonces podré ver los detalles sobre la cobertura restante de la garantia</p>|E03|
-|US18|Marcado de recordatorios de mantenimiento como completados|Como cliente, quiero poder marcar como completados los recordatorios de mantenimiento una vez que haya realizado el servicio correspondiente en mi vehículo|<p>**Escenario 1: Completación de Recordatorios**</p><p>- Dado que me encuentro en el apartado de configuración de la aplicación,</p><p>- Cuando elija la opción de recordatorios,</p><p>- Entonces podre marcar como completado los recordatorios ya realizado</p><p>**Escenario 2: Eliminación de Recordatorios**<p>- Dado que estoy en el apartado de recordatorios,</p><p>- Cuando elija la opción de marcarlos</p><p>- Entonces podre eliminarlos de la lista de pendientes</p>|E03|
+|US01|Registro en la aplicación|Como propietario del taller, quiero poder registrar en la aplicación a mi taller para poder llegar a más clientes.|<p>**Escenario 1: Registro exitoso**</p><p>- Dado que el propietario del taller accede a la aplicación por primera vez,</p><p>- Cuando completa el formulario de registro en la plataforma de citas dentro de la aplicación,</p><p>- Entonces recibe un mensaje de confirmación que indica que su registro ha sido exitoso y ahora puede acceder a la plataforma de citas utilizando las credenciales proporcionadas.</p><p>**Escenario 2: Error de registro**</p><p>- Dado que el propietario del taller intenta registrarse en la aplicación,</p><p>- Cuando ingresa información incorrecta o incompleta en el formulario de registro,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos que deben corregirse y solicita al propietario que los complete correctamente para poder registrarse.</p>|E01|
+|US02|Programación de citas|Como dueño del taller, quiero poder programar citas directamente desde la aplicación.|<p>**Escenario 1: Programación de cita exitosa**</p><p>- Dado que el propietario del taller accede a la función de programación de citas en la aplicación,</p><p>- Cuando selecciona una fecha y hora disponibles para la cita y proporciona los detalles necesarios,</p><p>- Entonces la aplicación confirma la cita y muestra un mensaje de confirmación al propietario, además de enviar una notificación al cliente sobre la cita programada.</p>**Escenario 2: Sin disponibilidad para la cita**<p></p><p>- Dado que el propietario del taller intenta programar una cita en la aplicación,</p><p>- Cuando selecciona una fecha y hora para la cita, pero no hay disponibilidad en ese momento,</p><p>- Entonces la aplicación muestra un mensaje indicando que no hay horarios disponibles en la fecha y hora seleccionadas, y sugiere al propietario que elija otro horario.</p>|E01|
+|US03|Visualización de calendario|Como propietario del taller, quiero poder ver y gestionar el calendario de citas desde la aplicación|<p>**Escenario 1: Visualización de calendario exitosa**</p><p>- Dado que el propietario del taller accede a la función de visualización del calendario en la aplicación,</p><p>- Cuando la aplicación carga el calendario de citas con todas las citas programadas,</p><p>-Entonces el propietario puede ver claramente las citas programadas con detalles como fechas, horas y servicios solicitados.</p><p>**Escenario 2: Modificación de una cita existente**</p><p>-Dado que el propietario del taller accede al calendario de citas en la aplicación,</p><p>- Cuando selecciona una cita existente que necesita ser modificada,</p><p>- Entonces la aplicación le permite al propietario modificar la fecha, hora o detalles de la cita, actualizando automáticamente el calendario con los cambios realizados.</p>|E01|
+|US04|Notificación de citas|Como propietario del taller, quiero recibir notificaciones sobre las citas programadas a través de la aplicación|<p>**Escenario 1: Recepción de notificación de cita**</p><p>- Dado que el propietario del taller ha habilitado las notificaciones en la aplicación,</p><p>-Cuando se acerca la fecha de una cita programada,</p><p>- Entonces la aplicación envía una notificación al propietario para recordarle la cita programada, incluyendo detalles como la fecha, hora y tipo de servicio.</p><p>**Escenario 2: Confirmación de cita desde la notificación**</p><p>- Dado que el propietario del taller recibe una notificación sobre una cita próxima,</p><p>- Cuando revisa los detalles de la cita en la notificación,</p><p>- Entonces la aplicación permite al propietario confirmar la cita directamente desde la notificación, marcándola como confirmada en el sistema y actualizando automáticamente el estado en el calendario de citas.</p>|E01|
+|US05|Acceso a información de clientes|Como propietario del taller, quiero tener acceso rápido a la información de contacto y preferencias de los clientes desde la aplicación|<p>**Escenario 1: Visualización de información del cliente**</p><p>- Dado que el propietario ha iniciado sesión en la aplicación web,</p><p>- Cuando selecciona un cliente de la lista,</p><p>-Entonces la aplicación muestra los detalles del cliente, incluyendo nombre y contacto.</p><p>**Escenario 2: Edición de preferencias del cliente**</p><p>- Dado que el propietario está revisando la información de un cliente en la aplicación web,</p><p>- Cuando decide actualizar las preferencias del cliente,</p><p>- Entonces la aplicación le permite editar y guardar las preferencias del cliente, como notas especiales o preferencias de servicio.</p>|E01|
+|US06|Gestión de servicios y disponibilidad|Como propietario del taller, quiero poder configurar los servicios disponibles y su disponibilidad desde la aplicación.|<p>**Escenario 1: Configuración de servicios**</p><p>- Dado que el propietario ha iniciado sesión en la aplicación web,</p><p>- Cuando agrega un nuevo servicio,</p><p>- Entonces completa los detalles del servicio y lo guarda.</p><p>**Escenario 2: Gestión de disponibilidad de servicios**</p><p>- Dado que el propietario está revisando los servicios,</p><p>- Cuando modifica la disponibilidad de un servicio,</p><p>- Entonces selecciona los días y horas disponibles y guarda los cambios.</p>|E01|
+|US07|Registro de datos del vehículo|Como cliente que cuenta con un vehículo, quiero poder registrar los datos de mi vehículo en la aplicación.|<p>**Escenario 1: Registro exitoso de datos del vehículo**</p><p>- Dado que un cliente accede a la función de registro de datos del vehículo en la aplicación,</p><p>- Cuando ingresa la marca, modelo, año, número de placa y tipo de combustible del vehículo,</p><p>- Entonces la aplicación confirma el registro exitoso de los datos del vehículo y muestra un mensaje de confirmación al cliente.</p><p>**Escenario 2: Registro Incompleto de datos del vehículo**</p><p>- Dado que un cliente intenta registrar los datos del vehículo en la aplicación,</p><p>- Cuando omite algunos campos obligatorios como la marca o el año del vehículo,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos faltantes y no permite completar el registro hasta que todos los campos obligatorios estén llenos.</p>|E02|
+|US08|Registro de los mantenimientos|Como cliente que cuenta con un vehículo, quiero poder registrar los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Registro exitoso de mantenimiento**</p><p>- Dado que un cliente accede a la función de registro de mantenimientos en la aplicación,</p><p>- Cuando ingresa la fecha, tipo de mantenimiento, costo y detalles adicionales del mantenimiento,</p><p>- Entonces la aplicación confirma el registro exitoso del mantenimiento y muestra un mensaje de confirmación al cliente.</p><p>**Escenario 2: Registro incompleto de mantenimiento**</p><p>- Dado que un cliente intenta registrar un mantenimiento en la aplicación,</p><p>- Cuando omite algunos campos obligatorios como la fecha o el tipo de mantenimiento,</p><p>- Entonces la aplicación muestra un mensaje de error indicando los campos faltantes y no permite completar el registro hasta que todos los campos obligatorios estén llenos.</p>|E02|
+|US09|Cálculo del costo del mantenimiento|Como cliente que cuenta con un vehículo, quiero que la aplicación calcule automáticamente el costo total de los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Cálculo exitoso del costo del mantenimiento**</p><p>- Dado que un cliente accede a la función de cálculo del costo del mantenimiento en la aplicación,</p><p>- Cuando revisa el historial de mantenimientos y la aplicación realiza el cálculo automático del costo total,</p><p>- Entonces la aplicación muestra el costo total correctamente y lo presenta de forma clara al cliente.</p><p>**Escenario 2: Sin mantenimientos registrados**</p><p>- Dado que un cliente revisa el historial de mantenimientos en la aplicación,</p><p>- Cuando no hay mantenimientos registrados para el vehículo,</p><p>- Entonces la aplicación muestra un mensaje indicando que no hay registros de mantenimientos y el costo total es cero.</p>|E02|
+|US10|Recordatorios de mantenimiento al vehículo|Como cliente que cuenta con un vehículo, quiero recibir recordatorios automáticos para los mantenimientos periódicos de mi vehículo.|<p>**Escenario 1: Recepción exitosa de recordatorio de mantenimiento**</p><p>- Dado que un cliente tiene configurados recordatorios de mantenimiento en la aplicación,</p><p>- Cuando llega el momento programado para un mantenimiento y la aplicación envía un recordatorio automático,</p><p>- Entonces el cliente recibe el recordatorio y la aplicación muestra la información relevante sobre el mantenimiento a realizar.</p><p>**Escenario 2: Configuración de recordatorios**</p><p>- Dado que un cliente accede a la configuración de recordatorios en la aplicación,</p><p>- Cuando establece la frecuencia y los detalles para los recordatorios de mantenimiento,</p><p>- Entonces la aplicación guarda la configuración correctamente y comienza a enviar los recordatorios según lo programado.</p>|E02|
+|US11|Categorizar el tipo de mantenimiento|Como cliente que cuenta con un vehículo, quiero poder categorizar los diferentes tipos de mantenimiento realizados en mi vehículo.|<p>**Escenario 1: Categorización exitosa del tipo de mantenimiento**</p><p>- Dado que un cliente accede a la función de categorización de mantenimientos en la aplicación,</p><p>- Cuando asigna categorías adecuadas a los diferentes tipos de mantenimiento registrados,</p><p>- Entonces la aplicación guarda las categorías correctamente y muestra la información categorizada en el historial de mantenimientos.</p><p>**Escenario 2: Categorización inválida del tipo de mantenimiento**</p><p>- Dado que un cliente intenta asignar una categoría no válida a un mantenimiento en la aplicación,</p><p>- Cuando selecciona una categoría inexistente o incorrecta,</p><p>- Entonces la aplicación muestra un mensaje de error indicando que la categoría no es válida y no permite completar la acción hasta que se elija una categoría válida.</p>|E02|
+|US12|Historial de mantenimientos realizado|Como cliente que cuenta con un vehículo, quiero poder ver un historial completo de todos los mantenimientos realizados en mi vehículo.|<p>**Escenario 1: Acceso al historial de mantenimientos**</p><p>- Dado que un cliente accede al historial de mantenimientos en la aplicación,</p><p>- Cuando revisa la lista de mantenimientos realizados,</p><p>- Entonces la aplicación muestra de manera clara y organizada todos los registros de mantenimientos con detalles completos.</p><p>**Escenario 2: Ordenamiento del historial de mantenimientos**</p><p>- Dado que un cliente accede al historial de mantenimientos en la aplicación,</p><p>- Cuando ordena los registros por fecha, tipo de mantenimiento o costo,</p><p>- Entonces la aplicación muestra el historial ordenado según el criterio seleccionado por el cliente.</p>|E02|
+|US13|Recordatorio de inspección técnica|Como cliente, quiero recibir un recordatorio automático un mes antes de que expire la próxima inspección técnica de mi vehículo|<p>**Escenario 1: Envío de notificación**</p><p>- Dado que falta 1 mes para la inspección técnica</p><p>- Cuando utiliza mi dispositivo móvil,</p><p>- Entonces me llega la notificacion de que le toca inspeccion tecnica a mi vehículo</p><p>**Escenario 2: Gestión de notificación**</p><p>- Dado recibi la notificacion de revisión técnica,</p><p>- Cuando entre a la aplicación y al apartado de notificación,</p><p>- Entonces podré ver los detalles sobre la fecha límite para programar la inspección</p>|E03|
+|US14|Recordatorio de cambio de aceite|Como cliente, quiero recibir un recordatorio automático por notificación push en la aplicación dos semanas antes de que sea necesario realizar un cambio de aceite en mi vehículo|<p>**Escenario 1: Envío de notificación**</p><p>- Dado que faltan 2 semanas antes de la fecha recomendada para el cambio de aceite</p><p>- Cuando utiliza mi dispositivo móvil,</p><p>- Entonces me llega la notificación de que le toca cambio de aceite a mi vehículo</p><p>**Escenario 2: Gestión de notificación**</p><p>- Dado que recibe la notificación de cambio de aceite,</p><p>- Cuando entre a la aplicación y al apartado de notificación,</p><p>- Entonces podré ver los detalles del tipo de servicio necesario para programar la cita</p>|E03|
+|US15|Personalización de recordatorios de mantenimiento|Como cliente, quiero poder personalizar la frecuencia y los tipos de recordatorios de mantenimiento que recibo en mi aplicación DriveSmart|<p>**Escenario 1: Personalización de frecuencia**</p><p>- Dado que me encuentro en la aplicación,</p><p>Cuando entro al apartado de configuración,</p><p>- Y seleccione la opción de notificaciones,</p><p>- Entonces podrás personalizar la frecuencia y los tipos de recordatorios de mantenimiento que recibo</p><p>**Escenario 2: Configuración de preferencias**</p><p>- Dado que me encuentro en el apartado de configuración,</p><p>- Cuando entro a la opción de las preferencias,</p><p>- Entonces podre configurar las preferencias específicas para diferentes tipos de mantenimiento</p>|E03|
+|US16|Recordatorio de vencimiento de póliza de seguro|Como cliente, quiero recibir un recordatorio automático por mensaje de texto una semana antes de la fecha de vencimiento de la póliza de seguro de mi vehículo|<p>**Escenario 1: Envío de notificación**</p><p>- Dado que falta 1 semana antes de la fecha de vencimiento de mi poliza,</p><p>- Cuando utiliza mi dispositivo móvil,</p><p>Entonces me llega la notificación de que va a vencer mi poliza</p><p>**Escenario 2: Gestión de notificación**</p><p>- Dado que recibe la notificación de vencimiento de póliza,</p><p>- Cuando entre a la aplicación y al apartado de notificación,</p><p>- Entonces podré ver los detalles sobre la fecha límite para renovar el seguro y numero de contacto</p>|E03|
+|US17|Recordatorio de vencimiento de garantía|Como cliente, quiero recibir un recordatorio automático por notificación en la aplicación un mes antes de que expire la garantía de mi vehículo|<p>**Escenario 1: Envío de notificación**</p><p>- Dado que faltan 1 mes antes de que expire la garantía de mi vehículo,</p><p>- Cuando utiliza mi dispositivo móvil,</p><p>- Entonces me llega la notificación de que va a expirar la garantía</p><p>**Escenario 2: Gestión de notificación**</p><p>- Dado que recibe la notificación de expiracion de mi garantia,</p><p>- Cuando entre a la aplicación y al apartado de notificación,</p><p>- Entonces podré ver los detalles sobre la cobertura restante de la garantia</p>|E03|
+|US18|Marcado de recordatorios de mantenimiento como completados|Como cliente, quiero poder marcar como completados los recordatorios de mantenimiento una vez que haya realizado el servicio correspondiente en mi vehículo|<p>**Escenario 1: Completación de recordatorios**</p><p>- Dado que me encuentro en el apartado de configuración de la aplicación,</p><p>- Cuando elija la opción de recordatorios,</p><p>- Entonces podre marcar como completado los recordatorios ya realizado</p><p>**Escenario 2: Eliminación de recordatorios**<p>- Dado que estoy en el apartado de recordatorios,</p><p>- Cuando elija la opción de marcarlos</p><p>- Entonces podre eliminarlos de la lista de pendientes</p>|E03|
 |US19|Registrar gerente del taller|Como gerente del taller quiero registrarme en la aplicación para gestionar la información de los clientes y utilizarla en futuras revisiones.|<p>**Escenario 1: Usuario se registra correctamente.** </p><p>- Dado que el gerente del taller necesita crear una cuenta en AutoPro Tracker.</p><p>- Cuando seleccione la opción de registro para una automotriz y haya ingresado la información de una empresa no registrada y una contraseña correcta.</p><p>- Entonces se notificará la correcta creación de la cuenta.</p><p>**Escenario 2: Usuario se registra erróneamente.**</p><p>- Dado que el gerente del taller necesita crear una cuenta en AutoPro Tracker.</p><p>- Cuando seleccione la opción de registro para automotriz y haya ingresado las credenciales de la empresa de manera incorrecta o una empresa ya registrada o contraseña incorrecta.</p><p>- Entonces la plataforma notificará el error en la creación de la cuenta.</p>|E04|
 |US20|Registrar nuevo cliente|Como gerente del taller quiero añadir los nuevos clientes que llegan a la automotriz para mantenerlos actualizados e informados en todo momento.|<p>**Escenario 1: Usuario registra un nuevo cliente.**</p><p></p><p>- Dado que gerente del taller quiere anadir a un nuevo cliente.</p><p></p><p>- Cuando seleccione la opción agregar cliente y se encuentre la cuenta de dicho cliente y le de confirmar a la opción de añadir.</p><p></p><p>- Entonces el cliente será registrado en la base de datos de la automotriz y se conectará con esta misma.</p><p></p><p>**Escenario 2: Usuario no encuentra perfil del cliente.**</p><p></p><p>- Dado que gerente del taller quiere anadir a un nuevo cliente.</p><p></p><p>- Cuando seleccione la opción agregar cliente y busque la cuenta de dicho cliente y no logre encontrarla.</p><p></p><p>- Entonces el usuario no podrá registrar al cliente y este deberá revisar que haya enviado correctamente su información.</p>|E04|
 |US21|<p>Actualización de clientes</p><p></p>|Como gerente del taller quiero gestionar los datos de los clientes para mantenerlos actualizados y ordenados|<p>**Escenario 1: Usuario actualiza de manera correcta una nueva revisión técnica.**</p><p></p><p>- Dado que gerente del taller desea agregar una revisión técnica en el historial del cliente.</p><p></p><p>- Cuando seleccione el usuario que desea actualizar y seleccione la opción añadir e ingrese todos los datos requeridos de manera correcta.</p><p></p><p>- Entonces se actualizará la base de datos con la nueva información añadida.</p><p></p><p>**Escenario 2: Usuario actualiza de manera errónea una nueva revisión técnica.**</p><p></p><p>- Dado que gerente del taller desea agregar una revisión técnica en el historial del cliente.</p><p></p><p>- Cuando seleccione el usuario que desea actualizar y seleccione la opción añadir e ingrese todos los datos requeridos omitiendo algunos de ellos o brindando datos erróneos.</p><p></p><p>- Entonces se avisará los espacios que falta completar y los que falten corregir para añadir la información.</p>|E04|
@@ -1105,7 +1130,7 @@ Se presentan los siguientes user stories:
 |US26| Página de inicio| Como usuario quiero poder visualizar una página de inicio, para poder vsualizar la infroamción fundamental relacionada a la aplicación. | <p>**Escenario 1: Visualización de página de inicio**</p><p>- Dado que el usuario desea conocer sobre la aplicación,</p><p>- Cuando ingrese al Landing Page, </p><p>- Entonces la plataforma mostrará la página principal que contiene toda la información de la aplicación.</p> |E05|
 |US27| Sección "Features"| Como usuario quiero poder acceder a una seccion de "Features" dentro de la página principal, para poder visualizar las características importantes que la aplicación ofrece. | <p>**Escenario 1: Visualización de la sección "Features"**</p><p>- Dado que el usuario desea conocer sobre las características de la aplicación,</p><p>- Cuando ingrese al Landing Page, </p><p>- Y entre a la sección "Features" desde el navbar,</p><p>- Entonces la plataforma mostrará la sección de "Features", donde se mostrarán las funcionalidades de la aplicación.</p>   |E05|
 |US28| Sección "FAQs"| Como usuario quiero poder acceder a una seccion de "FAQs" dentro de la página principal, para poder visualizar las preguntas frecuentes que la mayoría de usuarios tiene, y resolver las mismas dudas. | <p>**Escenario 1: Visualización de la sección "FAQs"**</p><p>- Dado que el usuario tiene dudas sobre la aplicación</p><p>- Cuando ingrese al Landing Page, </p><p>- Y entre a la sección "FAQs" desde el navbar,</p><p>- Entonces la plataforma mostrará la sección de "FAQs", donde se mostrarán las respuestas a las preguntas mas frecuentes sobre la apicación.</p>|E05|
-|US29| Sección "Acerca de"| Como usuario quiero poder acceder a una seccion de "Acerca de" dentro de la página principal, para poder visualizar información sobre la empresa, y los integrantes que foramn parte de ella. | <p>**Escenario 1: Visualización de la sección "Acerca de"**</p><p>- Dado que el usuario desea conocer información sobre la Startup</p><p>- Cuando ingrese al Landing Page, </p><p>- Y entra a la sección "Acerca de" desde el navbar,</p><p>- Entonces la plataforma mostrará la sección  "Acerca de", donde se mostrará información de la empresa, asi como su visión y misión junto con los miembros de esta. </p>|E05|
+|US29| Sección "Acerca de"| Como usuario quiero poder acceder a una seccion de "Acerca de" dentro de la página principal, para poder visualizar información sobre la empresa, y los integrantes que forman parte de ella. | <p>**Escenario 1: Visualización de la sección "Acerca de"**</p><p>- Dado que el usuario desea conocer información sobre la Startup</p><p>- Cuando ingrese al Landing Page, </p><p>- Y entra a la sección "Acerca de" desde el navbar,</p><p>- Entonces la plataforma mostrará la sección  "Acerca de", donde se mostrará información de la empresa, asi como su visión y misión junto con los miembros de esta. </p>|E05|
 |US30|Inicio de Sesión|Como usuario de la quiero poder iniciar sesión con mis credenciales de usuario para acceder a las funciones y datos exclusivos de mi cuenta y realizar acciones personalizadas.|<p>**Escenario 1: Iniciar sesión con éxito**</p><p>- Dado que el usuario se ha registrado y desea iniciar sesión en la aplicación.</p><p>- Cuando acceda a la pantalla de inicio de sesión y proporcione mi nombre de usuario y contraseña.</p><p>- Entonces el sistema verificará las credenciales ingresadas y redirigirá a la cuenta personalizada.</p><p>**Escenario 2: Sesión activa**</p><p>- Dado que el usuario ha iniciado sesión en la aplicación.</p><p>- Cuando cierre la aplicación y la vuelva a abrir más tarde.</p><p>- Entonces el sistema mantendrá la sesión activa.</p><p>**Escenario 3: Sesión no activa**</p><p>- Dado que el usuario ha cerrado sesión en la aplicación.</p><p>- Cuando vuelva a abrir la aplicación después de un período de inactividad.</p><p>- Entonces el sistema mostrara la pantalla de inicio de sesión.</p>|E06|
 |US31|Cerrar Sesión|<p>Como usuario de la quiero poder cerrar sesión en mi cuenta para asegurarme de que nadie más pueda acceder a mi información personal y proteger mi privacidad.</p>|<p>**- Escenario 1: Cerrar sesión**</p><p>- Dado que el usuario desea cerrar sesión</p><p>- Cuando selecciona la opción de cerrar sesión </p><p>- Entonces el sistema cerrará la sesión actual </p><p></p><p></p>|E06|
 |US32|Elegir plan de suscripción|Como cliente, quiero elegir un plan de suscripción que se adapte a mis necesidades, para acceder a las funcionalidades necesarias para mí.|<p>**Escenario 1: Elección de plan de suscripción exitosa**</p><p></p><p>- Dado que el cliente está en la página de planes</p><p></p><p>- Cuando seleccione un plan de suscripción e ingrese los datos de pago y sea valida</p><p>-Entonces la plataforma asignará el tipo de suscripción a la cuenta</p><p></p><p>**Escenario 2: Elección de plan de suscripción fallida**</p><p></p><p>- Dado que el cliente está en la página de planes</p><p></p><p>- Cuando seleccione un plan de suscripción e ingrese los datos de pago y sea invalida</p><p></p><p>-Entonces la plataforma no asignará el plan de suscripción elegido y se mostrará el mensaje de error.</p><p></p>|E06|
@@ -1236,7 +1261,7 @@ Landing Page:
 
 Title: Car Help
 
-Description: Car Help - DriveSmart Oficial Landing Page
+Description: Car Help - DriveSmart Official Landing Page
 
 Keywords: Inventory,workshops,service,mechanics,tracking.
 
@@ -1355,7 +1380,7 @@ Ingresar stock
 Supervisar stock
 <img src="images/WAW20.png" alt="Web_Applications_Wireframes" width="50%"></p></td>
 
-Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1]()
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1](https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1)
 
 ### 4.4.2. Web Applications Wireframes Diagrams	
 
@@ -1390,7 +1415,7 @@ User goal 10: Como Administradores de Automotrices quiero poder agregar vehiculo
 <img src="images/WAWD19.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 11: Como Administradores de Automotrices quiero contar con una zona de ayuda disponible para resolver problemas que puedan surgir .
 <img src="images/WAWD20.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
-User goal 12: Como Administradores de Automotrices quiero que se me notifique en caso el stock se encuentre reducidopara poder tomar medidas preventivas y asegurar un suministro adecuado.
+User goal 12: Como Administradores de Automotrices quiero que se me notifique en caso el stock se encuentre reducido para poder tomar medidas preventivas y asegurar un suministro adecuado.
 <img src="images/WAWD21.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 User goal 13: Como Administradores de Automotrices quiero poder supervisar el stock del inventario para mantener un control preciso de la disponibilidad.
 <img src="images/WAWD24.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
@@ -1412,7 +1437,7 @@ User goal 16: Como Administradores de Automotrices quiero agregar nuevos product
 <img src="images/WAWD36.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 <img src="images/WAWD37.png" alt="Web_Applications_Wireframes_Diagrams" width="50%"></p></td>
 
-Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1]()
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1](https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=0%3A1&mode=design&t=YSIZybgCyvcRtNXR-1)
 
 ### 4.4.3. Web Applications Mock-ups	
 
@@ -1523,11 +1548,12 @@ Administradores de Taller:
   <img src="images/f26_mocks-up.png" alt="Mocks-up" width="100%">
 </div>
 
-Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1]()
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1](https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1)
+)
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1()
+Figma: [https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1](https://www.figma.com/file/3I4wcXyq1KNZvLvgVgGJpW/Car-Help-Design?type=design&node-id=2%3A18777&mode=design&t=YSIZybgCyvcRtNXR-1)
 
 Propietarios de Vehiculos:
 
@@ -1996,7 +2022,7 @@ Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma re
     <td>US28</td><td>Sección "FAQs"</td><td>TS04</td><td>Implementación de una sección "FAQs"</td><td>Se implementa una sección "FAQs", que muestre respuestas a las preguntas más frecuentes.</td><td>2</td><td>Carlos Guimaraes</td><td>Done</td>
   </tr>
   <tr>
-    <td>US29</td><td>Sección "Acerca de"</td><td>TS05</td><td>Implementación de una sección "Acerca de"</td><td>Se implementa una sección "Acerca de", que muestre información sobre las Startup y sus integrnates.</td><td>1</td><td>Juan Montes</td><td>Done</td>
+    <td>US29</td><td>Sección "Acerca de"</td><td>TS05</td><td>Implementación de una sección "Acerca de"</td><td>Se implementa una sección "Acerca de", que muestre información sobre las Startup y sus integrantes.</td><td>1</td><td>Juan Montes</td><td>Done</td>
   </tr>
    <tr>
     <td>US01</td><td>Registro en la aplicación</td><td>TS06</td><td>Implementación de un "Registro"</td><td>Se implementa un registro, donde el usuario ponga sus datos y quede registrado dentro de la aplicación.</td><td>2</td><td>Carlos Guimaraes</td><td>To - Do</td>
@@ -2176,7 +2202,7 @@ Carlos Guimaraes: Css Styles, images and fix errors
     <td>US32</td><td>Elegir plan de suscripción</td><td>TS07</td><td>Implementar un plan de sucripción anual</td><td>Se implementa apartado de planes de suscripción anual dentro de la aplicación</td><td>1</td><td>Carlos Guimaraes</td><td>Done</td>
   </tr>
   <tr>
-    <td>US06</td><td>Gestión de servicios y disponibilidad</td><td>TS08</td><td>Implementar apartado para verifica inventario.</td><td>Se implmenta apartado donde se visualiza el stock de la empresa.</td><td>2</td><td>Jorge Altamirano</td><td>Done</td>
+    <td>US06</td><td>Gestión de servicios y disponibilidad</td><td>TS08</td><td>Implementar apartado para verifica inventario.</td><td>Se implementa apartado donde se visualiza el stock de la empresa.</td><td>2</td><td>Jorge Altamirano</td><td>Done</td>
   </tr>
 </table>
 
@@ -2308,7 +2334,7 @@ Link de despligue del frontend: https://aplicacionesweb-drivesmart.github.io/fro
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
-Durante la implementación del frontend, todos los miembros del equipo realizaron commits relacionados con el feature q se le fue designado.
+Durante la implementación del frontend, todos los miembros del equipo realizaron commits relacionados con el feature que se le fue designado.
 
 <img src="images/commits frontend.png" alt="frontend" width="80%">
 
@@ -2382,122 +2408,99 @@ Feature 5 - Jorge Altamirano
 #### 5.2.3.2 Sprint Backlog 3
 
 <p>El principal objetivo de este tercer sprint es lograr completar todos los requisitos que se piden para el Backend. Además, se lleva en simultáneo el Sprint 3 con un archivo en Trello:</p>
-<p>
 
-Sprint Backlog 3
+<table border="1">
+  <tr>
+    <td>Sprint #</td><td colspan="7" align="center">Sprint 3</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">User Story</td><td colspan="6" align="center">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>ID</td><td>Title</td><td>ID</td><td>Title</td><td>Description</td><td>Estimation (Hours)</td><td>Assigned To</td><td>Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td>US13</td><td>Notificaciones Automáticas de Mantenimiento</td><td>TS01</td><td>Diseñar el flujo de notificaciones</td><td>Se diseña el flujo de notificaciones automáticas.</td><td>4</td><td>Backend Developer</td><td>In-Process</td>
+  </tr>
+  <tr>
+    <td>US13</td><td>Notificaciones Automáticas de Mantenimiento</td><td>TS02</td><td>Desarrollar el backend para manejo de notificaciones</td><td>Se desarrolla el backend para gestionar el envío de notificaciones.</td><td>6</td><td>Backend Developer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US13</td><td>Notificaciones Automáticas de Mantenimiento</td><td>TS03</td><td>Integrar el sistema de notificaciones con la base de datos</td><td>Se integra el sistema de notificaciones con la base de datos de usuarios.</td><td>5</td><td>Backend Developer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US13</td><td>Notificaciones Automáticas de Mantenimiento</td><td>TS04</td><td>Pruebas de funcionalidad y usabilidad de notificaciones</td><td>Se realizan pruebas de funcionalidad y usabilidad de las notificaciones.</td><td>3</td><td>QA</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US05</td><td>Mejorar UI de Gestión de Inventarios</td><td>TS05</td><td>Rediseñar la interfaz de la sección de inventarios</td><td>Se rediseña la interfaz de la sección de inventarios.</td><td>4</td><td>UI/UX Designer</td><td>In-Process</td>
+  </tr>
+  <tr>
+    <td>US05</td><td>Mejorar UI de Gestión de Inventarios</td><td>TS06</td><td>Implementar filtros y opciones de búsqueda en la UI de inventarios</td><td>Se implementan filtros y opciones de búsqueda en la UI de inventarios.</td><td>5</td><td>Frontend Developer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US05</td><td>Mejorar UI de Gestión de Inventarios</td><td>TS07</td><td>Pruebas de usabilidad con usuarios</td><td>Se realizan pruebas de usabilidad con usuarios.</td><td>3</td><td>QA</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US25</td><td>Landing Page Informativa</td><td>TS08</td><td>Crear el diseño de la Landing Page</td><td>Se crea el diseño de la Landing Page.</td><td>4</td><td>UI/UX Designer</td><td>In-Process</td>
+  </tr>
+  <tr>
+    <td>US25</td><td>Landing Page Informativa</td><td>TS09</td><td>Implementar el diseño con HTML, CSS y JavaScript</td><td>Se implementa el diseño con HTML, CSS y JavaScript.</td><td>6</td><td>Frontend Developer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US25</td><td>Landing Page Informativa</td><td>TS10</td><td>Incluir secciones como "Características", "FAQs" y "Acerca de"</td><td>Se incluyen secciones como "Características", "FAQs" y "Acerca de".</td><td>5</td><td>Content Writer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US25</td><td>Landing Page Informativa</td><td>TS11</td><td>Pruebas de visualización en diferentes dispositivos y navegadores</td><td>Se realizan pruebas de visualización en diferentes dispositivos y navegadores.</td><td>3</td><td>QA</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US31</td><td>Análisis de Datos y Reportes</td><td>TS12</td><td>Diseñar los reportes que se generarán</td><td>Se diseñan los reportes que se generarán (ventas, inventario, clientes, etc.).</td><td>4</td><td>Backend Developer</td><td>In-Process</td>
+  </tr>
+  <tr>
+    <td>US31</td><td>Análisis de Datos y Reportes</td><td>TS13</td><td>Desarrollar el backend para recopilar y procesar los datos</td><td>Se desarrolla el backend para recopilar y procesar los datos necesarios.</td><td>6</td><td>Backend Developer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US31</td><td>Análisis de Datos y Reportes</td><td>TS14</td><td>Implementar la generación de reportes en formato PDF y Excel</td><td>Se implementa la generación de reportes en formato PDF y Excel.</td><td>5</td><td>Backend Developer</td><td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US31</td><td>Análisis de Datos y Reportes</td><td>TS15</td><td>Pruebas de generación y exportación de reportes</td><td>Se realizan pruebas de generación y exportación de reportes.</td><td>3</td><td>QA</td><td>To-Do</td>
+  </tr>
+</table>
 
-Duración del Sprint: 2 semanas (del 15 de junio al 29 de junio)
+<h3>Definición de Hecho (DoD):</h3>
+<ul>
+  <li>Cada tarea debe pasar por revisión de código.</li>
+  <li>Las funcionalidades deben ser testeadas y validadas.</li>
+  <li>La UI debe ser aprobada por el equipo de diseño.</li>
+  <li>La documentación de las nuevas funcionalidades debe ser actualizada.</li>
+</ul>
 
-Objetivos del Sprint:
-
-Implementar la funcionalidad de notificaciones automáticas.
-
-Mejorar la interfaz de usuario (UI) para la sección de gestión de inventarios.
-
-Integrar la función de análisis de datos para generar reportes.
-
-Historias de Usuario:
-
-US13: Notificaciones Automáticas de Mantenimiento
-
-Como usuario, quiero recibir notificaciones automáticas sobre el estado de mis vehículos, incluyendo recordatorios de mantenimiento y alertas de posibles problemas mecánicos.
-
-US20: Registrar Nuevo Cliente
-
-Como gerente del taller, quiero poder crear una cuenta, modificar y eliminar los datos de los clientes, para poder actualizar la información de nuestros clientes y agregar nuevos.
-
-US25: Landing Page Informativa
-
-Como usuario, quiero acceder a una Landing Page que brinde información detallada sobre la aplicación y sus características.
-
-US31: Análisis de Datos y Reportes
-
-Como gerente del taller, quiero que la aplicación pueda generar reportes de análisis de datos para poder tomar decisiones informadas sobre la gestión de mi taller.
-Tareas:
-
-Implementar Notificaciones Automáticas (US13)
-
-Diseñar el flujo de notificaciones.
-
-Desarrollar el backend para manejar el envío de notificaciones.
-
-Integrar el sistema de notificaciones con la base de datos de usuarios.
-
-
-Pruebas de funcionalidad y usabilidad de las notificaciones.
-
-Mejorar UI de Gestión de Inventarios (Parte de US05)
-
-Rediseñar la interfaz de la sección de inventarios.
-
-Implementar filtros y opciones de búsqueda en la UI de inventarios.
-
-Realizar pruebas de usabilidad con usuarios.
-
-Desarrollar Landing Page Informativa (US25)
-
-Crear el diseño de la Landing Page.
-
-Implementar el diseño con HTML, CSS y JavaScript.
-
-Incluir secciones como "Características", "FAQs" y "Acerca de".
-
-Pruebas de visualización en diferentes dispositivos y navegadores.
-
-Integrar Análisis de Datos y Reportes (US31)
-
-Diseñar los reportes que se generarán (ventas, inventario, clientes, etc.).
-
-Desarrollar el backend para recopilar y procesar los datos necesarios.
-
-Implementar la generación de reportes en formato PDF y Excel.
-
-Pruebas de generación y exportación de reportes.
-
-Definición de Hecho (DoD):
-
-Cada tarea debe pasar por revisión de código.
-
-Las funcionalidades deben ser testeadas y validadas.
-
-La UI debe ser aprobada por el equipo de diseño.
-
-La documentación de las nuevas funcionalidades debe ser actualizada.
-
-Asignaciones:
-
-Implementar Notificaciones Automáticas (US13)
-
-Desarrollador Backend: Implementar lógica de notificaciones.
-
-Desarrollador Frontend: Integrar notificaciones en la UI.
-
-QA: Pruebas de usabilidad y funcionalidad.
-
-Mejorar UI de Gestión de Inventarios (Parte de US05)
-
-Diseñador UI/UX: Rediseñar la interfaz de inventarios.
-
-Desarrollador Frontend: Implementar el nuevo diseño.
-
-QA: Pruebas de usabilidad.
-
-Desarrollar Landing Page Informativa (US25)
-
-Desarrollador Frontend: Crear y ajustar el diseño.
-
-Content Writer: Redactar contenido informativo.
-
-QA: Pruebas de visualización y funcionalidad.
-
-Integrar Análisis de Datos y Reportes (US31)
-
-Desarrollador Backend: Procesamiento y generación de reportes.
-
-Desarrollador Frontend: Integración de interfaz de reportes.
-
-QA: Validación y pruebas de exportación de reportes.
-
+<h3>Asignaciones:</h3>
+<ul>
+  <li><strong>Implementar Notificaciones Automáticas (US13)</strong></li>
+  <ul>
+    <li>Desarrollador Backend: Implementar lógica de notificaciones.</li>
+    <li>Desarrollador Frontend: Integrar notificaciones en la UI.</li>
+    <li>QA: Pruebas de usabilidad y funcionalidad.</li>
+  </ul>
+  <li><strong>Mejorar UI de Gestión de Inventarios (Parte de US05)</strong></li>
+  <ul>
+    <li>Diseñador UI/UX: Rediseñar la interfaz de inventarios.</li>
+    <li>Desarrollador Frontend: Implementar el nuevo diseño.</li>
+    <li>QA: Pruebas de usabilidad.</li>
+  </ul>
+  <li><strong>Desarrollar Landing Page Informativa (US25)</strong></li>
+  <ul>
+    <li>Desarrollador Frontend: Crear y ajustar el diseño.</li>
+    <li>Content Writer: Redactar contenido informativo.</li>
+    <li>QA: Pruebas de visualización y funcionalidad.</li>
+  </ul>
+  <li><strong>Integrar Análisis de Datos y Reportes (US31)</strong></li>
+  <ul>
+    <li>Desarrollador Backend: Procesamiento y generación de reportes.</li>
+    <li>Desarrollador Frontend: Integración de interfaz de reportes.</li>
+    <li>QA: Validación y pruebas de exportación de reportes.</li>
+  </ul>
+</ul>
 
 #### 5.2.3.3 Development Evidence for Sprint Review 
 
@@ -2549,9 +2552,8 @@ Swagger acerca de Bounded context 3 - Workshop-Miantenance
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review
 
 Para el desarrollo de este tercer Sprint, se llevo acabo la implementacion del Frontend y Backend, permitiendo la edicion de la informacion perteneciente a la base de datos.
-Video demostracion backend:
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaXRaY95deVNq2YCIpOCo4wBmD1hGGvTTJ5W0jstY5Pv1w?e=8qbX13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video demostracion backend:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaXRaY95deVNq2YCIpOCo4wBmD1hGGvTTJ5W0jstY5Pv1w?e=8qbX13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaXRaY95deVNq2YCIpOCo4wBmD1hGGvTTJ5W0jstY5Pv1w?e=8qbX13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review
 
@@ -2560,7 +2562,7 @@ Después de completar los commits y lanzar la versión de este sprint, procedemo
 <img src="images/backend.png" alt="Backend" width="100%">
 
 
-Link del despliegue: ()
+Link del despliegue: [https://webapp-240625212022.azurewebsites.net/swagger/index.html](https://webapp-240625212022.azurewebsites.net/swagger/index.html)
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint
 
@@ -2568,9 +2570,7 @@ Durante la implementación del Backend, todos los miembros del equipo realizaron
 
 <img src="images/commits backend.png" alt="backend" width="80%">
 
-Nos dividimos de la siguiente forma para trabajar en el Landing Page:
-
-Nos dividimos de la siguiente forma para trabajar en el frontend:
+Nos dividimos de la siguiente forma para trabajar en el backend:
 
 Bounded context 1 y 3 - User/Invoices - Manuel Zumaeta
 
@@ -2584,6 +2584,181 @@ Bounded context 3 - Vehicle/Maintenance - Jorge Altamirano
 
 <img src="images/history backend.png" alt="Commits backend" width="30%">
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1.Sprint Planning 4.
+<p>Se planeó el tercer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
+
+<table border="1">
+  <tr>
+    <th>Sprint #</th><th>Sprint 4</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td>Date</td><td>2024-06-18</td>
+  </tr>
+  <tr>
+    <td>Time</td><td>9:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td><td>Virtual</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td><td>Carlos Eduardo Guimaraes Escalante</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>
+      <p>De la Piedra Quintanilla, Erwin Miquel</p>
+      <p>Gutierrez Zumaeta, Manuel Alonso</p>
+      <p>Montes Figueroa, Juan Eduardo</p>
+      <p>Guimaraes Escalante, Carlos Eduardo</p>
+      <p>Altamirano Saenz, Jorge Armando</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Sprint n - 1 Review Summary</td><td>Sprint 3</td>
+  </tr>
+  <tr>
+    <td>Sprint n - 1 Retrospective Summary</td><td>Sprint 3</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint 4 Goal</td><td>Realzación del Backend</td>
+  </tr>
+  <tr>
+    <td>Sprint 4 Velocity	</td><td>19</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points	</td><td>19</td>
+  </tr>
+</table>
+
+#### 5.2.4.2.Sprint Backlog 4.
+
+#### 5.2.4.3.Development Evidence for Sprint Review.
+
+Se realizaron los avances con los commits correspondientes en el repositorio de la siguiente forma.
+
+| Repository                                | Branch           | Commit Id | Commit Message                                       | Commit Message Body                                        | Commited on (Date) |
+|-------------------------------------------|------------------|-----------|------------------------------------------------------|-----------------------------------------------------------|---------------------|
+| AplicacionesWeb-DriveSmart/frontend-carhelp|master|6f80fa3|feat: deploy|The configuration for deploy were added|22/06/2024|
+| AplicacionesWeb-DriveSmart/backed-carhelp|feature/maintenance|9f0f49e|feat: updated AppDbContext.cs and Program.cs| Fixed some validation on backend | 20/06/2024|
+| AplicacionesWeb-DriveSmart/backend-carhelp |deploy|d2b9bce|Merge pull request #26 from AplicacionesWeb-DriveSmart/main| Pull request for merge in deploy root | 23/06/2024|
+
+#### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+
+Se realizaron los acceptance tests para las historias de usuario trabajadas y se registraron en el repositorio de la siguiente forma.
+
+URL de repositorio: [https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests](https://github.com/AplicacionesWeb-DriveSmart/Acceptance_Tests)
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|e6f7c7d|<p>feat: Added Acceptance_Test US25</p><p></p>|Added Acceptance_Test US25|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8eac1a9|feat: Added Acceptance_Test US26|Added Acceptance_Test US26|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|0a2fbba|feat: Added Acceptance_Test US27|Added Acceptance_Test US27|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|8526710|feat: Added Acceptance_Test US28|Added Acceptance_Test US28|14/04/2024|
+|AplicacionesWeb-DriveSmart/Acceptance_Tests|main|fec1484|feat: Added Acceptance_Test US29|Added Acceptance_Test US29|14/04/2024|
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+
+Para el desarrollo de este cuarto Sprint, se llevo acabo la implementacion del Frontend y Backend, permitiendo la edicion de la informacion perteneciente a la base de datos.
+
+Video demostracion backend:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaXRaY95deVNq2YCIpOCo4wBmD1hGGvTTJ5W0jstY5Pv1w?e=8qbX13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaXRaY95deVNq2YCIpOCo4wBmD1hGGvTTJ5W0jstY5Pv1w?e=8qbX13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+Para este sprint, hemos implementado mejora de nuestra backend, para nuestro proyecto con la totalidad de
+endpoints para el correcto funcionamiento de nuestra aplicación.
+
+Enlance del repositorio: [https://github.com/AplicacionesWeb-DriveSmart/backend-carhelp](https://github.com/AplicacionesWeb-DriveSmart/backend-carhelp)
+
+| Método | Endpoint (https://webapp-240625212022.azurewebsites.net) | Descripción |
+|--------|----------------------------------------------------------|-------------|
+| POST   | /api/v1/advertising                                       | Se crea un nuevo aviso |
+| POST   | /api/v1/customer                                          | Se crea un nuevo cliente |
+| POST   | /api/v1/invoice                                           | Se crea una nueva factura |
+| POST   | /api/v1/notification                                      | Se crea una nueva notificación |
+| POST   | /api/v1/product                                           | Se crea un nuevo producto |
+| POST   | /api/v1/user                                              | Se crea un nuevo usuario |
+| POST   | /api/v1/vehicle                                           | Se crea un nuevo vehículo |
+| POST   | /api/v1/workshop                                          | Se crea una nueva automotriz |
+| POST   | /api/v1/maintenance                                       | Se crea un nuevo mantenimiento |
+| POST   | /api/v1/history                                           | Se crea un nuevo historial |
+| GET    | /api/v1/advertising                                       | Se obtiene la lista de aviso |
+| GET    | /api/v1/customer                                          | Se obtiene la lista de cliente |
+| GET    | /api/v1/invoice                                           | Se obtiene la lista de factura |
+| GET    | /api/v1/notification                                      | Se obtiene la lista de notificación |
+| GET    | /api/v1/product                                           | Se obtiene la lista de producto |
+| GET    | /api/v1/user                                              | Se obtiene la lista de usuario |
+| GET    | /api/v1/vehicle                                           | Se obtiene la lista de vehículo |
+| GET    | /api/v1/workshop                                          | Se obtiene la lista de automotriz |
+| GET    | /api/v1/maintenance                                       | Se obtiene la lista de mantenimiento |
+| GET    | /api/v1/history                                           | Se obtiene la lista de historiales |
+| GET    | /api/v1/advertising/{id}                                  | Se obtiene un aviso por ID |
+| GET    | /api/v1/customer/{id}                                     | Se obtiene un cliente por ID |
+| GET    | /api/v1/invoice/{id}                                      | Se obtiene una factura por ID |
+| GET    | /api/v1/notification/{id}                                 | Se obtiene una notificación por ID |
+| GET    | /api/v1/product/{id}                                      | Se obtiene un producto por ID |
+| GET    | /api/v1/user/{id}                                         | Se obtiene un usuario por ID |
+| GET    | /api/v1/vehicle/{id}                                      | Se obtiene un vehículo por ID |
+| GET    | /api/v1/workshop/{id}                                     | Se obtiene una automotriz por ID |
+| GET    | /api/v1/maintenance/{id}                                  | Se obtiene un mantenimiento por ID |
+| GET    | /api/v1/history/{id}                                      | Se obtiene un historial por ID |
+| DELETE | /api/v1/customer/{id}                                     | Se elimina un cliente por ID |
+| DELETE | /api/v1/invoice/{id}                                      | Se elimina una factura por ID |
+| DELETE | /api/v1/notification/{id}                                 | Se elimina una notificación por ID |
+| DELETE | /api/v1/user/{id}                                         | Se elimina un usuario por ID |
+| DELETE | /api/v1/vehicle/{id}                                      | Se elimina un vehículo por ID |
+| DELETE | /api/v1/workshop/{id}                                     | Se elimina una automotriz por ID |
+| DELETE | /api/v1/maintenance/{id}                                  | Se elimina un mantenimiento por ID |
+| DELETE | /api/v1/history/{id}                                      | Se elimina un historial por ID |
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+Para el despliegue de nuestro backend, se utilizo Azure, para esto se selecciono el proyecto y se utilizo la opcion publish.
+
+<img src="images/deploy backend 1.png" alt="Deploy Backend" width="80%">
+
+Luego se selecciono create a new web app y finalmente run.
+
+Para comprobar el correcto deploy, se accedio a:
+[https://webapp-240625212022.azurewebsites.net/swagger/index.html](https://webapp-240625212022.azurewebsites.net/swagger/index.html)
+
+<img src="images/deploy backend 2.png" alt="Deploy Backend" width="80%">
+
+Para el despliegue de nuestro frontend, se utilizo Github pages, para esto se accedio a la opcion settings de mismo github para realizar el dezpliegue.
+
+<img src="images/deploy frontend 1.png" alt="Deploy Backend" width="80%">
+
+Para comprobar el correcto deploy se accedio a:
+[https://aplicacionesweb-drivesmart.github.io/frontend-carhelp/home](https://aplicacionesweb-drivesmart.github.io/frontend-carhelp/home)
+
+<img src="images/deploy frontend 2.png" alt="Deploy Backend" width="80%">
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+Durante el despliegue del Backend, Frontend y el enlace de estos, todos los miembros del equipo realizaron commits relacionados con la rama de características en la que estaban trabajando.
+
+<img src="images/commits backend 2.png" alt="backend" width="80%">
+
+Nos dividimos de la siguiente forma para trabajar en las mejoras del trabajo:
+
+Correcciones del backend enfocados al bounded context 3 - Manuel Zumaeta
+
+Correcciones del backend enfocados al bounded context 3 - Carlos Guimaraes
+
+Despliegue de backend y frontend - Miquel De la Piedra
+
+Correcciones del backend enfocados al bounded context 2 - Juan Figueroa
+
+Correcciones del backend enfocados a la creacion de usuario - Jorge Altamirano
+
+<img src="images/history backend 2.png" alt="Commits backend" width="30%">
 
 
 ## 5.3. Validation Interviews	
@@ -2637,7 +2812,7 @@ Recuperación de cuenta
 
 ## 5.4 Video About-the-Product
 
-Link del video acerca del producto: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Ed0COTCb91pJpQOwB1EOx6UBBvMLnLNwD3SaxJOKA65wKg?e=vXPRn6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link del video acerca del producto: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Ed0COTCb91pJpQOwB1EOx6UBBvMLnLNwD3SaxJOKA65wKg?e=vXPRn6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Ed0COTCb91pJpQOwB1EOx6UBBvMLnLNwD3SaxJOKA65wKg?e=vXPRn6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Conclusiones	
 
@@ -2667,4 +2842,8 @@ Exposición TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_up
 
 Exposición frontend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/ERR4I-cE_71Kqx16AcsYPYoB7vmu3y2QVlkmR_VmQIMIVw?e=vuJ9Hf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+Exposicion frontend/backend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaXRaY95deVNq2YCIpOCo4wBmD1hGGvTTJ5W0jstY5Pv1w?e=8qbX13&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 Exposición about the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Ed0COTCb91pJpQOwB1EOx6UBBvMLnLNwD3SaxJOKA65wKg?e=vXPRn6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Exposición about the team: 
